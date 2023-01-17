@@ -5,9 +5,6 @@
 # Codes for Visualization and Analysis
 The notebook can be found at this location: https://github.com/vandavilli/BH-PCMLAI/blob/main/prompt.ipynb
 
-A summary of the main findings from this analysis is included below.
-
 # Summary
-
 
 # Recommendations and Next Steps
