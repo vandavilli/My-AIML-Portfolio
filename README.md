@@ -26,4 +26,6 @@ After studying the acceptance rates for **CarryOut & Takeaway Coupons**, here ar
 - Based on the demographic analysis, single male (30.9%) & a married female (30.1) driver seem to have a higher probablity of accepting a carryout coupon.
 
 # Recommendations and Next Steps
-Based on the above coupon analysis, it is evident that Carry Coupons have a better acceptance rate over Bar Coupons. Hence, my recommendation would be target CarryOut & Takeaway Coupons. The target drivers would be the ones who drive ==alone==, typically to work & back home and are either single males or married females. 
+Based on the above coupon analysis, it is evident that CarryOut & Takeaway Coupons have a better acceptance rate than Bar Coupons. Hence, I recommend first targeting drivers with CarryOut & Takeaway Coupons. The target drivers would be the ones who drive alone, typically to work & back home, and are either single males or married females. These coupons should be presented either during the morning work commute or while returning home for a higher acceptance rate.  
+
+The target drivers for a higher Bar Coupon acceptance rate will be drivers who are over the age of 25 & are driving with a companion ( but NO kids ). Also, I recommend that we present Bar Coupons to drivers with a higher income ( > 50k ).
