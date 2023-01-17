@@ -10,14 +10,14 @@ In order to study and present some of the data analysis and cleaning techniques,
 The notebook can be found at this location: https://github.com/vandavilli/BH-PCMLAI/blob/main/prompt.ipynb
 
 # Summary
-After studying the acceptance rates for Bar Coupons, here are some of my findings:
+After studying the acceptance rates for **Bar Coupons**, here are some of my findings:
 - Bar Coupons have an average acceptance rate of 41% which is neither too low or too high. 
 - Some of the factors that drive a better acceptance rates include
   1. Age of the drivers likely to be over 30.
   2. Drivers who ride with no kids
 - Occupation or Marital Status don't seem to have any significant impact on coupon acceptance.
 
-After studying the acceptance rates for CarryOut & Takeaway Coupons, here are some of my findings:
+After studying the acceptance rates for **CarryOut & Takeaway Coupons**, here are some of my findings:
 - CarryOut coupons have a higher acceptance rate ( 73% ) as compared to Bar Coupons
 - Some of the factors that drive a better acceptance rates include
   1. Drivers have taken a carry out atleast once in a month
