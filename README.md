@@ -26,3 +26,4 @@ After studying the acceptance rates for **CarryOut & Takeaway Coupons**, here ar
 - Based on the demographic analysis, single male (30.9%) & a married female (30.1) driver seem to have a higher probablity of accepting a carryout coupon.
 
 # Recommendations and Next Steps
+### Which drivers should be targeted for coffee house coupons based on attributes associated with higher acceptance rates?
