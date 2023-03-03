@@ -68,7 +68,7 @@ Degree 2 polynomial with the top 6 features identified produced the following re
 
 | LR Type     | TRAIN MSE | Test MSE     |
 | :---        |    :----:   |          ---: |
-| <span style="color: red;">LR ( degree =2 )</span>  | 66300546.84        | 72068495.72      |
+| LR ( degree =2 )  | 66300546.84        | 72068495.72      |
 | Ridge ( degree =2 )    | 66300547.22        | 72068615.15      |
 | LASSO ( degree =2 )    | 68705604.07        | 74851193.62     |
 
@@ -79,7 +79,18 @@ _Observations:_
    - model & transmission have positive correlation
 
 ## Evaluation
-... some text goes here
+Based on the above scores, the best performing model is a degree 2 linear regression model producing a test MSE of 72068495.72. Permutation Feature Importance with best performing model produced the following results:
+
+| Variables     | Score | 
+| :---        |    ----:   |
+| model  | 0.595140        |
+| year    | 0.092802        | 
+| odometer    | 0.058063        | 
+| drive    | 0.021898        | 
+| transmission    | 0.020292        | 
+| type    | 0.017435        | 
+
+
 
 ## Deployment
 ... some text goes here
