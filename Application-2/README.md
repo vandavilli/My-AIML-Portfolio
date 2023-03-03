@@ -42,7 +42,28 @@ I decided to drop fuel & title_status instead of replacing them using simple imp
 Another observation was filtering out rows with "only parts" listed in the parts_only feature. With all the data cleaning tasks completed, the data lost was close to 10%, which was an acceptable loss & would not have impacted the accuracy of my prediction.
 
 ## Modeling
-... some text goes here
+The first step in my supervised learning model was to develop a series of linear regression models, starting with the simplest and gradually zeroing in on techniques to help narrow down my list of features that would help predict a used car. As part of my model evaluation, I kept computing the RMSE values on the test dataset at every stage. The idea here was to pick a Linear Regression technique that produced the least MSE score & then decide on the features that created such a score. Those are my recommendations to the dealership. To proceed with the linear regression modeling, the data had to be first encoded & I chose a JamesStien encoder to encode the categorical data & a standard scaler to scale the data before presenting it to the linear regression model using a Sklearn pipeline object. 
+
+Below are the Linear Regression techniques along with the train & test MSE scores:
+
+| LR Type     | TRAIN MSE | Test MSE     |
+| :---        |    :----:   |          ---: |
+| Simple LR ( all features )      | 69658567.49       | 75504875.81   |
+| Ridge Regression ( best alpha eq 10 )   | 69658567.63        | 75504662.48      |
+| LASSO    | 69658578.85        | 75505613.41      |
+| SFS ( LR )   | 70350171.77        | 76482069.99      |
+| LR ( degree =3 )   | 58241041.28        | 63507035.4      |
+| Ridge ( degree =3 )    | 58968606.56        | 64298510.42      |
+| LASSO ( degree =3 )    | 63621387.25        | 69294973.4     |
+
+All the above models listed similar features & the key takeaway was the negative correlation of price to odometer & transmission, which was logical. Condition also showed up as a negative but i decided to drop this feature because of the nature of the used-car business and also having the year feature pretty much helped bring out its relationship with condition ( newer cars will be closer to 2022 ) 
+
+LASSO regression returned all the features ( with varying coeffients ) & also had a better score. The top 6 features for LASSO coorelated with SFS.
+LASSO top 6 features:
+_model, odometer, year, transmission, type, drive_
+
+Sequential Feature Selector returned the following as the best features:
+_year, model, odometer, transmission, drive & type_
 
 ## Evaluation
 ... some text goes here
