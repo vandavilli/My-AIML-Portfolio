@@ -4,6 +4,9 @@ The goal of the application was to use the techniques learned thus far to develo
 My jupyter notebook link @ https://github.com/vandavilli/BH-PCMLAI/edit/main/Application-2/README.md.
 
 # CRISP-DM Framework
+<center>
+    <img src = images/crisp.png width = 50%/>
+</center>
 
 ## Business Understanding
 The primary business objective of a  used-car dealership is to ensure quick rotation of the vehicles; hence, the focus is to identify features that help them to do so. It becomes essential to pick a dataset with high variability ( rich set of "appropriate" features ) to provide such recommendations. For this analysis, I have attempted to model a linear regression model to help bring out the 5 most essential features that make used cars saleable. 
