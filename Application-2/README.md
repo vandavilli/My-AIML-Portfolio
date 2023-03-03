@@ -82,7 +82,7 @@ _Observations:_
    - model & transmission have positive correlation
 
 ## Evaluation
-Based on the above scores, the best performing model is a degree 2 linear regression model producing a test MSE of 72068495.72. Permutation Feature Importance with best performing model produced the following results:
+Based on the above scores, the best performing model is a degree 2 linear regression model producing a test MSE of **8489.32**. Permutation Feature Importance with best performing model produced the following results:
 
 | Variables     | Score | 
 | :---        |    ----:   |
