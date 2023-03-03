@@ -64,11 +64,19 @@ _year, model, odometer, transmission, drive & type_
 
 ### Exploring higher order polyomials with the identifed features
 
+Degree 2 polynomial with the top 6 features identified produced the following results:
+
 | LR Type     | TRAIN MSE | Test MSE     |
 | :---        |    :----:   |          ---: |
-| LR ( degree =3 )   | 66300546.84        | 72068495.72      |
-| Ridge ( degree =3 )    | 58968606.56        | 64298510.42      |
-| LASSO ( degree =3 )    | 63621387.25        | 69294973.4     |
+| LR ( degree =2 )   | 66300546.84        | 72068495.72      |
+| Ridge ( degree =2 )    | 66300547.22        | 72068615.15      |
+| LASSO ( degree =2 )    | 68705604.07        | 74851193.62     |
+
+_Observations:_
+1. alpha changed from 10 to 0.001 - simple ridge regression vs ridge with degree 2 polynomial & the test MSE is getting better ( though not by a large margin )
+2. LASSO produced coeficient values that provided certain additional insights 
+   - year, odometer, drive, & type had negative correlation
+   - model & transmission have positive correlation
 
 ## Evaluation
 ... some text goes here
