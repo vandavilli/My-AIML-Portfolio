@@ -1,4 +1,6 @@
 # What Drives the Price of a Car?
+![](images/kurt.jpeg)
+
 The goal of the application was to use the techniques learned thus far to develop a model based on a scaled-down version (~450K records) of a Kaggle dataset (with 3 million records). The linear regression model designed would help identify features that make a used car more attractive. Using the recommendations provided below would help dealerships fine-tune their used-car inventory.
 
 My jupyter notebook link @ https://github.com/vandavilli/BH-PCMLAI/edit/main/Application-2/README.md.
