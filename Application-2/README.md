@@ -114,4 +114,3 @@ The jupyter notebook has several Linear Regression models with the associated hy
 <center>
     <img src = images/type.png width = 100%/>
 </center>
- 
