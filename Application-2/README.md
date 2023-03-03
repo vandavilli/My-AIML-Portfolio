@@ -98,7 +98,7 @@ Based on the above scores, the best performing model is a degree 2 linear regres
 The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle. 
 
 ## Deployment
-... some text goes here
+The jupyter notebook has several Linear Regression models with the associated hyperparameters documenting the results. Based on the analysis, the best-fitting model is a degree-2 Linear Regression Model. The data used to develop the model is from a larger dataset of ~3M records. Based on the data refresh strategy, the models can be retrained on a schedule to ensure the accuracy of their predictive capability. As the following steps, a more robust AI/ML platform like AWS SageMaker will help bring additional best practices like MLOps & provide a better infrastructure to train & test the Linear Regression models continuously.
 
 ## Recommendations
 ... some text goes here
