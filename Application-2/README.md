@@ -52,9 +52,6 @@ Below are the Linear Regression techniques along with the train & test MSE score
 | Ridge Regression ( best alpha eq 10 )   | 69658567.63        | 75504662.48      |
 | LASSO    | 69658578.85        | 75505613.41      |
 | SFS ( LR )   | 70350171.77        | 76482069.99      |
-| LR ( degree =3 )   | 58241041.28        | 63507035.4      |
-| Ridge ( degree =3 )    | 58968606.56        | 64298510.42      |
-| LASSO ( degree =3 )    | 63621387.25        | 69294973.4     |
 
 All the above models listed similar features & the key takeaway was the negative correlation of price to odometer & transmission, which was logical. Condition also showed up as a negative but i decided to drop this feature because of the nature of the used-car business and also having the year feature pretty much helped bring out its relationship with condition ( newer cars will be closer to 2022 ) 
 
@@ -64,6 +61,14 @@ _model, odometer, year, transmission, type, drive_
 
 Sequential Feature Selector returned the following as the best features:
 _year, model, odometer, transmission, drive & type_
+
+### Exploring higher order polyomials with the identifed features
+
+| LR Type     | TRAIN MSE | Test MSE     |
+| :---        |    :----:   |          ---: |
+| LR ( degree =3 )   | 58241041.28        | 63507035.4      |
+| Ridge ( degree =3 )    | 58968606.56        | 64298510.42      |
+| LASSO ( degree =3 )    | 63621387.25        | 69294973.4     |
 
 ## Evaluation
 ... some text goes here
