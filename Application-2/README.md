@@ -106,5 +106,5 @@ The jupyter notebook has several Linear Regression models with the associated hy
 1. The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle.
 2. Ford is the most popular manufacturer & the top models amoung the various manufacturers are in the 50k to 60k range
 <center>
-    <img src = images/model.png width = 30%/>
+    <img src = images/model.png width = 100%/>
 </center>
