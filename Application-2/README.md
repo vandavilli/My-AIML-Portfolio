@@ -68,7 +68,7 @@ Degree 2 polynomial with the top 6 features identified produced the following re
 
 | LR Type     | TRAIN MSE | Test MSE     |
 | :---        |    :----:   |          ---: |
-| <span style="color:blue">LR ( degree =2 )</span>   | 66300546.84        | 72068495.72      |
+| **LR ( degree =2 )**   | 66300546.84        | 72068495.72      |
 | Ridge ( degree =2 )    | 66300547.22        | 72068615.15      |
 | LASSO ( degree =2 )    | 68705604.07        | 74851193.62     |
 
