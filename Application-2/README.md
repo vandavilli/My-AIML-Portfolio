@@ -108,6 +108,7 @@ The jupyter notebook has several Linear Regression models with the associated hy
 <center>
     <img src = images/model.png width = 100%/>
 </center>
+
 3. The top 5 manufacturers are Ford, Chevrolet, Toyota, Honda, Jeep & Nissan. The recommendation is to have more of these manufacturers in the inventory
 4. Transmission is a importent feature that affects price, but not by a large amount. Having a mixed balance of automatics vs manual will help move the inventory of vehicles faster.
 5. There is a significant price ranges in the truck category, which could mean that this category of vehicles, if more of these are kept in the inventory, would require close monitoring of its price points. 
