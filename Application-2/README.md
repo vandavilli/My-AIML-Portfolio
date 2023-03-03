@@ -1,4 +1,6 @@
 # What Drives the Price of a Car?
+![](images/kurt.jpeg)
+
 The goal of the application was to use the techniques learned thus far to develop a model based on a scaled-down version (~450K records) of a Kaggle dataset (with 3 million records). The linear regression model designed would help identify features that make a used car more attractive. Using the recommendations provided below would help dealerships fine-tune their used-car inventory.
 
 My jupyter notebook link @ https://github.com/vandavilli/BH-PCMLAI/edit/main/Application-2/README.md.
@@ -82,7 +84,7 @@ _Observations:_
    - model & transmission have positive correlation
 
 ## Evaluation
-Based on the above scores, the best performing model is a degree 2 linear regression model producing a test MSE of 72068495.72. Permutation Feature Importance with best performing model produced the following results:
+Based on the above scores, the best performing model is a degree 2 linear regression model producing a test MSE of **8489.32**. Permutation Feature Importance with best performing model produced the following results:
 
 | Variables     | Score | 
 | :---        |    ----:   |
@@ -93,10 +95,10 @@ Based on the above scores, the best performing model is a degree 2 linear regres
 | transmission    | 0.020292        | 
 | type    | 0.017435        | 
 
-
+The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle. 
 
 ## Deployment
-... some text goes here
+The jupyter notebook has several Linear Regression models with the associated hyperparameters documenting the results. Based on the analysis, the best-fitting model is a degree-2 Linear Regression Model. The data used to develop the model is from a larger dataset of ~3M records. Based on the data refresh strategy, the models can be retrained on a schedule to ensure the accuracy of their predictive capability. As the following steps, a more robust AI/ML platform like AWS SageMaker will help bring additional best practices like MLOps & provide a better infrastructure to train & test the Linear Regression models continuously.
 
 ## Recommendations
 ... some text goes here
