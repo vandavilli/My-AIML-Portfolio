@@ -93,7 +93,7 @@ Based on the above scores, the best performing model is a degree 2 linear regres
 | transmission    | 0.020292        | 
 | type    | 0.017435        | 
 
-
+The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle. 
 
 ## Deployment
 ... some text goes here
