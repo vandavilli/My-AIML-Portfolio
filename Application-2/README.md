@@ -4,7 +4,7 @@
 The goal of the application was to use the techniques learned thus far to develop a model based on a scaled-down version (~450K records) of a Kaggle dataset (with 3 million records). The linear regression model designed would help identify features that make a used car more attractive. Using the recommendations provided below would help dealerships fine-tune their used-car inventory.
 
 Environment:
-1. My jupyter notebook link @ https://github.com/vandavilli/BH-PCMLAI/edit/main/Application-2/README.md.
+1. My jupyter notebook link @ https://github.com/vandavilli/BH-PCMLAI/blob/main/Application-2/practical_app_II_va.ipynb
 2. data.zip contains data in a zip file. Its compressed because of the file size
 3. jupyter note has no outputs because of the file size. 
 4. PDF file of a running note book attached for reference. 
