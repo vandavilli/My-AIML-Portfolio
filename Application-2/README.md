@@ -103,8 +103,15 @@ Based on the above scores, the best performing model is a degree 2 linear regres
 The jupyter notebook has several Linear Regression models with the associated hyperparameters documenting the results. Based on the analysis, the best-fitting model is a degree-2 Linear Regression Model. The data used to develop the model is from a larger dataset of ~3M records. Based on the data refresh strategy, the models can be retrained on a schedule to ensure the accuracy of their predictive capability. As the following steps, a more robust AI/ML platform like AWS SageMaker will help bring additional best practices like MLOps & provide a better infrastructure to train & test the Linear Regression models continuously.
 
 ## Recommendations
-1. The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle.
+1. The results of this modelling exercise consistently bring out **Model & Year** as top feature's that impact the price of the used vehicle. Its intutive to stock the inventory with newer, popular models ( one of which is Ford ). 
 2. Ford is the most popular manufacturer & the top models amoung the various manufacturers are in the 50k to 60k range
 <center>
     <img src = images/model.png width = 100%/>
 </center>
+3. The top 5 manufacturers are Ford, Chevrolet, Toyota, Honda, Jeep & Nissan. The recommendation is to have more of these manufacturers in the inventory.
+4. Transmission is a importent feature that affects price, but not by a large amount. Having a mixed balance of automatics vs manual will help move the inventory of vehicles faster.
+5. There is a significant price ranges in the truck category, which could mean that this category of vehicles, if more of these are kept in the inventory, would require close monitoring of its price points. 
+<center>
+    <img src = images/type.png width = 100%/>
+</center>
+ 
