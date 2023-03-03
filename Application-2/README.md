@@ -66,7 +66,7 @@ _year, model, odometer, transmission, drive & type_
 
 | LR Type     | TRAIN MSE | Test MSE     |
 | :---        |    :----:   |          ---: |
-| LR ( degree =3 )   | 58241041.28        | 63507035.4      |
+| LR ( degree =3 )   | 66300546.84        | 72068495.72      |
 | Ridge ( degree =3 )    | 58968606.56        | 64298510.42      |
 | LASSO ( degree =3 )    | 63621387.25        | 69294973.4     |
 
