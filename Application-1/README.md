@@ -7,7 +7,7 @@ The data used for the data analysis assignment comes from the UCI Machine Learni
 In order to study and present some of the data analysis and cleaning techniques, I have used 2 different coupon types - Bar, Carry out & Take away. The meta data & its description is available inside the notebook. 
 
 # Codes for Visualization and Analysis
-The notebook can be found at this location: https://github.com/vandavilli/BH-PCMLAI/blob/main/prompt.ipynb
+The notebook can be found at this location: https://github.com/vandavilli/BH-PCMLAI/blob/main/Application-1/prompt.ipynb
 
 # Summary
 After studying the acceptance rates for **Bar Coupons**, here are some of my findings:
