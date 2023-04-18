@@ -10,3 +10,4 @@
 - Books & References
   - http://preview.d2l.ai/d2l-en/master/index.html
   - Interpretable ML - (https://christophm.github.io/interpretable-ml-book/)
+- ML Coding ( 100 days of ML Coding ) - https://github.com/Avik-Jain/100-Days-Of-ML-Code
