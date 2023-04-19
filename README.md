@@ -16,3 +16,6 @@
 ### Useful DS Packages for Analysis
 <b>missingno</b>
 - https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009
+
+<b>encoding</b>
+- https://medium.com/mlearning-ai/category-encoders-c2a9bb192f0a
