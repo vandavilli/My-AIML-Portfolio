@@ -11,3 +11,11 @@
   - http://preview.d2l.ai/d2l-en/master/index.html
   - Interpretable ML - (https://christophm.github.io/interpretable-ml-book/)
 - ML Coding ( 100 days of ML Coding ) - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- Choosing best eval metric - (https://towardsdatascience.com/how-to-choose-the-best-evaluation-metric-for-classification-problems-638e845da334)
+
+### Useful DS Packages for Analysis
+<b>missingno</b>
+- https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009
+
+<b>encoding</b>
+- https://medium.com/mlearning-ai/category-encoders-c2a9bb192f0a
