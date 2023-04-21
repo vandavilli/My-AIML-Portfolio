@@ -9,6 +9,10 @@ I have tried to use open source packages from YellowBrick to visualize classific
 The first stage of any modelling is data analysis. I used pandas profiler to generate EDA report ( full report embedded in the note book ). Eg. shown below
 
 <img src='img/1.png'>
+<br>
+<img src='img/2.png'>
+
+The advantage of using pandas profiler is with a few lines of code, a significant amount of analytical data gets generated for easy consumption & distribution. Less code implies more attention towards analysis & presentation of data to the stake holders.
 
 ### Understanding the Task
 
