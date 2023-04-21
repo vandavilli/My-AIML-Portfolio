@@ -27,4 +27,18 @@ The problem required me to use LogisticRegression as a baseline model & the test
 <br>
 <img src='img/3.png'>
 
-### Conclusion & Future Steps
+#### Summary of all the classification results ( defaults with no hyperparameter tuning )
+<br>
+<img src='img/4.png'>
+
+- The results indicate that the best performing classifier is a DecisionTreeClassifier, closely followed by SVM. The differentiator here is the time taken to train the model using SVM is very high.
+
+
+### Improving the model
+
+1 - Using sklearns feature selection, the top 3 features to include in the model:
+- <i>duration</i> ... more the duration the better are the chances to engage the client & successfully sell the product
+- <i>cons.price.idx</i> ... these are socio economic indicators and higher the cons.price index, the better the market conditions to sell a new product
+- <i>euribor3m</i> ... socio economic indicator and also has a high degree of positive correlation
+
+2 - Hyperparameter tuning and grid search
