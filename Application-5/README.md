@@ -30,7 +30,8 @@ The problem required me to use LogisticRegression as a baseline model & the test
 #### Summary of all the classification results ( defaults with no hyperparameter tuning )
 <br>
 <img src='img/4.png'>
-
+<br>
+- The results indicate that the best performing classifier is a DecisionTreeClassifier, closely followed by SVM. The differentiator here is the time taken to train the model using SVM is very high.
 
 
 ### Conclusion & Future Steps
