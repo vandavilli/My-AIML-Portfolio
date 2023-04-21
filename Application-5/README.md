@@ -43,4 +43,6 @@ The problem required me to use LogisticRegression as a baseline model & the test
 - <i>cons.price.idx</i> ... these are socio economic indicators and higher the cons.price index, the better the market conditions to sell a new product
 - <i>euribor3m</i> ... socio economic indicator and also has a high degree of positive correlation
 
-2 - Hyperparameter tuning and grid search
+2 - Hyperparameter tuning and grid search. Although, after rebalancing the class, Accuracy "can" be used as a metric, I also wanted to study the recall measure. Below is the comparison across all the models along with the recall score ( although on balanced dataset )
+<br>
+<img src='img/6.png'>
