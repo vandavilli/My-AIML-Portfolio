@@ -15,12 +15,15 @@ The first stage of any modelling is data analysis. I used pandas profiler to gen
 The advantage of using pandas profiler is with a few lines of code, a significant amount of analytical data gets generated for easy consumption & distribution. Less code implies more attention towards analysis & presentation of data to the stake holders.
 
 ### Understanding the Task
-
+A well-trained ML model's objective is to predict accurately if the customer accepts an attractive long-term deposit application during a direct marketing campaign call. The main idea here is that a effective campaign reduces the marketing cost by X% and acquires Y% of the prospects. The dataset has various attributes ( personal & socio-economic indicators ) which when fed into a well trained model, can help drive better predictions to acquire prospects thereby driving costs down.
 
 ### Training, Testing & Baseline Model
-
+Before presenting the data to machine learning modeling, it went through encoding, transformations & the class imbalance which would have signalled more "No" was eliminated using the standard techniques like dropping features & data that had little impact on the outcome, use LabelEncoders on categorical featurs & SMOTE to handle class imbalance. The next step was to use sklearn's train_test_split to create a training & test datasets.
 
 ### Model Comparisons
+A baseline model is one in which we can always guess the most frequently occurring class. Without using any ML, i did a quick check for the score using the most frequently occuring class. This score came out to be 88.74%. 
 
+The problem required me to use LogisticRegression as a baseline model & the test accuracy score was 86.3% ( close enough !!! )
+<img src='img/3.png'>
 
 ### Conclusion & Future Steps
