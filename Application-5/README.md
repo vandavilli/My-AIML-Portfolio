@@ -37,6 +37,8 @@ The problem required me to use LogisticRegression as a baseline model & the test
 ### Improving the model
 
 1 - Using sklearns feature selection, the top 3 features to include in the model:
+<br>
+<img src='img/5.png'>
 - <i>duration</i> ... more the duration the better are the chances to engage the client & successfully sell the product
 - <i>cons.price.idx</i> ... these are socio economic indicators and higher the cons.price index, the better the market conditions to sell a new product
 - <i>euribor3m</i> ... socio economic indicator and also has a high degree of positive correlation
