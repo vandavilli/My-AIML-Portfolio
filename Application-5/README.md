@@ -46,3 +46,5 @@ The problem required me to use LogisticRegression as a baseline model & the test
 2 - Hyperparameter tuning and grid search. Although, after rebalancing the class, Accuracy "can" be used as a metric, I also wanted to study the recall measure. Below is the comparison across all the models along with the recall score ( although on balanced dataset )
 <br>
 <img src='img/6.png'>
+
+- Here too, the results indicate that the best performing classifier is a DecisionTreeClassifier, closely followed by SVM. The differentiator here is the time taken to train the model using SVM is very high.
