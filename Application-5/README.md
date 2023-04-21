@@ -48,3 +48,16 @@ The problem required me to use LogisticRegression as a baseline model & the test
 <img src='img/6.png'>
 
 - Here too, the results indicate that the best performing classifier is a DecisionTreeClassifier, closely followed by SVM. The differentiator here is the time taken to train the model using SVM is very high.
+
+### Performance Metrics
+<img src='img/7.png'>
+
+### Conclusion:
+Based on the Accuracy & Recall scores ( recall being a more relevant metric ), its clear that the Decision Tree Classifier is performing much better than all the classifiers, with the highest Accuracy score & the recall score. Although SVC performance is good, it loses out in terms of the fit time.
+<img src='img/8.png'>
+
+### Questions
+- Duration is highly corelated with response because a duration of 0s essentually means that the customer has not purchased the product.
+- Using socio - economic indicators in the dataset will help improve model performance and will make predictions more accurate. For e.g. emp.var.rate, cons.price.idx, cons.conf.idx
+- Target campaigns based on marital status & age - for e.g. clients who are married & in-between the ages 30-35 are more responsive to term deposits
+- Day of the week is not a good indicator for making a prediction & hence can be factored out in the dataset.
