@@ -27,4 +27,10 @@ The problem required me to use LogisticRegression as a baseline model & the test
 <br>
 <img src='img/3.png'>
 
+<b>Summary of all the classification results ( defaults with no hyperparameter tuning )</b>
+<br>
+<img src='img/4.png'>
+
+
+
 ### Conclusion & Future Steps
