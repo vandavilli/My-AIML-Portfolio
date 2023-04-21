@@ -24,6 +24,7 @@ Before presenting the data to machine learning modeling, it went through encodin
 A baseline model is one in which we can always guess the most frequently occurring class. Without using any ML, i did a quick check for the score using the most frequently occuring class. This score came out to be 88.74%. 
 
 The problem required me to use LogisticRegression as a baseline model & the test accuracy score was 86.3% ( close enough !!! )
+<br>
 <img src='img/3.png'>
 
 ### Conclusion & Future Steps
