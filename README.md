@@ -19,3 +19,6 @@
 
 <b>encoding</b>
 - https://medium.com/mlearning-ai/category-encoders-c2a9bb192f0a
+
+
+### Medium Articles
