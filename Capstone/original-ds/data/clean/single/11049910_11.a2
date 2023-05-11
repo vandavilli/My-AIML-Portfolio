@@ -1,0 +1,4 @@
+T8	Adverse_event 63 72	increased
+T13	Combination 107 120	together with
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T12 arg2:T11

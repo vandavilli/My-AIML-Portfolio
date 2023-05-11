@@ -1,0 +1,4 @@
+T15	Potential_therapeutic_event 27 36	treatment
+T19	Combination 121 129	combined
+E1	Potential_therapeutic_event:T15 
+E2	Combination:T19 arg:T13 arg2:T16 arg3:T17 arg4:T18

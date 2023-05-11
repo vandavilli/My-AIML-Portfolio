@@ -1,0 +1,5 @@
+T7	Effect 15 40	massive pulmonary embolus
+T9	Treatment 82 94	thrombolytic
+T10	Drug 82 94	thrombolytic
+T11	Treat-Disorder 107 129	deep venous thrombosis
+T12	Severity_cue 68 73	major

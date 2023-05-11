@@ -1,0 +1,10 @@
+T14	Treatment 29 37;136 171	warfarin after the initiation of tolterodine
+T15	Population 0 3	Two
+T12	Sub-Disorder 42 60	stroke prophylaxis
+T16	Sub-Disorder 81 108	chronic atrial fibrillation
+T11	Subject 0 12	Two patients
+T17	Drug 29 37	warfarin
+T20	Drug 160 171	tolterodine
+T21	Treat-Disorder 176 193	urinary disorders
+T22	Time_elapsed 136 156	after the initiation
+T19	Effect 120 135	adverse effects

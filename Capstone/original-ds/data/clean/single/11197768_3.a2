@@ -1,0 +1,4 @@
+T8	Adverse_event 13 15	of
+T12	Combination 48 56	mixtures
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T13 arg2:T14

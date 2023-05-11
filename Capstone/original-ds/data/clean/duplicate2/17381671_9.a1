@@ -1,0 +1,7 @@
+T29	Subject 16 35	65-year-old patient
+T32	Effect 132 210	confusion, agitation, tachycardia, tremors, myoclonic jerks and unsteady gait,
+T34	Treatment 36 121;271 279	chronically treated with the selective serotonin reuptake inhibitor (SSRI) citalopram fentanyl
+T30	Age 16 27	65-year-old
+T33	Drug 271 279	fentanyl
+T35	Drug 111 121	citalopram
+T36	Freq 36 47	chronically

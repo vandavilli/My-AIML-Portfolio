@@ -1,0 +1,5 @@
+T7	Adverse_event 28 34	caused
+T12	Adverse_event 63 69	caused
+E1	Adverse_event:T7 arg:T5 arg2:T6
+E2	Adverse_event:T12 arg:T11 arg2:T13
+A1	Speculated E1

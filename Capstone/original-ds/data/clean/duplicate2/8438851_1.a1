@@ -1,0 +1,7 @@
+T4	Treatment 105 151	continuous intravenous infusion of vasopressin
+T5	Subject 0 49	A patient with acute esophageal variceal bleeding
+T6	Effect 60 80	fatal rhabdomyolysis
+T8	Severity_cue 60 65	fatal
+T9	Route 105 136	continuous intravenous infusion
+T10	Drug 140 151	vasopressin
+T11	Treat-Disorder 15 49	acute esophageal variceal bleeding

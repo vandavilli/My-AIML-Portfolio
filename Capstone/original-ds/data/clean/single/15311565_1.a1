@@ -1,0 +1,4 @@
+T3	Treatment 52 64	thrombolysis
+T5	Effect 165 196	fatal intracerebral haemorrhage
+T6	Drug 52 64	thrombolysis
+T7	Severity_cue 165 170	fatal

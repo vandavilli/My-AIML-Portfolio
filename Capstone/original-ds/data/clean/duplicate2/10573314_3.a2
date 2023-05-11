@@ -1,0 +1,4 @@
+T13	Adverse_event 110 119	developed
+T23	Combination 19 28	receiving
+E1	Adverse_event:T13 
+E2	Combination:T23 arg:T17 arg2:T20

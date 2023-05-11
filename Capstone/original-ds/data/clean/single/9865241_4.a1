@@ -1,0 +1,6 @@
+T3	Treat-Disorder 27 82	hypercalcemia secondary to acute vitamin D intoxication
+T6	Treatment 11 22	pamidronate
+T4	Drug 60 69	vitamin D
+T8	Drug 11 22	pamidronate
+T9	Treatment 60 69	vitamin D
+T11	Effect 27 40	hypercalcemia

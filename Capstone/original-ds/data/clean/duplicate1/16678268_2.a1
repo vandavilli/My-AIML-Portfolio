@@ -1,0 +1,6 @@
+T3	Effect 27 30	AVP
+T5	Treatment 75 85	infliximab
+T7	Time_elapsed 31 42	three weeks
+T8	Drug 75 85	infliximab
+T9	Treat-Disorder 107 122	Crohn's disease
+T10	Severity_cue 20 26	severe

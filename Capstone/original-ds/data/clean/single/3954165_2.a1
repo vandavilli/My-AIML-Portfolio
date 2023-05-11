@@ -1,0 +1,6 @@
+T4	Subject 13 46	a patient with status asthmaticus
+T6	Effect 121 145	perforated gastric ulcer
+T8	Treatment 77 104	theophylline and prednisone
+T9	Drug 77 89	theophylline
+T10	Drug 94 104	prednisone
+T12	Treat-Disorder 28 46	status asthmaticus

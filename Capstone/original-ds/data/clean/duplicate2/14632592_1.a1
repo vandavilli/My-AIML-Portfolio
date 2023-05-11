@@ -1,0 +1,6 @@
+T4	Treatment 0 10	Colchicine
+T5	Effect 19 27	myopathy
+T6	Subject 31 75	a teenager with familial Mediterranean fever
+T7	Age 33 41	teenager
+T9	Drug 0 10	Colchicine
+T10	Treat-Disorder 47 75	familial Mediterranean fever

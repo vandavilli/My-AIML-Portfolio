@@ -1,0 +1,4 @@
+T8	Adverse_event 45 55	associated
+T13	Combination 61 72	concomitant
+E1	Adverse_event:T8 
+E3	Combination:T13 arg:T12 arg2:T14

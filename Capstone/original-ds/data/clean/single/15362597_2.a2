@@ -1,0 +1,4 @@
+T6	Adverse_event 94 103	developed
+T11	Combination 65 75	prescribed
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

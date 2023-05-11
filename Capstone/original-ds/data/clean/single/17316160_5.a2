@@ -1,0 +1,5 @@
+T13	Adverse_event 112 121	receiving
+T17	Combination 144 147	and
+E1	Adverse_event:T13 
+E2	Combination:T17 arg:T15 arg2:T16
+A1	Speculated E1

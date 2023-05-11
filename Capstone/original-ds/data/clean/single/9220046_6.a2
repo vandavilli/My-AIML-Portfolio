@@ -1,0 +1,4 @@
+T7	Adverse_event 63 69	taking
+T13	Combination 165 168	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

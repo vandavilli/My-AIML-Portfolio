@@ -1,0 +1,8 @@
+T7	Drug 0 3	MTX
+T8	Effect 12 54	hepatic injury and liver enzyme elevations
+T9	Treat-Disorder 97 105	leukemia
+T10	Treatment 0 3	MTX
+T11	Treat-Disorder 107 126	gestational disease
+T12	Treat-Disorder 151 160	psoriasis
+T13	Treat-Disorder 165 185	rheumatoid arthritis
+T14	Treatment 84 185	treatment of leukemia, gestational disease and during treatment of psoriasis and rheumatoid arthritis

@@ -1,0 +1,4 @@
+T6	Adverse_event 11 18	induced
+T13	Adverse_event 61 75	nephrotoxicity
+E1	Adverse_event:T6 arg:T5 arg2:T7
+E2	Adverse_event:T13 arg:T8 arg2:T12

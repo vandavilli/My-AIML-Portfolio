@@ -1,0 +1,9 @@
+T5	Treatment 13 34	Jet-injection devices
+T7	Speculation_cue 35 40	might
+T9	Route 13 26	Jet-injection
+T10	Treat-Disorder 118 145	insulin-induced lipoatrophy
+T11	Severity_cue 105 111	severe
+T12	Drug 118 125	insulin
+T14	Effect 134 145	lipoatrophy
+T4	Treatment 118 125	insulin
+T8	Subject 84 92	patients

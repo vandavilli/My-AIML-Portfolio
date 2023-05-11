@@ -1,0 +1,4 @@
+T10	Adverse_event 39 49	associated
+T12	Combination 55 66	interaction
+E2	Adverse_event:T10 
+E1	Combination:T12 arg:T8 arg2:T11

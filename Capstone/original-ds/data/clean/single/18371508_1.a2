@@ -1,0 +1,4 @@
+T6	Adverse_event 52 56	with
+T9	Combination 87 90	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

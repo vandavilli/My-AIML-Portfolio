@@ -1,0 +1,6 @@
+T5	Effect 0 12	Gynecomastia
+T6	Treat-Disorder 16 26	epileptics
+T7	Treatment 40 79	phenobarbital, phenytoin and fluoresone
+T10	Drug 40 53	phenobarbital
+T11	Drug 55 64	phenytoin
+T12	Drug 69 79	fluoresone

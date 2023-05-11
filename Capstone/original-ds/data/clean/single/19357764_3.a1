@@ -1,0 +1,7 @@
+T5	Effect 110 125	hyperlactatemia
+T6	Subject 43 79	patients on antiretroviral treatment
+T7	Drug 92 101	stavudine
+T9	Treatment 92 101	stavudine
+T10	Treatment 148 158	zidovudine
+T11	Drug 148 158	zidovudine
+T12	Treat-Disorder 92 125	stavudine induced hyperlactatemia

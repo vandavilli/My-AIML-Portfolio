@@ -1,0 +1,5 @@
+T14	Subject 80 89	a patient
+T15	Treatment 103 132	trimethoprim-sulfamethoxazole
+T13	Effect 0 76	Aseptic meningitis, hemolytic anemia, hepatitis, and orthostatic hypotension
+T17	Drug 103 115	trimethoprim
+T18	Drug 116 132	sulfamethoxazole

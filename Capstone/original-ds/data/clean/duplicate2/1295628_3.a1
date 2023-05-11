@@ -1,0 +1,5 @@
+T6	Treatment 50 116	discontinuation of CBZ and administration of prednisolone at 40 mg
+T7	Effect 0 43	Clinical symptoms and leukopenia normalized
+T10	Drug 69 72	CBZ
+T11	Drug 95 107	prednisolone
+T12	Dosage 111 116	40 mg

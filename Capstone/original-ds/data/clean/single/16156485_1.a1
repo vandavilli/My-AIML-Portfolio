@@ -1,0 +1,10 @@
+T7	Treatment 194 201	lithium
+T10	Drug 194 201	lithium
+T12	Effect 121 140	a prolonged seizure
+T13	Effect 142 162	a serotonin syndrome
+T14	Effect 167 182	a focal seizure
+T15	Severity_cue 187 193	severe
+T16	Treat-Disorder 194 222	lithium-induced side effects
+T18	Treatment 248 251	ECT
+T19	Drug 248 251	ECT
+T20	Effect 252 324	without complications and lithium serum levels were still subtherapeutic

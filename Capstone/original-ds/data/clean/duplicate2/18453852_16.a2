@@ -1,0 +1,4 @@
+T9	Adverse_event 45 49	when
+T11	Combination 61 64	and
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13

@@ -1,0 +1,10 @@
+T8	Subject 0 11	One patient
+T9	Effect 12 111	required nursing home placement and a feeding gastrostomy as a result of the worsening parkinsonism
+T10	Treatment 119 130	risperidone
+T12	Population 0 3	One
+T13	Drug 119 130	risperidone
+T16	Effect 146 202	was able to return home and have the gastrostomy removed
+T18	Treatment 209 248	switching from risperidone to clozapine
+T19	Drug 224 235	risperidone
+T20	Drug 239 248	clozapine
+T21	Treat-Disorder 89 111	worsening parkinsonism

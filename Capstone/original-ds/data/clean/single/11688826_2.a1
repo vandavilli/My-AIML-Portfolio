@@ -1,0 +1,6 @@
+T5	Effect 0 50	Syndrome of inappropriate secretion of ADH (SIADH)
+T7	Treatment 61 70	cisplatin
+T8	Subject 89 123	a pulmonary adenocarcinoma patient
+T9	Sub-Disorder 91 115	pulmonary adenocarcinoma
+T10	Drug 61 70	cisplatin
+T11	Treat-Disorder 131 157	malignant pleural effusion

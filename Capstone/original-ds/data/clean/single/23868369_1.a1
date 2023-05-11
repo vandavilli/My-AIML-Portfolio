@@ -1,0 +1,5 @@
+T5	Speculation_cue 0 8	Possible
+T6	Effect 9 25	digoxin toxicity
+T8	Treatment 54 67;9 16	ciprofloxacin digoxin
+T9	Drug 54 67	ciprofloxacin
+T10	Drug 9 16	digoxin

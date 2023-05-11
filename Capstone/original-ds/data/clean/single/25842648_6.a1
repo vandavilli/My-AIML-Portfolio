@@ -1,0 +1,4 @@
+T7	Effect 33 51	serotonin syndrome
+T9	Treatment 93 132;144 152	selective serotonin reuptake inhibitors fentanyl
+T11	Drug 93 139	selective serotonin reuptake inhibitors (SSRI)
+T12	Drug 144 152	fentanyl

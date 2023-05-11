@@ -1,0 +1,4 @@
+T10	Potential_therapeutic_event 108 116	enhanced
+T15	Combination 62 71	increased
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T15 arg:T13 arg2:T14

@@ -1,0 +1,5 @@
+T12	Adverse_event 52 60	occurred
+T18	Combination 98 115	in the context of
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T16 arg2:T17
+A1	Severity E1 High

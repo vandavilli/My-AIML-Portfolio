@@ -1,0 +1,7 @@
+T13	Effect 29 32	DVT
+T15	Treatment 82 94;99 110	chemotherapy thalidomide
+T12	Subject 36 51	232 MM patients
+T17	Treat-Disorder 40 42	MM
+T19	Drug 82 94	chemotherapy
+T20	Drug 99 110	thalidomide
+T21	Population 36 39	232

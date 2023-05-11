@@ -1,0 +1,5 @@
+T6	Potential_therapeutic_event 31 38	reverse
+T8	Adverse_event 50 57	related
+E2	Potential_therapeutic_event:T6 arg:T4
+E1	Adverse_event:T8 arg:T9 arg2:T11
+R1	has Arg1:T4 Arg2:T3	

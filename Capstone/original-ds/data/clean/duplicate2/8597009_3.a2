@@ -1,0 +1,5 @@
+T6	Adverse_event 90 97	develop
+T9	Combination 178 186	together
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T11 arg2:T10
+A1	Speculated E1

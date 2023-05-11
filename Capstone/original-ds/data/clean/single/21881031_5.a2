@@ -1,0 +1,4 @@
+T9	Potential_therapeutic_event 131 135	used
+T14	Combination 54 57	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T14 arg:T15 arg2:T11

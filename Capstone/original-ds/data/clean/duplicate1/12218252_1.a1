@@ -1,0 +1,6 @@
+T4	Treatment 42 66	cyclosporin a withdrawal
+T5	Effect 0 30	Generalised pustular psoriasis
+T6	Treatment 85 134	tumour necrosis factor alpha inhibitor etanercept
+T7	Drug 42 55	cyclosporin a
+T8	Treat-Disorder 0 66	Generalised pustular psoriasis induced by cyclosporin a withdrawal
+T9	Drug 124 134	etanercept

@@ -1,0 +1,8 @@
+T4	Subject 2 49	teenage girl with crescentic glomerulonephritis
+T5	Sub-Disorder 20 49	crescentic glomerulonephritis
+T6	Effect 54 96	antineutrophil cytoplasmic antibody (ANCA)
+T7	Treatment 129 151	propylthiouracil (PTU)
+T9	Age 2 9	teenage
+T10	Gender 10 14	girl
+T11	Drug 129 145	propylthiouracil
+T12	Treat-Disorder 156 200	hyperthyroidism without cutaneous vasculitis

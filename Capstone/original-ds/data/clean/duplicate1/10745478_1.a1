@@ -1,0 +1,8 @@
+T3	Effect 194 223	refractory coronary vasospasm
+T6	Subject 163 185	a patient with cocaine
+T7	Sub-Disorder 178 185	cocaine
+T5	Treatment 33 142	use of continuous high-dose intracoronary nitroglycerin infusion through a 6 French coronary guiding catheter
+T8	Drug 33 97	use of continuous high-dose intracoronary nitroglycerin infusion
+T9	Route 98 142	through a 6 French coronary guiding catheter
+T10	Drug 178 185	cocaine
+T11	Treat-Disorder 194 223	refractory coronary vasospasm

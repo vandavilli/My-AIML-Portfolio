@@ -1,0 +1,12 @@
+T7	Sub-Disorder 46 67	chronic renal failure
+T9	Treatment 89 133	a high dosage of the new diuretic muzolimine
+T10	Effect 165 195	fatal neuromyeloencephalopathy
+T11	Population 13 14	7
+T12	Subject 13 67	7 patients (2 women, 5 men) with chronic renal failure
+T6	Population 25 26	2
+T13	Gender 27 32	women
+T14	Population 34 35	5
+T15	Gender 36 39	men
+T16	Drug 114 133	diuretic muzolimine
+T17	Dosage 135 155	range 240 to 1440 mg
+T18	Freq 156 163	per day

@@ -1,0 +1,5 @@
+T9	Treatment 24 71	intravitreal injection of bevacizumab (avastin)
+T10	Effect 0 17;88 112	Acute vision loss ocular ischemic syndrome
+T11	Drug 50 61	bevacizumab
+T12	Route 24 46	intravitreal injection
+T7	Severity_cue 0 5	Acute

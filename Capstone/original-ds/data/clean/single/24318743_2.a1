@@ -1,0 +1,4 @@
+T6	Treat-Disorder 0 40	Platinum-resistant ovarian cancer (PROC)
+T9	Treatment 102 130	traditional cytotoxic agents
+T10	Effect 80 96	limited efficacy
+T11	Drug 102 130	traditional cytotoxic agents

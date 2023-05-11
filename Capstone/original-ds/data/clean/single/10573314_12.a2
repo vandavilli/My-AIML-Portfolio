@@ -1,0 +1,6 @@
+T11	Adverse_event 32 38	course
+T17	Potential_therapeutic_event 80 86	return
+E1	Adverse_event:T11 arg:T8 arg2:T9 arg3:T10
+E2	Potential_therapeutic_event:T17 arg:T18 arg2:T16 arg3:T10
+R1	has_cue Arg1:E1 Arg2:T15	
+R2	has Arg1:T18 Arg2:T20	

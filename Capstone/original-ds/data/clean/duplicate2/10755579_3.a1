@@ -1,0 +1,7 @@
+T3	Treatment 30 40	fluoxetine
+T4	Effect 49 54	death
+T7	Age 60 65	child
+T8	Sub-Disorder 139 163	impaired drug metabolism
+T9	Drug 30 40	fluoxetine
+T10	Severity_cue 49 54	death
+T5	Subject 58 122	a child with a confirmed genetic polymorphism of the CYP2D6 gene

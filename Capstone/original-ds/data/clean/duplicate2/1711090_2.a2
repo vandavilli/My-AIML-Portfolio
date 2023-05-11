@@ -1,0 +1,4 @@
+T8	Potential_therapeutic_event 13 30	effect and safety
+T16	Combination 51 59	combined
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T16 arg:T14 arg2:T15

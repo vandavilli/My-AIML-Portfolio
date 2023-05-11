@@ -1,0 +1,4 @@
+T3	Adverse_event 24 36	exacerbation
+T6	Combination 85 95	suppressed
+E1	Adverse_event:T3 
+E2	Combination:T6 arg:T8 arg2:T9

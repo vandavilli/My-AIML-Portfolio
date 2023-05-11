@@ -1,0 +1,5 @@
+T9	Adverse_event 45 50	after
+T12	Combination 83 94	interaction
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T13 arg2:T11
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T8	Adverse_event 79 89	associated
+T13	Adverse_event 28 36	response
+E1	Adverse_event:T8 arg:T11 arg2:T9
+E2	Adverse_event:T13 arg:T14 arg2:T10
+R1	has Arg1:T14 Arg2:T17	

@@ -1,0 +1,7 @@
+T3	Subject 96 123	patient with gastric cancer
+T6	Sub-Disorder 109 123	gastric cancer
+T7	Speculation_cue 35 42	unusual
+T5	Treatment 51 68	moderate-dose MTX
+T9	Effect 77 90	neurotoxicity
+T10	Drug 65 68	MTX
+T11	Dosage 51 64	moderate-dose

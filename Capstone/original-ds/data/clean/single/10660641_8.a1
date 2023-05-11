@@ -1,0 +1,9 @@
+T9	Treatment 95 133	daily administration of 200 mg of ITCZ
+T11	Effect 153 208	the inflammatory signs and symptoms gradually subsided.
+T12	Dosage 119 125	200 mg
+T13	Freq 95 115	daily administration
+T14	Drug 129 133	ITCZ
+T15	Treat-Disorder 6 25	renal insufficiency
+T18	Drug 41 45	AMPH
+T19	Effect 6 25	renal insufficiency
+T20	Treatment 41 45	AMPH

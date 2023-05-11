@@ -1,0 +1,5 @@
+T7	Treatment 87 95;96 107	warfarin cloxacillin
+T8	Effect 124 143	increased INR value
+T10	Speculation_cue 155 163	probable
+T11	Drug 87 95	warfarin
+T12	Drug 96 107	cloxacillin

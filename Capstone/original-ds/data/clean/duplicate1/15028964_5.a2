@@ -1,0 +1,4 @@
+T12	Adverse_event 66 75	developed
+T17	Combination 26 37	concomitant
+E1	Adverse_event:T12 
+E2	Combination:T17 arg:T18 arg2:T19

@@ -1,0 +1,4 @@
+T9	Potential_therapeutic_event 60 67	receive
+T13	Combination 123 131	followed
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T13 arg:T14 arg2:T15

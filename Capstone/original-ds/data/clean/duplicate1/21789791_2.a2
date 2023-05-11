@@ -1,0 +1,4 @@
+T8	Potential_therapeutic_event 86 93	induced
+T10	Combination 68 76	enhancer
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T10 arg:T12 arg2:T11

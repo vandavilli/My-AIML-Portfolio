@@ -1,0 +1,7 @@
+T18	Potential_therapeutic_event 59 65	induce
+T20	Adverse_event 189 199	accelerate
+E1	Potential_therapeutic_event:T18 arg:T19 arg2:T15
+E2	Adverse_event:T20 arg:T22 arg2:T24
+R1	has Arg1:T15 Arg2:T14	
+R2	has_cue Arg1:E1 Arg2:T17	
+R3	has_cue Arg1:E2 Arg2:T21	

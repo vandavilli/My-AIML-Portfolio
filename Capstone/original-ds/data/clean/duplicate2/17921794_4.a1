@@ -1,0 +1,9 @@
+T6	Subject 20 67	a patient with mild chronic renal insufficiency
+T7	Treatment 81 115;179 204	taking simvastatin for over a year treatment with colchicine
+T9	Effect 130 144	acute weakness
+T11	Sub-Disorder 35 67	mild chronic renal insufficiency
+T12	Drug 88 99	simvastatin
+T13	Duration 104 115	over a year
+T14	Time_elapsed 152 159	3 weeks
+T15	Drug 194 204	colchicine
+T16	Treat-Disorder 209 229	acute gouty bursitis

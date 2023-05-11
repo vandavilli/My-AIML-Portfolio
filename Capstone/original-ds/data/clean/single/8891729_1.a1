@@ -1,0 +1,5 @@
+T3	Effect 0 47	Fatal intravascular autoimmune hemolytic anemia
+T5	Treatment 54 75	fludarabine treatment
+T7	Drug 54 65	fludarabine
+T8	Treat-Disorder 80 108	chronic lymphocytic leukemia
+T9	Severity_cue 0 5	Fatal

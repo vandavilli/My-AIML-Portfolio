@@ -1,0 +1,7 @@
+T14	Potential_therapeutic_event 314 317	use
+E1	Potential_therapeutic_event:T14 arg:T19
+E2	Potential_therapeutic_event:T14 arg:T12 arg2:T21 arg3:T23
+R1	has Arg1:T12 Arg2:T24	
+R2	has Arg1:T23 Arg2:T20	
+R3	has Arg1:T12 Arg2:T17	
+R4	has Arg1:T23 Arg2:T22	

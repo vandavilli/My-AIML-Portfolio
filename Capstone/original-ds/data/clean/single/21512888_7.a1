@@ -1,0 +1,4 @@
+T5	Treatment 15 23	warfarin
+T8	Subject 0 7;28 58	Patient a prior deep venous thrombosis
+T7	Sub-Disorder 28 58	a prior deep venous thrombosis
+T9	Drug 15 23	warfarin

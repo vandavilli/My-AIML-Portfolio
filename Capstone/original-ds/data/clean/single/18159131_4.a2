@@ -1,0 +1,4 @@
+T7	Potential_therapeutic_event 94 102	received
+T15	Combination 138 141	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14 arg3:T16

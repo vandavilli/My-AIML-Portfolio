@@ -1,0 +1,4 @@
+T5	Adverse_event 29 36	induced
+T12	Combination 59 60	/
+E1	Adverse_event:T5 
+E2	Combination:T12 arg:T10 arg2:T11

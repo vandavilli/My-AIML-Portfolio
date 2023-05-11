@@ -1,0 +1,4 @@
+T11	Potential_therapeutic_event 77 85	received
+T18	Combination 107 118	conjunction
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T18 arg:T15 arg2:T16

@@ -1,0 +1,5 @@
+T6	Adverse_event 89 92	due
+T9	Combination 98 109	synergistic
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8
+A1	Speculated E1

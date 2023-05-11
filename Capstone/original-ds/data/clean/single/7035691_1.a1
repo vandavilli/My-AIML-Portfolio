@@ -1,0 +1,7 @@
+T9	Effect 0 16	Transient anuria
+T10	Treatment 45 97	angiotensin I-converting enzyme inhibitor (SQ 14225)
+T11	Subject 101 160	a patient with renal artery stenosis of the solitary kidney
+T14	Drug 45 86	angiotensin I-converting enzyme inhibitor
+T15	Treat-Disorder 116 160	renal artery stenosis of the solitary kidney
+T17	Treatment 187 212	renal autotransplantation
+T18	Treat-Disorder 0 16	Transient anuria

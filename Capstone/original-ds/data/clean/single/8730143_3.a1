@@ -1,0 +1,8 @@
+T5	Subject 12 57	2 patients with cutaneous lupus erythematosus
+T7	Treatment 102 118	low dose therapy
+T8	Effect 72 95;120 147	severe dapsone reaction with a fatal outcome in one
+T9	Population 12 13	2
+T10	Sub-Disorder 28 57	cutaneous lupus erythematosus
+T11	Severity_cue 127 132	fatal
+T12	Dosage 102 110	low dose
+T13	Drug 79 86	dapsone

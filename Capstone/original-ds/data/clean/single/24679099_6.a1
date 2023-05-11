@@ -1,0 +1,5 @@
+T7	Subject 25 36	the patient
+T9	Treatment 56 81	temozolomide for 5 cycles
+T10	Treat-Disorder 7 24	tumor progression
+T11	Drug 56 68	temozolomide
+T12	Dosage 73 81	5 cycles

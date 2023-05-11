@@ -1,0 +1,8 @@
+T7	Treatment 63 71;81 87	HD Ara-C HD MTX
+T11	Drug 66 71	Ara-C
+T12	Drug 84 87	MTX
+T13	Dosage 81 83	HD
+T14	Dosage 63 65	HD
+T9	Negation_cue 114 120	failed
+T17	Treat-Disorder 158 169	CNS relapse
+T18	Treat-Disorder 196 199	DFS

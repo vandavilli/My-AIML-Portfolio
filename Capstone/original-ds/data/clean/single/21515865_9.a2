@@ -1,0 +1,4 @@
+T14	Combination 178 194	residual effects
+T15	Adverse_event 178 194	residual effects
+E2	Combination:T14 arg:T10 arg2:T11
+E3	Adverse_event:T15 

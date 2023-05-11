@@ -1,0 +1,4 @@
+T4	Adverse_event 65 80	associated with
+T8	Combination 17 20	and
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T10 arg2:T9

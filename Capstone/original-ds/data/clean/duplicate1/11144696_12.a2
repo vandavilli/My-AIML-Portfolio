@@ -1,0 +1,5 @@
+T12	Adverse_event 141 151	eventually
+T15	Combination 73 76	and
+E1	Adverse_event:T12 
+E2	Combination:T15 arg:T13 arg2:T14
+A1	Speculated E1

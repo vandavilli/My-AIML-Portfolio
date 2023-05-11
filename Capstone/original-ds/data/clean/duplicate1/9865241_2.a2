@@ -1,0 +1,9 @@
+T6	Adverse_event 72 81	secondary
+T16	Potential_therapeutic_event 30 40	considered
+E1	Adverse_event:T6 arg:T5 arg2:T8 arg3:T7
+E2	Potential_therapeutic_event:T16 arg:T14 arg2:T8
+R1	has Arg1:T14 Arg2:T15	
+R2	has Arg1:T14 Arg2:T13	
+R3	has Arg1:T7 Arg2:T10	
+R4	has Arg1:T7 Arg2:T11	
+R5	has Arg1:T7 Arg2:T12	

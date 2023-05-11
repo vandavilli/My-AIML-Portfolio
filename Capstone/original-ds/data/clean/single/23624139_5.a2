@@ -1,0 +1,5 @@
+T9	Adverse_event 234 239	being
+T16	Combination 135 146	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T16 arg:T15 arg2:T12
+A1	Severity E1 High

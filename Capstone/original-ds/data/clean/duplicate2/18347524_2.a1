@@ -1,0 +1,9 @@
+T8	Subject 22 67	a young man, affected by rheumatoid arthritis
+T9	Effect 82 144	a rapid-onset short-of-breath, hemoptysis, and severe weakness
+T11	Treatment 146 199	about 2 weeks after the administration of leflunomide
+T12	Age 24 29	young
+T13	Gender 30 33	man
+T14	Sub-Disorder 47 67	rheumatoid arthritis
+T15	Time_elapsed 146 159	about 2 weeks
+T16	Drug 188 199	leflunomide
+T17	Severity_cue 129 135	severe

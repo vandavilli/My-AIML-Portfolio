@@ -1,0 +1,4 @@
+T7	Potential_therapeutic_event 21 28	reduced
+T11	Combination 9 10	-
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

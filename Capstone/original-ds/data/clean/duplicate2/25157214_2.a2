@@ -1,0 +1,8 @@
+T8	Adverse_event 56 63	induced
+T15	Potential_therapeutic_event 35 44	reversing
+E1	Adverse_event:T8 arg:T9 arg2:T10
+E2	Potential_therapeutic_event:T15 arg:T13
+R1	has Arg1:T13 Arg2:T16	
+R3	has_cue Arg1:E2 Arg2:T11	
+A1	Speculated E1
+A2	Speculated E2

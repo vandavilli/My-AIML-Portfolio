@@ -1,0 +1,6 @@
+T6	Adverse_event 58 65	induced
+T11	Adverse_event 92 99	induced
+E1	Adverse_event:T6 arg:T7 arg2:T9
+E2	Adverse_event:T11 arg:T10 arg2:T12
+R1	has Arg1:T7 Arg2:T8	
+R2	has Arg1:T10 Arg2:T13	

@@ -1,0 +1,4 @@
+T10	Adverse_event 178 183	noted
+T15	Combination 102 110	utilized
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T16 arg2:T17 arg3:T18 arg4:T19

@@ -1,0 +1,7 @@
+T10	Subject 11 65	two cases of nitrofurantoin-induced pulmonary toxicity
+T11	Sub-Disorder 47 65	pulmonary toxicity
+T12	Treatment 24 38	nitrofurantoin
+T14	Effect 99 178;213 221	a widespread reticular pattern and associated distortion of the lung parenchyma fibrosis
+T16	Population 11 14	two
+T17	Drug 24 38	nitrofurantoin
+T18	Treat-Disorder 213 221	fibrosis

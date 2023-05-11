@@ -1,0 +1,4 @@
+T11	Potential_therapeutic_event 23 34	disappeared
+T21	Adverse_event 175 180	while
+E1	Potential_therapeutic_event:T11 arg:T10 arg2:T8 arg3:T9
+E2	Adverse_event:T21 arg:T15 arg2:T18 arg3:T16

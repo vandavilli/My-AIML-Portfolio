@@ -1,0 +1,5 @@
+T4	Treatment 44 59;64 73	interferon-alfa ribavirin
+T5	Treat-Disorder 86 105	chronic hepatitis C
+T7	Effect 20 37	diabetes mellitus
+T8	Drug 64 73	ribavirin
+T9	Drug 44 59	interferon-alfa

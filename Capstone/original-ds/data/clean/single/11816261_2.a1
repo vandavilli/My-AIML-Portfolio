@@ -1,0 +1,8 @@
+T9	Subject 113 121	patients
+T11	Treatment 132 231	sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose
+T12	Effect 53 109	serotonin syndrome with serious extrapyramidal reactions
+T13	Speculation_cue 45 49	risk
+T14	Drug 132 142	sertraline
+T15	Drug 146 157	venlafaxine
+T16	Drug 163 177	metoclopramide
+T19	Dosage 206 231	single, conventional dose

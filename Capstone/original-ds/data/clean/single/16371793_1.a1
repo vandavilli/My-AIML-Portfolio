@@ -1,0 +1,7 @@
+T6	Treatment 1 36	ntravitreal triamcinolone acetonide
+T7	Drug 13 36	triamcinolone acetonide
+T8	Route 0 12	Intravitreal
+T9	Treat-Disorder 41 73	persisting cystoid macular edema
+T11	Severity_cue 41 51	persisting
+T4	Effect 41 73	persisting cystoid macular edema
+T13	Treatment 80 104	penetrating keratoplasty

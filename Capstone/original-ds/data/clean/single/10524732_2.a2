@@ -1,0 +1,4 @@
+T4	Adverse_event 60 74	treatment with
+T8	Combination 104 107	and
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T7 arg2:T6

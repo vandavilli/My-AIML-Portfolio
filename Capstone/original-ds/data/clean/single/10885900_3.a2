@@ -1,0 +1,9 @@
+T5	Adverse_event 63 70	treated
+T13	Combination 88 91	and
+T7	Potential_therapeutic_event 141 146	after
+E2	Adverse_event:T5 arg:T16 arg2:T10
+E3	Combination:T13 arg:T11 arg2:T12
+E1	Potential_therapeutic_event:T7 arg:T4 arg2:T6 arg3:T8
+R1	has_child Arg1:E2 Arg2:E3	
+R2	has Arg1:T10 Arg2:T15	
+R3	has Arg1:T6 Arg2:T17	

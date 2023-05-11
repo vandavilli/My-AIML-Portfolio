@@ -1,0 +1,4 @@
+T5	Adverse_event 20 26	during
+T10	Combination 38 41	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9

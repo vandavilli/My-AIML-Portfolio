@@ -1,0 +1,9 @@
+T4	Sub-Disorder 110 124	PCC-related MI
+T5	Treat-Disorder 53 61	bleeding
+T7	Treatment 20 43	recombinant factor VIIa
+T8	Drug 20 43	recombinant factor VIIa
+T10	Time_elapsed 69 99	immediate and long-term period
+T11	Subject 110 124	PCC-related MI
+T6	Treatment 110 113	PCC
+T13	Drug 110 113	PCC
+T14	Effect 122 124	MI

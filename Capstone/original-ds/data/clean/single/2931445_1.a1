@@ -1,0 +1,5 @@
+T6	Treatment 0 11	L-Thyroxine
+T8	Effect 20 30	leukopenia
+T9	Subject 34 68	a patient with Hashimoto's disease
+T10	Drug 0 11	L-Thyroxine
+T11	Sub-Disorder 49 68	Hashimoto's disease

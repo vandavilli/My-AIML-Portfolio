@@ -1,0 +1,8 @@
+T10	Treatment 45 52;159 188	heparin antiplatelet therapy is given
+T14	Drug 45 52	heparin
+T17	Treat-Disorder 98 133	heparin-associated thrombocytopenia
+T18	Drug 159 171	antiplatelet
+T20	Speculation_cue 29 39	hypothesis
+T22	Drug 98 105	heparin
+T23	Effect 117 148	thrombocytopenia and thrombosis
+T24	Treatment 98 105	heparin

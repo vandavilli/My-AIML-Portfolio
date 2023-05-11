@@ -1,0 +1,6 @@
+T6	Treatment 14 26	promethazine
+T8	Effect 35 39	coma
+T9	Drug 14 26	promethazine
+T11	Treat-Disorder 14 39	promethazine-induced coma
+T12	Treatment 43 53	flumazenil
+T13	Drug 43 53	flumazenil

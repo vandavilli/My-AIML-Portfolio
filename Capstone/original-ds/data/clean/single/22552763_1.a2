@@ -1,0 +1,4 @@
+T10	Adverse_event 106 108	in
+T14	Combination 25 36	concomitant
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T15 arg2:T16 arg3:T13

@@ -1,0 +1,4 @@
+T7	Adverse_event 58 65	induced
+T12	Adverse_event 92 99	induced
+E1	Adverse_event:T7 arg:T5 arg2:T8
+E2	Adverse_event:T12 arg:T10 arg2:T13

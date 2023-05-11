@@ -1,0 +1,4 @@
+T8	Potential_therapeutic_event 72 75	for
+T12	Combination 40 43	and
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

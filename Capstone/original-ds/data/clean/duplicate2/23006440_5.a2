@@ -1,0 +1,4 @@
+T13	Adverse_event 341 349	interact
+T23	Combination 19 28;71 73	increased PB
+E1	Adverse_event:T13 
+E3	Combination:T23 arg:T16 arg2:T17

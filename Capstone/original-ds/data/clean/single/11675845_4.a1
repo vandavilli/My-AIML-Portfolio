@@ -1,0 +1,5 @@
+T7	Treatment 0 10;72 156	Ropinirole a corresponding decrease in the dose of levodopa/carbidopa to allow levodopa sparing
+T10	Drug 0 10	Ropinirole
+T11	Treat-Disorder 48 65	Parkinson disease
+T12	Drug 112 120	levodopa
+T13	Drug 121 130	carbidopa

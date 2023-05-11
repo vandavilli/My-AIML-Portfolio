@@ -1,0 +1,4 @@
+T8	Adverse_event 30 36	during
+T18	Combination 30 36	during
+E1	Adverse_event:T8 
+E2	Combination:T18 arg:T15 arg2:T17

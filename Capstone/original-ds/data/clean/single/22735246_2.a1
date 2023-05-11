@@ -1,0 +1,5 @@
+T8	Treatment 0 13	Oxcarbazepine
+T10	Effect 60 84	antiepileptic, analgesic
+T11	Treat-Disorder 89 105	neuropathic pain
+T12	Treat-Disorder 130 148	affective disorder
+T13	Drug 0 13	Oxcarbazepine

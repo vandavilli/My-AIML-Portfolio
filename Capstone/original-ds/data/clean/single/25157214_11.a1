@@ -1,0 +1,8 @@
+T8	Treatment 28 51	prophylactic antibiotic
+T6	Effect 59 111	unlikely to have a major impact on the recovery time
+T9	Drug 28 51	prophylactic antibiotic
+T10	Negation_cue 59 67	unlikely
+T12	Treat-Disorder 117 164	rocuronium-induced NMB with sugammadex reversal
+T13	Drug 117 127	rocuronium
+T14	Treatment 117 127	rocuronium
+T16	Effect 136 163	NMB with sugammadex reversa

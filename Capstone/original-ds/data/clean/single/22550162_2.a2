@@ -1,0 +1,5 @@
+T11	Adverse_event 54 61	induced
+T18	Combination 72 83	interaction
+E1	Adverse_event:T11 
+E2	Combination:T18 arg:T16 arg2:T17
+A1	Speculated E1

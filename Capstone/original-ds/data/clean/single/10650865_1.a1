@@ -1,0 +1,7 @@
+T3	Effect 0 22	Portal vein thrombosis
+T4	Subject 26 85	a patient with severe haemophilia A and F V G1691A mutation
+T5	Treatment 93 122	continuous infusion of F VIII
+T8	Sub-Disorder 48 85	haemophilia A and F V G1691A mutation
+T9	Route 93 112	continuous infusion
+T10	Drug 116 122	F VIII
+T11	Treat-Disorder 129 156	intramural jejunal bleeding

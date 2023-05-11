@@ -1,0 +1,7 @@
+T4	Potential_therapeutic_event 94 101	prevent
+T9	Adverse_event 161 167	caused
+E1	Potential_therapeutic_event:T4 arg:T3
+E2	Adverse_event:T9 arg:T10 arg2:T5
+R1	has_cue Arg1:E1 Arg2:T7	
+R2	has Arg1:T3 Arg2:T6	
+A1	Speculated E1

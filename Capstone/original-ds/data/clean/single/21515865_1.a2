@@ -1,0 +1,4 @@
+T8	Adverse_event 48 54	during
+T10	Combination 36 47	interaction
+E2	Adverse_event:T8 
+E1	Combination:T10 arg:T14 arg2:T13 arg3:T12 arg4:T16

@@ -1,0 +1,10 @@
+T19	Adverse_event 71 80	developed
+T24	Combination 22 38	coadministration
+T27	Potential_therapeutic_event 182 190	resolved
+E1	Adverse_event:T19 arg:T18 arg2:T17 arg3:T20
+E2	Combination:T24 arg:T23 arg2:T25
+E3	Potential_therapeutic_event:T27 arg:T28
+R1	has Arg1:T28 Arg2:T30	
+R2	has_child Arg1:E1 Arg2:E2	
+R3	has_cue Arg1:E1 Arg2:T29	
+R4	has Arg1:T28 Arg2:T31	

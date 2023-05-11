@@ -1,0 +1,7 @@
+T3	Subject 74 96	a postmenopausal woman
+T6	Effect 0 70	Ovarian endometrioid adenocarcinoma arising from an endometriotic cyst
+T4	Treatment 103 120	tamoxifen therapy
+T7	Sub-Disorder 76 90	postmenopausal
+T8	Gender 91 96	woman
+T9	Drug 103 112	tamoxifen
+T10	Treat-Disorder 125 138	breast cancer

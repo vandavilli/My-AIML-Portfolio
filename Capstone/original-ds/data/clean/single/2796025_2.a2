@@ -1,0 +1,4 @@
+T12	Potential_therapeutic_event 84 92	subsided
+T3	Combination 55 58	and
+E2	Potential_therapeutic_event:T12 
+E1	Combination:T3 arg:T8 arg2:T7 arg3:T9

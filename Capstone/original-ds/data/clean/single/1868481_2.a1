@@ -1,0 +1,8 @@
+T5	Subject 0 100	Two children, 1 with idiopathic nephrotic syndrome and 1 with endo-extracapillary glomerulonephritis
+T6	Effect 126 158	seizures and transient blindness
+T8	Treatment 195 221	methylprednisolone (IVPMP)
+T9	Population 0 3	Two
+T10	Sub-Disorder 21 50	idiopathic nephrotic syndrome
+T11	Sub-Disorder 62 101	endo-extracapillary glomerulonephritis,
+T12	Drug 195 213	methylprednisolone
+T13	Severity_cue 139 148	transient

@@ -1,0 +1,13 @@
+T8	Adverse_event 202 209	induced
+T17	Potential_therapeutic_event 238 247	underwent
+E1	Adverse_event:T8 arg:T12 arg2:T7
+E2	Adverse_event:T8 arg:T7 arg2:T13
+E3	Adverse_event:T8 arg:T7 arg2:T14
+E4	Potential_therapeutic_event:T17 arg:T18 arg2:T20
+R1	has_cue Arg1:E1 Arg2:T15	
+R2	has_cue Arg1:E2 Arg2:T15	
+R3	has_cue Arg1:E3 Arg2:T15	
+R4	has Arg1:T18 Arg2:T16	
+A1	Severity E1 High
+A2	Severity E2 High
+A3	Severity E3 High

@@ -1,0 +1,6 @@
+T14	Subject 49 133	Subjects with Advanced Previously Untreated Non-Small-Cell Lung Tumors (CATAPULT I),
+T15	Sub-Disorder 63 132	Advanced Previously Untreated Non-Small-Cell Lung Tumors (CATAPULT I)
+T16	Treatment 187 214	tirapazamine plus cisplatin
+T22	Drug 187 199	tirapazamine
+T24	Drug 205 214	cisplatin
+T25	Treat-Disorder 236 270	non-small-cell lung cancer (NSCLC)

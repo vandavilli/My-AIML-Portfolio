@@ -1,0 +1,4 @@
+T13	Adverse_event 31 36	after
+T18	Combination 66 69	and
+E1	Adverse_event:T13 
+E2	Combination:T18 arg:T16 arg2:T17

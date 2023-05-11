@@ -1,0 +1,4 @@
+T9	Combination 75 78	and
+T6	Adverse_event 51 58	induced
+E3	Combination:T9 arg:T10 arg2:T11
+E1	Adverse_event:T6 

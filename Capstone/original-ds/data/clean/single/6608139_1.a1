@@ -1,0 +1,5 @@
+T5	Treatment 112 115	DCF
+T6	Effect 9 25;35 71	myelosuppression immunosuppression and superinfection
+T8	Drug 112 115	DCF
+T9	Severity_cue 29 33	mild
+T10	Speculation_cue 76 85	potential

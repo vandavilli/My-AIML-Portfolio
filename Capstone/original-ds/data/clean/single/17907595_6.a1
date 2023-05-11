@@ -1,0 +1,7 @@
+T7	Treatment 64 73	phenytoin
+T8	Subject 77 86	Patient 1
+T9	Effect 0 43	The FK 506 dose was constant within 21 days
+T10	Population 85 86	1
+T11	Drug 64 73	phenytoin
+T13	Time_elapsed 95 102	36 days
+T14	Drug 106 123	phenytoin therapy

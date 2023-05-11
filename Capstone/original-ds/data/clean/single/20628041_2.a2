@@ -1,0 +1,4 @@
+T12	Adverse_event 70 77	leading
+T18	Combination 23 34	interaction
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T19 arg2:T17

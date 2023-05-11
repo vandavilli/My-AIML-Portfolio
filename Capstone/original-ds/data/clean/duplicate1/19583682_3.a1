@@ -1,0 +1,6 @@
+T7	Subject 10 16	a case
+T10	Effect 20 38	serotonin syndrome
+T11	Speculation_cue 174 182	possibly
+T13	Drug 123 162	selective serotonin-reuptake inhibitors
+T15	Drug 183 196	ciprofloxacin
+T9	Treatment 86 196	interactions between three different selective serotonin-reuptake inhibitors (SSRI) and possibly ciprofloxacin

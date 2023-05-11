@@ -1,0 +1,5 @@
+T6	Adverse_event 20 29	following
+T11	Combination 72 76	with
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T8 arg2:T9
+A1	Severity E1 High

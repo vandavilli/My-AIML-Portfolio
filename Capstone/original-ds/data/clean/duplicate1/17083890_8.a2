@@ -1,0 +1,4 @@
+T9	Adverse_event 153 169	etiologic agents
+T10	Combination 125 128	and
+E1	Adverse_event:T9 
+E2	Combination:T10 arg:T12 arg2:T11

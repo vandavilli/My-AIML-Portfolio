@@ -1,0 +1,8 @@
+T6	Potential_therapeutic_event 62 66	with
+T9	Combination 86 89	and
+T12	Adverse_event 31 38	induced
+E1	Potential_therapeutic_event:T6 arg:T5
+E2	Combination:T9 arg:T10 arg2:T11
+E3	Adverse_event:T12 arg:T14 arg2:T13
+R1	has Arg1:T5 Arg2:T7	
+R3	has_child Arg1:E1 Arg2:E2	

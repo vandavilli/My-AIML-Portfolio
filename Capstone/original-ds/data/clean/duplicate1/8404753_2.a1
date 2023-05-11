@@ -1,0 +1,8 @@
+T11	Effect 13 31	movement disorders
+T12	Treatment 71 90	carbamazepine (CBZ)
+T13	Subject 102 121;188 263	adults and children in patients with underlying Tourette's syndrome or other movement disorders
+T15	Age 102 108	adults
+T16	Age 113 121	children
+T17	Drug 71 84	carbamazepine
+T18	Sub-Disorder 217 235	ourette's syndrome
+T19	Subject 245 263	movement disorders

@@ -1,0 +1,10 @@
+T17	Treatment 7 38	clarithromycin coadministration
+T18	Subject 40 70	four out of the seven patients
+T20	Effect 81 174	moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, dizziness, and ataxia
+T21	Population 40 61	four out of the seven
+T22	Severity_cue 81 99	moderate-to-severe
+T23	Drug 7 21	clarithromycin
+T25	Treat-Disorder 81 174	moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, dizziness, and ataxia
+T26	Treatment 198 241	5 days after clarithromycin discontinuation
+T27	Drug 211 225	clarithromycin
+T28	Time_elapsed 198 204	5 days

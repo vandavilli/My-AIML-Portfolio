@@ -1,0 +1,5 @@
+T9	Adverse_event 45 53	recurred
+T14	Potential_therapeutic_event 101 113	administered
+E1	Adverse_event:T9 arg:T8 arg2:T10
+E2	Potential_therapeutic_event:T14 arg:T12
+R1	has Arg1:T12 Arg2:T11	

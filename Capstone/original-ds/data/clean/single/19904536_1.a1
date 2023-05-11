@@ -1,0 +1,5 @@
+T6	Treatment 6 17	gemcitabine
+T9	Drug 6 17	gemcitabine
+T10	Effect 26 44	pulmonary toxicity
+T11	Treat-Disorder 48 85	metastatic gallbladder adenocarcinoma
+T12	Severity_cue 0 5	Fatal

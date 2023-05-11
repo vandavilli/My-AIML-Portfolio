@@ -1,0 +1,6 @@
+T5	Treatment 65 77	prednisolone
+T7	Effect 0 24	Stevens-Johnson syndrome
+T3	Subject 28 57	a boy with nephrotic syndrome
+T8	Gender 30 33	boy
+T9	Drug 65 77	prednisolone
+T10	Treat-Disorder 39 57	nephrotic syndrome

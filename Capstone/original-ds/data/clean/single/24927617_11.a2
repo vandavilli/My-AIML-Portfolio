@@ -1,0 +1,5 @@
+T9	Adverse_event 79 86	induced
+T14	Adverse_event 106 113	related
+E1	Adverse_event:T9 arg:T6 arg2:T8
+E2	Adverse_event:T14 arg:T7 arg2:T13 arg3:T16
+R1	has Arg1:T7 Arg2:T15	

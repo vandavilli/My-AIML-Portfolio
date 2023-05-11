@@ -1,0 +1,5 @@
+T7	Treatment 25 101	Helicobacter pylori triple-drug therapy and insulin detemir drug interaction
+T8	Effect 0 19	Severe hypoglycemia
+T10	Severity_cue 0 6	Severe
+T12	Drug 25 56	Helicobacter pylori triple-drug
+T13	Drug 69 89	insulin detemir drug

@@ -1,0 +1,7 @@
+T12	Effect 24 36	hyperkalemia
+T13	Effect 55 64	mucositis
+T14	Drug 0 15	Succinylcholine
+T8	Subject 40 49	a patient
+T11	Treatment 78 90	chemotherapy
+T15	Treat-Disorder 55 90	mucositis secondary to chemotherapy
+T16	Treatment 0 15	Succinylcholine

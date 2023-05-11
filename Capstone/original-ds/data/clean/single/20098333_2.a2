@@ -1,0 +1,5 @@
+T6	Adverse_event 81 90	developed
+T14	Combination 154 165	combination
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T15 arg2:T16
+A1	Severity E1 High

@@ -1,0 +1,5 @@
+T5	Effect 0 12	Coagulopathy
+T6	Treatment 40 79	cephalosporin or moxalactam antibiotics
+T8	Drug 40 53	cephalosporin
+T9	Drug 57 67	moxalactam
+T10	Treat-Disorder 83 114	acute and chronic renal failure

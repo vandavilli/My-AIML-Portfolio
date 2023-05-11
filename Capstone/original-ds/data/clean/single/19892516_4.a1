@@ -1,0 +1,10 @@
+T11	Subject 100 107	patient
+T13	Treatment 112 125	ciprofloxacin
+T14	Effect 134 265	hemorrhagic vasculitis was superimposed on a severe forefoot infection, leading to progressive gangrene and a below-knee amputation
+T15	Drug 112 125	ciprofloxacin
+T17	Subject 3 29	one patient the vasculitis
+T18	Population 3 6	one
+T21	Treatment 45 85	termination of the ciprofloxacin therapy
+T22	Drug 64 77	ciprofloxacin
+T23	Treat-Disorder 19 29	vasculitis
+T24	Severity_cue 179 185	severe

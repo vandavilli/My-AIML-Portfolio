@@ -1,0 +1,8 @@
+T10	Treat-Disorder 35 44	H. pylori
+T12	Treatment 60 123	clarithromycin, amoxicillin, and omeprazole and insulin detemir
+T13	Drug 60 74	clarithromycin
+T14	Drug 76 87	amoxicillin
+T15	Drug 93 103	omeprazole
+T16	Drug 108 123	insulin detemir
+T18	Negation_cue 0 2	No
+T11	Effect 14 26	interactions

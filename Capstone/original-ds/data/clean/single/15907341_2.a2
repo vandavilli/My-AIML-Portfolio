@@ -1,0 +1,12 @@
+T9	Potential_therapeutic_event 181 191	normalized
+T13	Adverse_event 13 22	developed
+T20	Potential_therapeutic_event 111 116	given
+E1	Potential_therapeutic_event:T9 arg:T21 arg2:T22
+E2	Adverse_event:T13 arg:T6 arg2:T14 arg3:T16
+E3	Adverse_event:T13 arg:T17 arg2:T10 arg3:T6
+E4	Potential_therapeutic_event:T20 arg:T5 arg2:T19
+R1	has Arg1:T6 Arg2:T12	
+R2	has Arg1:T5 Arg2:T11	
+R3	has Arg1:T5 Arg2:T18	
+R4	has Arg1:T22 Arg2:T23	
+R5	has Arg1:T22 Arg2:T18	

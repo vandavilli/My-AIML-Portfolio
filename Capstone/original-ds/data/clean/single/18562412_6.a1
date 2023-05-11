@@ -1,0 +1,9 @@
+T9	Effect 50 59	akathisia
+T10	Treatment 69 80	risperidone
+T11	Drug 69 80	risperidone
+T12	Subject 0 17	The third patient
+T13	Severity_cue 42 49	serious
+T14	Treat-Disorder 50 59	akathisia
+T15	Treatment 102 125	switching to olanzapine
+T16	Drug 115 125	olanzapine
+T18	Effect 168 184	RLS at nighttime

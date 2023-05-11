@@ -1,0 +1,5 @@
+T6	Subject 97 109	same patient
+T7	Treatment 38 57	antiretroviral drug
+T8	Effect 58 75	adverse reactions
+T9	Drug 38 57	antiretroviral drug
+T10	Severity_cue 31 37	severe

@@ -1,0 +1,5 @@
+T8	Treatment 22 37	antiarrhythmics
+T9	Effect 54 81	intolerable adverse effects
+T10	Negation_cue 85 87	no
+T11	Drug 22 37	antiarrhythmics
+T14	Treat-Disorder 102 112	arrhythmia

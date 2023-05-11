@@ -1,0 +1,6 @@
+T4	Treatment 56 75	lopinavir/ritonavir
+T6	Effect 84 95	arrhythmias
+T8	Drug 56 65	lopinavir
+T9	Drug 66 75	ritonavir
+T11	Subject 114 138	HIV-positive individuals
+T12	Sub-Disorder 114 117	HIV

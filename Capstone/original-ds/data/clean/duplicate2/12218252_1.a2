@@ -1,0 +1,5 @@
+T3	Adverse_event 31 38	induced
+T9	Potential_therapeutic_event 67 77	responding
+E1	Adverse_event:T3 arg:T5 arg2:T4
+E2	Potential_therapeutic_event:T9 arg:T10
+R1	has Arg1:T10 Arg2:T6	

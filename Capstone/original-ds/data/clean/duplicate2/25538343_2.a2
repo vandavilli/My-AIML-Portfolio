@@ -1,0 +1,4 @@
+T4	Adverse_event 24 31	adverse
+E1	Adverse_event:T4 
+R1	Adverse_Effect Arg1:T6 Arg2:T7	
+A1	Severity E1 High

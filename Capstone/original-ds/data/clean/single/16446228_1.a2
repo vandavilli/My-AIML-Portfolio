@@ -1,0 +1,6 @@
+T4	Potential_therapeutic_event 112 120	resolved
+T12	Adverse_event 37 47	associated
+E1	Potential_therapeutic_event:T4 arg:T3 arg2:T5
+E2	Adverse_event:T12 arg:T13 arg2:T10
+R1	has Arg1:T10 Arg2:T11	
+R3	has Arg1:T5 Arg2:T7	

@@ -1,0 +1,10 @@
+T11	Subject 106 181	children with increased-risk ALL or stage III and IV lymphoblastic lymphoma
+T12	Treatment 59 102;182 268	HD IV MTX and intrathecal injections of MTX treated with our BFM-based treatment protocol in which cranial irradiation was omitted
+T10	Age 106 114	children
+T15	Treat-Disorder 14 17	CNS
+T16	Sub-Disorder 120 181	increased-risk ALL or stage III and IV lymphoblastic lymphoma
+T13	Effect 0 25	Prevention of CNS relapse
+T18	Drug 65 68	MTX
+T19	Route 73 95	intrathecal injections
+T20	Route 59 64	HD IV
+T21	Drug 99 102	MTX

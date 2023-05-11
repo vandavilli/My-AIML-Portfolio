@@ -1,0 +1,7 @@
+T11	Adverse_event 78 83	occur
+T13	Adverse_event 161 167	occurs
+T16	Combination 171 182	combination
+E1	Adverse_event:T11 arg:T8 arg2:T10
+E2	Adverse_event:T13 arg:T14 arg2:T12
+E3	Combination:T16 arg:T15 arg2:T17
+R1	has_child Arg1:E2 Arg2:E3	

@@ -1,0 +1,5 @@
+T4	Effect 105 131	protamine hypersensitivity
+T3	Subject 0 8	Patients
+T6	Treatment 19 59	neutral protamine Hagedorn (NPH) insulin
+T7	Drug 19 59	neutral protamine Hagedorn (NPH) insulin
+T8	Severity_cue 67 81	increased risk

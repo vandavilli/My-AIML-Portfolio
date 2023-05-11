@@ -1,0 +1,4 @@
+T11	Adverse_event 61 75	administration
+T13	Combination 143 154	responsible
+E1	Adverse_event:T11 
+E2	Combination:T13 arg:T12 arg2:T6

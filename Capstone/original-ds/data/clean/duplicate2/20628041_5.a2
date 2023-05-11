@@ -1,0 +1,4 @@
+T9	Potential_therapeutic_event 132 144	administered
+T21	Combination 45 48	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T21 arg:T12 arg2:T13 arg3:T14 arg4:T15

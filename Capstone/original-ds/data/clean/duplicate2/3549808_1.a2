@@ -1,0 +1,5 @@
+T12	Adverse_event 67 70	had
+E1	Adverse_event:T12 arg:T7 arg2:T8 arg3:T9
+E2	Adverse_event:T12 arg:T8 arg2:T19 arg3:T11
+R1	has_cue Arg1:E2 Arg2:T13	
+A1	Severity E2 High

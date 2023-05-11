@@ -1,0 +1,4 @@
+T13	Potential_therapeutic_event 14 25	prophylaxis
+T24	Combination 229 240	interaction
+E1	Potential_therapeutic_event:T13 
+E3	Combination:T24 arg2:T14 arg:T19

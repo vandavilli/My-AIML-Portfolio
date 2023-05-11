@@ -1,0 +1,6 @@
+T9	Effect 0 22;103 144	Pneumocystis pneumonia fever, pulmonary infiltrates, and hypoxia
+T10	Treatment 73 85	methotrexate
+T12	Subject 47 65	asthmatic patients
+T14	Speculation_cue 23 29	should
+T15	Drug 73 85	methotrexate
+T16	Treat-Disorder 47 56	asthmatic

@@ -1,0 +1,9 @@
+T5	Effect 0 18	ADH hypersecretion
+T6	Treatment 68 77	mizoribin
+T7	Sub-Disorder 34 51	plasma osmolality
+T9	Drug 68 77	mizoribin
+T11	Speculation_cue 115 120	might
+T12	Treatment 106 114	bredinin
+T13	Drug 106 114	bredinin
+T14	Effect 121 143	adversely induce SIADH
+T16	Subject 34 51	plasma osmolality

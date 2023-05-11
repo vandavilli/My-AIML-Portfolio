@@ -1,0 +1,4 @@
+T4	Adverse_event 40 46	during
+T9	Combination 86 97	combination
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T8 arg2:T7

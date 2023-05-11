@@ -1,0 +1,4 @@
+T7	Adverse_event 29 35	became
+T15	Combination 84 87	and
+E1	Adverse_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14

@@ -1,0 +1,4 @@
+T12	Potential_therapeutic_event 137 152	inhibit ex vivo
+T19	Combination 94 98	with
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T19 arg:T15 arg2:T17 arg3:T18

@@ -1,0 +1,6 @@
+T6	Treatment 107 174	nitrofurantoin was withdrawn and corticosteroid treatment commenced
+T7	Subject 0 71	Both had impaired lung function and abnormal computed tomographic scans
+T8	Population 0 4	Both
+T9	Sub-Disorder 9 71	impaired lung function and abnormal computed tomographic scans
+T10	Drug 107 121	nitrofurantoin
+T11	Drug 140 154	corticosteroid

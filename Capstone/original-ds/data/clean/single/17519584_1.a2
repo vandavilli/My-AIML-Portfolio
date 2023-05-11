@@ -1,0 +1,4 @@
+T5	Adverse_event 173 179	taking
+T15	Combination 196 197	/
+E1	Adverse_event:T5 
+E2	Combination:T15 arg:T13 arg2:T12

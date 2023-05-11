@@ -1,0 +1,5 @@
+T4	Adverse_event 15 23	increase
+T11	Combination 15 23	increase
+E1	Adverse_event:T4 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Speculated E1

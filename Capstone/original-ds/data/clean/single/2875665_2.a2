@@ -1,0 +1,4 @@
+T10	Adverse_event 33 43	associated
+T17	Combination 125 136	concomitant
+E1	Adverse_event:T10 
+E2	Combination:T17 arg:T16 arg2:T15

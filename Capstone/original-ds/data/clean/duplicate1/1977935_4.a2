@@ -1,0 +1,4 @@
+T8	Adverse_event 108 117	occurring
+T13	Combination 219 230	in addition
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T14 arg2:T15 arg3:T16

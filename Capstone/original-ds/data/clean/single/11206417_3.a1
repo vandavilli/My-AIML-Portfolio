@@ -1,0 +1,7 @@
+T9	Effect 107 134	renal and ocular blood flow
+T10	Subject 54 99;143 160	combined hyperglycaemia and hyperinsulinaemia diabetic patients
+T8	Treatment 164 179	insulin therapy
+T14	Drug 63 77	hyperglycaemia
+T15	Drug 82 99	hyperinsulinaemia
+T16	Treat-Disorder 143 151	diabetic
+T7	Negation_cue 29 36	no data

@@ -1,0 +1,5 @@
+T6	Treatment 0 13;90 116	Acetaminophen above a maximum daily dose
+T8	Effect 56 75	acute liver failure
+T9	Drug 0 13	Acetaminophen
+T10	Dosage 90 116	above a maximum daily dose
+T11	Severity_cue 56 61	acute

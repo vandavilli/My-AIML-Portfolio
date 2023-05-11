@@ -1,0 +1,4 @@
+T3	Treatment 0 11	Gemcitabine
+T5	Effect 45 71	radiation recall reactions
+T7	Drug 0 11	Gemcitabine
+T8	Treat-Disorder 102 111	carcinoma

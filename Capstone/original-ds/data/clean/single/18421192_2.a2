@@ -1,0 +1,4 @@
+T5	Adverse_event 85 93	provoked
+T8	Combination 70 74	plus
+E1	Adverse_event:T5 
+E2	Combination:T8 arg:T9 arg2:T7

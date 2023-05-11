@@ -1,0 +1,7 @@
+T4	Effect 25 45	severe hypocalcaemia
+T3	Subject 95 125	patients with multiple myeloma
+T6	Treatment 62 91	i.v. bisphosphonate treatment
+T7	Sub-Disorder 109 125	multiple myeloma
+T8	Drug 67 81	bisphosphonate
+T9	Severity_cue 25 31	severe
+T10	Route 62 66	i.v.

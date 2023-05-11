@@ -1,0 +1,5 @@
+T8	Adverse_event 18 24	causal
+T10	Combination 117 124	synergy
+E1	Adverse_event:T8 
+E2	Combination:T10 arg:T11 arg2:T9
+A1	Speculated E1

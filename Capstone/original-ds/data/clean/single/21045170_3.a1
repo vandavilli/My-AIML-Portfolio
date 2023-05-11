@@ -1,0 +1,15 @@
+T17	Subject 0 30	A 47-year-old HIV-infected man
+T18	Treat-Disorder 36 58;63 84	dilated cardiomyopathy prolonged QT syndrome
+T19	Treatment 166 208;251 290	subcutaneous enfuvirtide 90 mg twice daily oral extended-release niacin 500 mg/day
+T21	Effect 408 444	extreme redness, edema, and swelling
+T22	Age 2 13	47-year-old
+T23	Sub-Disorder 14 26	HIV-infected
+T24	Gender 27 30	man
+T25	Dosage 191 196	90 mg
+T26	Freq 197 208	twice daily
+T27	Drug 179 190	enfuvirtide
+T28	Route 166 178	subcutaneous
+T29	Route 251 255	oral
+T30	Drug 273 279	niacin
+T31	Dosage 280 286	500 mg
+T32	Freq 287 290	day

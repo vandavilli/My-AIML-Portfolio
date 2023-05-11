@@ -1,0 +1,4 @@
+T12	Potential_therapeutic_event 128 136	received
+T20	Combination 113 118	while
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T20 arg:T16 arg2:T19

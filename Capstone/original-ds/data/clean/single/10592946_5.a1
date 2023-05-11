@@ -1,0 +1,7 @@
+T5	Subject 65 98	a patient with water intoxication
+T6	Sub-Disorder 80 98	water intoxication
+T7	Treatment 127 156	caffeine-containing beverages
+T9	Effect 26 40	rhabdomyolysis
+T10	Severity_cue 19 25	severe
+T11	Drug 127 135	caffeine
+T12	Route 114 123	ingestion

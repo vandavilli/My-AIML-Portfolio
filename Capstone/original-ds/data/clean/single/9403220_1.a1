@@ -1,0 +1,9 @@
+T4	Treatment 105 138	a month of therapy with enalapril
+T5	Effect 38 98	acute renal failure with serum creatinine to 1543 micromol/l
+T6	Subject 0 27	A 35-year-old nephrotic man
+T7	Age 2 13	35-year-old
+T8	Sub-Disorder 14 23	nephrotic
+T9	Gender 24 27	man
+T10	Time_elapsed 105 112	a month
+T11	Drug 129 138	enalapril
+T12	Severity_cue 38 43	acute

@@ -1,0 +1,5 @@
+T3	Treatment 82 91	clozapine
+T4	Effect 100 128;158 163	hypersensitivity myocarditis death
+T10	Drug 82 91	clozapine
+T11	Severity_cue 158 163	death
+T12	Speculation_cue 137 148	most likely

@@ -1,0 +1,5 @@
+T7	Treatment 48 86	tissue plasminogen activator treatment
+T8	Subject 109 204	patients with acute ischemic stroke taking warfarin with an international normalized ratio <1.7
+T11	Sub-Disorder 123 204	acute ischemic stroke taking warfarin with an international normalized ratio <1.7
+T12	Drug 48 76	tissue plasminogen activator
+T13	Drug 152 160	warfarin

@@ -1,0 +1,6 @@
+T3	Subject 73 92	patient's psoriasis
+T5	Treatment 0 5	2-CdA
+T7	Drug 0 5	2-CdA
+T8	Effect 14 29	lymphocytopenia
+T9	Speculation_cue 37 40	may
+T10	Treat-Disorder 83 92	psoriasis

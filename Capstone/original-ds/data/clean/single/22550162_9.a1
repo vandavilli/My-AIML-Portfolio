@@ -1,0 +1,6 @@
+T6	Subject 118 129	the patient
+T7	Effect 147 168	methotrexate toxicity
+T8	Treatment 147 159;169 187	methotrexate and omeprazole use
+T9	Speculation_cue 75 83	probable
+T11	Drug 147 159	methotrexate
+T12	Drug 173 183	omeprazole

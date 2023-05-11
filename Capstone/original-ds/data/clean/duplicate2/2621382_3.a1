@@ -1,0 +1,8 @@
+T7	Subject 0 63	Two cases of lepromatous leprosy with erythema nodosum leprosum
+T8	Treatment 76 101	high doses of clofazimine
+T10	Effect 110 179	discoloration of nail plate, subungual hyperkeratosis and onycholysis
+T11	Population 0 3	Two
+T12	Sub-Disorder 13 32	lepromatous leprosy
+T13	Sub-Disorder 38 63	erythema nodosum leprosum
+T14	Drug 90 101	clofazimine
+T15	Dosage 76 86	high doses

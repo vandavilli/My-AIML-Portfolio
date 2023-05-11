@@ -1,0 +1,6 @@
+T3	Subject 10 27	a myeloma patient
+T4	Effect 49 64	paralytic ileus
+T5	Treatment 72 90	bortezomib therapy
+T7	Sub-Disorder 12 19	myeloma
+T8	Drug 72 82	bortezomib
+T9	Severity_cue 42 48	severe

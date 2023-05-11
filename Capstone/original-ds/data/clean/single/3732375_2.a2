@@ -1,0 +1,4 @@
+T9	Adverse_event 48 51	due
+T13	Combination 111 122	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T12 arg2:T11

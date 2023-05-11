@@ -1,0 +1,5 @@
+T6	Adverse_event 75 85	associated
+E1	Adverse_event:T6 arg:T8 arg2:T7
+E2	Adverse_event:T6 arg:T7 arg2:T15 arg3:T5
+R1	has_cue Arg1:E1 Arg2:T9	
+R2	has Arg1:T7 Arg2:T10	

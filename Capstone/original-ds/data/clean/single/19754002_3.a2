@@ -1,0 +1,5 @@
+T9	Adverse_event 39 42	due
+T15	Combination 222 225	and
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T14 arg2:T13 arg3:T11
+A1	Speculated E1

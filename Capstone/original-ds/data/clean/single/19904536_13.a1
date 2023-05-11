@@ -1,0 +1,4 @@
+T4	Treatment 0 11	Gemcitabine
+T6	Effect 20 38	pulmonary toxicity
+T7	Severity_cue 52 60	dramatic
+T8	Drug 0 11	Gemcitabine

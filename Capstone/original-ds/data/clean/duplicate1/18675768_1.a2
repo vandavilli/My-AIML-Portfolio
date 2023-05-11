@@ -1,0 +1,4 @@
+T5	Adverse_event 31 36	after
+T11	Combination 64 72	addition
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T10 arg2:T9

@@ -1,0 +1,3 @@
+T5	Adverse_event 24 34	associated
+E1	Adverse_event:T5 arg:T6 arg2:T7 arg3:T8
+E2	Adverse_event:T5 arg:T6 arg2:T13 arg3:T14

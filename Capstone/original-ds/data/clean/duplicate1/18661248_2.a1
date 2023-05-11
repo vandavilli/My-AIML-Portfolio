@@ -1,0 +1,5 @@
+T5	Subject 30 98	a patient with collapsing focal glomeruloesclerosis (collapsing FGS)
+T9	Drug 142 154	cyclosporine
+T4	Treatment 142 160	cyclosporine (CSA)
+T6	Effect 22 26	PRES
+T8	Treat-Disorder 45 98	collapsing focal glomeruloesclerosis (collapsing FGS)

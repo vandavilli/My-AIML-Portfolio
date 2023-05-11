@@ -1,0 +1,5 @@
+T5	Subject 0 11	One patient
+T6	Treatment 53 64	cyclosporin
+T7	Effect 65 78;16 36	neurotoxicity MRI T2 abnormalities
+T9	Population 0 3	One
+T10	Drug 53 64	cyclosporin

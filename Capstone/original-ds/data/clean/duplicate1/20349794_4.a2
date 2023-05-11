@@ -1,0 +1,4 @@
+T12	Combination 16 27	substituted
+T9	Potential_therapeutic_event 69 77	episodes
+E2	Combination:T12 arg:T10 arg2:T11
+E1	Potential_therapeutic_event:T9 

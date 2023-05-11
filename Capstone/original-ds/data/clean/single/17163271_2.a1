@@ -1,0 +1,7 @@
+T6	Effect 214 252	thrombosis of the central retinal vein
+T7	Treatment 253 290	5 years following the transplantation
+T8	Subject 16 202	a patient who had undergone a renal transplantation as a result of malignant hypertension, and who was on immunosuppressive therapy consisting of cyclosporin, prednisone and azathioprine
+T9	Sub-Disorder 30 105;115 202	had undergone a renal transplantation as a result of malignant hypertension was on immunosuppressive therapy consisting of cyclosporin, prednisone and azathioprine
+T10	Drug 162 173	cyclosporin
+T11	Drug 175 185	prednisone
+T12	Drug 190 202	azathioprine

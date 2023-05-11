@@ -1,0 +1,8 @@
+T10	Effect 111 140	clinically significant effect
+T7	Treatment 0 80;144 169	Coadministration of 200 mg bid voriconazole with 400 mg (or higher) qd efavirenz efavirenz on voriconazole
+T8	Dosage 20 26	200 mg
+T11	Drug 31 43	voriconazole
+T12	Dosage 49 55	400 mg
+T13	Drug 71 80	efavirenz
+T14	Drug 144 153	efavirenz
+T15	Drug 157 169	voriconazole

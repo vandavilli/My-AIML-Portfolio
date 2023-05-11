@@ -1,0 +1,12 @@
+T9	Subject 0 23	Three of these patients
+T10	Effect 28 39	convulsions
+T12	Treatment 54 73	imipenem/cilastatin
+T14	Population 0 5	Three
+T15	Drug 54 62	imipenem
+T16	Drug 63 73	cilastatin
+T18	Subject 112 114	2%
+T19	Population 112 114	2%
+T20	Treatment 118 137	imipenem/cilastatin
+T22	Drug 118 126	imipenem
+T23	Drug 127 137	cilastatin
+T25	Effect 172 179	seizure

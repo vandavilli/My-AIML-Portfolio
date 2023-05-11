@@ -1,0 +1,4 @@
+T6	Treatment 17 26;61 91	isoniazid commonly prescribed antibiotic
+T7	Effect 0 11	Anaphylaxis
+T9	Drug 17 26	isoniazid
+T10	Severity_cue 32 40	possible

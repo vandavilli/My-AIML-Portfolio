@@ -1,0 +1,4 @@
+T9	Adverse_event 29 36	induced
+T18	Combination 217 225	addition
+E1	Adverse_event:T9 
+E2	Combination:T18 arg:T17 arg2:T16

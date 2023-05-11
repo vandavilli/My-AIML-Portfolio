@@ -1,0 +1,8 @@
+T8	Treatment 74 166	concomitantly, and for extended duration, with inhaled corticosteroids and CYP3A4 inhibitors
+T10	Effect 0 27	Iatrogenic Cushing syndrome
+T11	Subject 49 65	patients with CF
+T13	Treat-Disorder 63 65	CF
+T14	Drug 129 144	corticosteroids
+T15	Drug 149 166	CYP3A4 inhibitors
+T17	Duration 97 114	extended duration
+T18	Route 121 128	inhaled

@@ -1,0 +1,4 @@
+T7	Potential_therapeutic_event 27 37	prescribed
+T9	Combination 9 12	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T9 arg:T11 arg2:T10

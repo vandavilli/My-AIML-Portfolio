@@ -1,0 +1,8 @@
+T3	Treatment 35 44	tamoxifen
+T4	Effect 72 112	proliferative lesions of the endometrium
+T6	Speculation_cue 120 140	theoretically should
+T7	Drug 35 44	tamoxifen
+T9	Treatment 161 182	progestational agents
+T10	Drug 161 182	progestational agents
+T11	Treat-Disorder 72 112	proliferative lesions of the endometrium
+T12	Speculation_cue 59 68	incidence

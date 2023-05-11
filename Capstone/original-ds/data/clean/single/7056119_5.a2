@@ -1,0 +1,5 @@
+T9	Adverse_event 117 125	occurred
+T18	Potential_therapeutic_event 141 150	abolished
+E1	Adverse_event:T9 arg:T7 arg2:T8
+E2	Potential_therapeutic_event:T18 arg:T17
+R1	has Arg1:T17 Arg2:T19	

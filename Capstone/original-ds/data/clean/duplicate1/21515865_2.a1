@@ -1,0 +1,8 @@
+T11	Treat-Disorder 257 271	bladder cancer
+T12	Subject 12 21	a patient
+T14	Effect 80 135	supratherapeutic International Normalized Ratios (INRs)
+T16	Drug 63 71	warfarin
+T17	Drug 164 177	acetaminophen
+T18	Drug 182 194	moxifloxacin
+T19	Drug 215 238	bacille Calmette-Guérin
+T13	Treatment 32 71;142 271	long-term anticoagulation with warfarin receiving concomitant acetaminophen and moxifloxacin as prophylaxis with bacille Calmette-Guérin (BCG) therapy for bladder cancer

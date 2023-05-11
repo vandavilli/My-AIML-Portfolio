@@ -1,0 +1,6 @@
+T7	Subject 12 70	a continuous ambulatory peritoneal dialysis (CAPD) patient
+T9	Treat-Disorder 142 241	methicillin-resistant Staphylococcus aureus (MRSA)-associated external cuff infection and pneumonia
+T8	Treatment 86 96	vancomycin
+T11	Effect 105 120	agranulocytosis
+T12	Sub-Disorder 14 62	continuous ambulatory peritoneal dialysis (CAPD)
+T13	Drug 86 96	vancomycin

@@ -1,0 +1,8 @@
+T5	Adverse_event 69 76	induced
+T15	Potential_therapeutic_event 43 53	associated
+E1	Adverse_event:T5 arg:T4 arg2:T6 arg3:T3
+E2	Potential_therapeutic_event:T15 arg:T13 arg2:T3
+R1	has Arg1:T4 Arg2:T10	
+R2	has Arg1:T13 Arg2:T14	
+R3	has Arg1:T13 Arg2:T16	
+R4	has Arg1:T4 Arg2:T11	

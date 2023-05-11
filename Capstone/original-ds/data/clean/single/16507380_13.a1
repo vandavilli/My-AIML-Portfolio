@@ -1,0 +1,10 @@
+T10	Speculation_cue 2 10	possible
+T12	Drug 41 49	IFN alfa
+T13	Drug 64 75	gemfibrozil
+T14	Dosage 76 82	600 mg
+T15	Dosage 50 55	11 MU
+T16	Freq 83 86	BID
+T17	Freq 56 59	TIW
+T18	Treatment 11 86	drug-drug interaction between IFN alfa 11 MU TIW and gemfibrozil 600 mg BID
+T19	Subject 103 112	a patient
+T20	Effect 138 170	IFN-induced hypertriglyceridemia

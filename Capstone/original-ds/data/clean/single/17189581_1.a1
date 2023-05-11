@@ -1,0 +1,5 @@
+T7	Treatment 40 75	concurrent linezolid and fluoxetine
+T8	Effect 5 23	serotonin syndrome
+T9	Drug 51 60	linezolid
+T10	Drug 65 75	fluoxetine
+T12	Severity_cue 0 4	Mild

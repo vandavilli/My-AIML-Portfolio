@@ -1,0 +1,4 @@
+T9	Adverse_event 18 22	used
+T15	Combination 28 43	coadministering
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T13 arg2:T14

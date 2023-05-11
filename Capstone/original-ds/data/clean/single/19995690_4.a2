@@ -1,0 +1,4 @@
+T10	Adverse_event 38 40	on
+T21	Combination 128 130	on
+E1	Adverse_event:T10 
+E2	Combination:T21 arg:T20 arg2:T16

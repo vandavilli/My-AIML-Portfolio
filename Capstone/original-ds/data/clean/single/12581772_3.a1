@@ -1,0 +1,7 @@
+T21	Treatment 0 47	Rapamycin/sirolimus (SR), trade named Rapammune
+T23	Subject 134 195	myelosuppression, hypertension, hyperlipidemia, and infection
+T25	Sub-Disorder 134 150	myelosuppression
+T26	Sub-Disorder 152 164	hypertension
+T27	Sub-Disorder 166 180	hyperlipidemia
+T28	Sub-Disorder 186 195	infection
+T29	Drug 0 19	Rapamycin/sirolimus

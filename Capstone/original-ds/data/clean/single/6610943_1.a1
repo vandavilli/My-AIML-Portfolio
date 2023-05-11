@@ -1,0 +1,4 @@
+T5	Effect 0 37	Myoglobinuria and acute renal failure
+T7	Treatment 54 86	intravenous vasopressin infusion
+T8	Route 54 65;78 86	intravenous infusion
+T9	Drug 66 77	vasopressin

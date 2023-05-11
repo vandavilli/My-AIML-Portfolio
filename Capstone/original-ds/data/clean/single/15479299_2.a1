@@ -1,0 +1,10 @@
+T6	Treatment 99 118	IL-2 plus IFN-alpha
+T7	Subject 79 88	a patient
+T9	Treat-Disorder 123 154	metastatic renal cell carcinoma
+T10	Drug 99 103	IL-2
+T11	Drug 109 118	IFN-alpha
+T4	Effect 20 33	severe anemia
+T13	Severity_cue 20 26	severe
+T8	Treat-Disorder 20 33	severe anemia
+T16	Treatment 59 66	steroid
+T17	Drug 59 66	steroid

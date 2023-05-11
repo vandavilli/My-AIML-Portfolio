@@ -1,0 +1,5 @@
+T4	Treatment 62 98	bicalutamide and leuprorelin acetate
+T10	Drug 62 74	bicalutamide
+T11	Drug 79 98	leuprorelin acetate
+T5	Treat-Disorder 122 137	prostate cancer
+T7	Effect 25 49	interstitial pneumonitis

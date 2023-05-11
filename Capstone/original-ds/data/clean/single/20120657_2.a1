@@ -1,0 +1,5 @@
+T6	Effect 39 70	anaemia and bone marrow aplasia
+T7	Treatment 20 30	Zidovudine
+T8	Subject 74 101	a patient infected with HIV
+T10	Drug 20 30	Zidovudine
+T11	Treat-Disorder 98 101	HIV

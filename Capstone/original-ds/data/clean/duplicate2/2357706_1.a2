@@ -1,0 +1,3 @@
+T5	Adverse_event 147 158	association
+E1	Adverse_event:T5 
+A1	Negated E1

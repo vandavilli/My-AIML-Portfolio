@@ -1,0 +1,6 @@
+T5	Treatment 9 66	combinations of belladonna, ergotamine, and phenobarbital
+T7	Effect 204 244	anticonvulsant hypersensitivity syndrome
+T9	Treat-Disorder 107 126	menopausal symptoms
+T10	Drug 25 35	belladonna
+T11	Drug 37 47	ergotamine
+T12	Drug 53 66	phenobarbital

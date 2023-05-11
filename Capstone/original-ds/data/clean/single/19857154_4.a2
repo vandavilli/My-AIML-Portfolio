@@ -1,0 +1,4 @@
+T10	Adverse_event 29 40	experienced
+T15	Combination 108 119	interaction
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T14 arg2:T16

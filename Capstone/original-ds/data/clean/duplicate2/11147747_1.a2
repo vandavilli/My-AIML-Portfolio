@@ -1,0 +1,5 @@
+T6	Adverse_event 112 123	contributed
+T9	Combination 68 71	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T7
+A1	Speculated E1

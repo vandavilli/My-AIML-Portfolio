@@ -1,0 +1,4 @@
+T5	Adverse_event 126 134	resulted
+T9	Combination 55 66	interaction
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T10 arg2:T11

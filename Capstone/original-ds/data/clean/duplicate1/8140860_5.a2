@@ -1,0 +1,4 @@
+T9	Adverse_event 69 74	after
+T14	Combination 153 156	and
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13

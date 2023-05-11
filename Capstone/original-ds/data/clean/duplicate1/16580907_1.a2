@@ -1,0 +1,4 @@
+T9	Adverse_event 23 29	result
+T14	Combination 37 48	interaction
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T15 arg2:T16

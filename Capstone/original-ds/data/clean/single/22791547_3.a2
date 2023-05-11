@@ -1,0 +1,6 @@
+T10	Adverse_event 111 116	after
+T22	Potential_therapeutic_event 234 243	receiving
+E1	Adverse_event:T10 arg:T9 arg2:T13 arg3:T11
+E2	Potential_therapeutic_event:T22 arg:T9 arg2:T20
+R1	has Arg1:T11 Arg2:T12	
+R2	has Arg1:T20 Arg2:T19	

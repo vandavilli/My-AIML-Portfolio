@@ -1,0 +1,8 @@
+T7	Treatment 31 106	a rare drug interaction between erythromycin and ergotamine at normal doses
+T9	Effect 115 139	lower extremity ischemia
+T10	Subject 143 162	a 36-year-old woman
+T11	Age 145 156	36-year-old
+T12	Gender 157 162	woman
+T14	Drug 63 75	erythromycin
+T15	Drug 80 90	ergotamine
+T16	Dosage 94 106	normal doses

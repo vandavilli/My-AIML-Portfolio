@@ -1,0 +1,4 @@
+T4	Adverse_event 45 50	after
+T8	Combination 70 73	and
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T7 arg2:T9

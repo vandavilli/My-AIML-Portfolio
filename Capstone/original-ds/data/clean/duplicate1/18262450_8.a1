@@ -1,0 +1,5 @@
+T6	Treatment 0 20	Oxycodone-gabapentin
+T8	Treat-Disorder 29 33	pain
+T9	Effect 21 60	reduced pain score by 33% from baseline
+T12	Drug 0 9	Oxycodone
+T10	Drug 10 20	gabapentin

@@ -1,0 +1,9 @@
+T12	Adverse_event 32 36	from
+T21	Potential_therapeutic_event 86 89	use
+T24	Adverse_event 146 154	toxicity
+E1	Adverse_event:T12 arg:T14 arg2:T13
+E2	Potential_therapeutic_event:T21 arg:T20 arg2:T17
+E3	Adverse_event:T24 arg:T22 arg2:T25
+R1	has_cue Arg1:E1 Arg2:T11	
+R2	has Arg1:T17 Arg2:T19	
+A1	Speculated E1

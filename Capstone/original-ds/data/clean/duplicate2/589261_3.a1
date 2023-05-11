@@ -1,0 +1,10 @@
+T4	Effect 6 36	electrocardiographical changes
+T5	Subject 123 138	four out of six
+T7	Drug 158 165	ouabain
+T8	Treatment 158 165	ouabain
+T9	Severity_cue 0 5	Minor
+T10	Subject 51 75	five out of six patients
+T11	Population 51 55	five
+T12	Drug 101 118	cardiac glycoside
+T13	Negation_cue 85 88	not
+T15	Treatment 101 118	cardiac glycoside

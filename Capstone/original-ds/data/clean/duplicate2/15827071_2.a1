@@ -1,0 +1,6 @@
+T7	Subject 10 44	2 cases of serotonin toxicity (ST)
+T9	Treatment 61 112	concomitant use of linezolid and serotonergic drugs
+T10	Population 10 11	2
+T11	Sub-Disorder 21 44	serotonin toxicity (ST)
+T13	Drug 80 89	linezolid
+T14	Drug 94 106	serotonergic

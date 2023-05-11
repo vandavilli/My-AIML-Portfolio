@@ -1,0 +1,5 @@
+T4	Effect 13 38	hypersensitivity reaction
+T5	Treatment 61 73;78 88	penicillin G gentamicin
+T7	Drug 61 73	penicillin G
+T8	Drug 78 88	gentamicin
+T10	Drug 122 131	cefazolin

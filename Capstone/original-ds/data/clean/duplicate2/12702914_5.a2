@@ -1,0 +1,7 @@
+T6	Adverse_event 95 107	deteriorated
+T12	Potential_therapeutic_event 32 40	improved
+E1	Adverse_event:T6 arg:T3 arg2:T4
+E2	Potential_therapeutic_event:T12 arg:T3
+R1	has Arg1:T3 Arg2:T11	
+R2	has_cue Arg1:E1 Arg2:T7	
+A1	Severity E1 High

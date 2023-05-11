@@ -1,0 +1,6 @@
+T5	Effect 0 44	Hyperkalaemia with renal tubular dysfunction
+T6	Treatment 48 77	sulfamethoxazole-trimethoprim
+T7	Subject 82 149	Pneumocystis carinii pneumonia in patients with lymphoid malignancy
+T10	Sub-Disorder 130 149	lymphoid malignancy
+T11	Drug 48 77	sulfamethoxazole-trimethoprim
+T12	Treat-Disorder 82 112	Pneumocystis carinii pneumonia

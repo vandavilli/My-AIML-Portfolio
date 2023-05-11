@@ -1,0 +1,5 @@
+T5	Subject 28 67	a patient with alveolar hydatid disease
+T6	Treatment 90 101	mebendazole
+T8	Effect 135 164	alopecia and granulocytopenia
+T10	Drug 90 101	mebendazole
+T11	Treat-Disorder 43 67	alveolar hydatid disease

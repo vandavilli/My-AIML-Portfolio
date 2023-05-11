@@ -1,0 +1,4 @@
+T5	Adverse_event 130 134	with
+T10	Adverse_event 45 54	developed
+E1	Adverse_event:T5 arg:T11 arg2:T13 arg3:T4
+E2	Adverse_event:T10 arg:T6 arg2:T3 arg3:T4

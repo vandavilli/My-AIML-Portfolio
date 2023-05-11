@@ -1,0 +1,3 @@
+T10	Adverse_event 52 61	developed
+E1	Adverse_event:T10 
+A1	Severity E1 High

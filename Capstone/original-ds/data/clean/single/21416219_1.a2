@@ -1,0 +1,4 @@
+T9	Potential_therapeutic_event 10 18	efficacy
+T14	Combination 22 28	adding
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T14 arg:T11 arg2:T12

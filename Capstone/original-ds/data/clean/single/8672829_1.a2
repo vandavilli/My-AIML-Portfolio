@@ -1,0 +1,4 @@
+T5	Potential_therapeutic_event 53 58	found
+T11	Combination 37 38	/
+E1	Potential_therapeutic_event:T5 
+E2	Combination:T11 arg:T7 arg2:T8

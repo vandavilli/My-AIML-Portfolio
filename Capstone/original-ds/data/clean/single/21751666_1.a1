@@ -1,0 +1,6 @@
+T9	Treat-Disorder 30 34	H1N1
+T10	Treatment 14 25;35 51	prophylaxis with oseltamivir
+T12	Subject 55 80	renal allograft recipient
+T14	Sub-Disorder 55 70	renal allograft
+T11	Drug 40 51	oseltamivir
+T17	Drug 14 25	prophylaxis

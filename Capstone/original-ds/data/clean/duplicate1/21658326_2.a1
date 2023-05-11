@@ -1,0 +1,7 @@
+T9	Treatment 0 17	Topical imiquimod
+T11	Treat-Disorder 132 163	non-melanoma skin cancer (NMSC)
+T12	Treat-Disorder 168 196	moderate to severe psoriasis
+T13	Treatment 22 66	tumor necrosis factor (TNF)-alpha inhibitors
+T14	Route 0 7	Topical
+T15	Drug 8 17	imiquimod
+T16	Drug 22 66	tumor necrosis factor (TNF)-alpha inhibitors

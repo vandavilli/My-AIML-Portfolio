@@ -1,0 +1,7 @@
+T5	Effect 78 101	acute hepatitis B and C
+T6	Subject 12 27	a heroin abuser
+T7	Sub-Disorder 14 27	heroin abuser
+T4	Treatment 111 178	a few days after the insertion of a subcutaneous naltrexone implant
+T8	Time_elapsed 111 121	a few days
+T9	Drug 160 170	naltrexone
+T10	Route 147 159;171 178	subcutaneous implant

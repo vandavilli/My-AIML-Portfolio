@@ -1,0 +1,5 @@
+T4	Treatment 26 51	seven cycles of treatment
+T5	Subject 0 11	The patient
+T6	Effect 12 19;82 135	expired pulmonary fibrosis and the drug toxicity of bleomycin
+T7	Drug 126 135	bleomycin
+T8	Dosage 26 38	seven cycles

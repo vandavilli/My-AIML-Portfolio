@@ -1,0 +1,4 @@
+T4	Adverse_event 95 103	reaction
+T10	Combination 127 130	and
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T11 arg2:T12

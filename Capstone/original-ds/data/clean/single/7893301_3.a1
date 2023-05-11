@@ -1,0 +1,8 @@
+T3	Subject 13 35	two asthmatic patients
+T5	Effect 47 58	hypokalemic
+T6	Treatment 65 103	inhalation of normal doses of albutero
+T7	Population 13 16	two
+T8	Sub-Disorder 17 26	asthmatic
+T9	Route 65 75	inhalation
+T10	Dosage 79 91	normal doses
+T11	Drug 95 104	albuterol

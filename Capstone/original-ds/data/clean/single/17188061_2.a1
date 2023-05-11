@@ -1,0 +1,7 @@
+T3	Effect 21 63	transient structured visual hallucinations
+T4	Subject 67 129	a patient with vascular age-related macular degeneration (AMD)
+T6	Treatment 141 174	an intravitreal Avastin-injection
+T7	Sub-Disorder 82 129	vascular age-related macular degeneration (AMD)
+T8	Severity_cue 21 30	transient
+T9	Drug 157 164	Avastin
+T10	Route 144 156;165 174	intravitreal injection

@@ -1,0 +1,5 @@
+T7	Treatment 27 71	potential sitagliptin-lovastatin interaction
+T8	Effect 0 14	Rhabdomyolysis
+T9	Speculation_cue 27 36	potential
+T10	Drug 37 48	sitagliptin
+T11	Drug 49 59	lovastatin

@@ -1,0 +1,7 @@
+T12	Treatment 89 109	high-dose cytarabine
+T13	Subject 113 137	patients who develop PPE
+T14	Effect 171 189	potential toxicity
+T15	Sub-Disorder 134 137	PPE
+T16	Dosage 89 98	high-dose
+T17	Drug 99 109	cytarabine
+T18	Treat-Disorder 287 312	haematologic malignancies

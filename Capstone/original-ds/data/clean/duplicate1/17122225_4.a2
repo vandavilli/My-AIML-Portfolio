@@ -1,0 +1,14 @@
+T12	Adverse_event 49 56	induced
+T19	Combination 132 141	receiving
+E1	Adverse_event:T12 arg:T11 arg2:T13 arg3:T10
+E2	Combination:T19 arg:T15 arg2:T17
+E3	Combination:T19 arg:T16 arg2:T18
+E4	Adverse_event:T12 arg:T11 arg2:T22 arg3:T10
+R1	has_cue Arg1:E1 Arg2:T21	
+R2	has_child Arg1:E1 Arg2:E2	
+R3	has Arg1:T22 Arg2:T16	
+R4	has Arg1:T13 Arg2:T15	
+R5	has_cue Arg1:E4 Arg2:T21	
+R6	has_child Arg1:E4 Arg2:E3	
+A1	Severity E1 High
+A2	Severity E4 High

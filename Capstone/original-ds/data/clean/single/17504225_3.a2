@@ -1,0 +1,4 @@
+T9	Adverse_event 141 150	suffering
+T13	Combination 60 71	interaction
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T14 arg2:T15

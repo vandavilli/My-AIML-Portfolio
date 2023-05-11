@@ -1,0 +1,4 @@
+T3	Treat-Disorder 0 30	Alprazolam withdrawal delirium
+T4	Negation_cue 31 43	unresponsive
+T6	Treatment 47 55	diazepam
+T7	Drug 47 55	diazepam

@@ -1,0 +1,4 @@
+T7	Adverse_event 83 92	receiving
+T3	Combination 110 119	responded
+E1	Adverse_event:T7 
+E2	Combination:T3 arg:T5 arg2:T9

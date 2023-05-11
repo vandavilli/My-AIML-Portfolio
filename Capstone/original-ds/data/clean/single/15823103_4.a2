@@ -1,0 +1,4 @@
+T8	Adverse_event 61 66	after
+T16	Combination 104 105	/
+E1	Adverse_event:T8 
+E2	Combination:T16 arg:T10 arg2:T12 arg3:T18

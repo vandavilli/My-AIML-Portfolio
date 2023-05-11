@@ -1,0 +1,5 @@
+T10	Adverse_event 102 105	led
+T14	Combination 31 42	interaction
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T15 arg2:T16
+A1	Speculated E1

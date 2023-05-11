@@ -1,0 +1,8 @@
+T4	Treatment 0 28	High-dose methylprednisolone
+T5	Effect 74 108	adrenal suppression in her newborn
+T7	Gender 43 48	woman
+T8	Sub-Disorder 34 42	pregnant
+T3	Subject 32 69	a pregnant woman with Crohn's disease
+T10	Dosage 0 9	High-dose
+T11	Drug 10 28	methylprednisolone
+T12	Treat-Disorder 54 69	Crohn's disease

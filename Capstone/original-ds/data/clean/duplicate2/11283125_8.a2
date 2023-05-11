@@ -1,0 +1,4 @@
+T14	Potential_therapeutic_event 0 10	Prevention
+T17	Combination 69 72	and
+E1	Potential_therapeutic_event:T14 
+E2	Combination:T17 arg:T21 arg2:T18

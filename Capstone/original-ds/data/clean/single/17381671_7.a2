@@ -1,0 +1,4 @@
+T13	Potential_therapeutic_event 60 62	in
+T16	Combination 6 9	and
+E1	Potential_therapeutic_event:T13 
+E2	Combination:T16 arg:T14 arg2:T15

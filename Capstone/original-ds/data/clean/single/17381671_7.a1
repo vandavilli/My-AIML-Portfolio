@@ -1,0 +1,4 @@
+T12	Treatment 0 47	SSRIs and fentanyl are commonly co-administered
+T11	Treat-Disorder 78 103;108 129	chronic or malignant pain underlying depression
+T14	Drug 0 5	SSRIs
+T15	Drug 10 18	fentanyl

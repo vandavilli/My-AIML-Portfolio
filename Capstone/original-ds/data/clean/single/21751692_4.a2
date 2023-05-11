@@ -1,0 +1,4 @@
+T14	Adverse_event 14 22	observed
+T21	Combination 174 179	added
+E1	Adverse_event:T14 
+E2	Combination:T21 arg:T20 arg2:T19

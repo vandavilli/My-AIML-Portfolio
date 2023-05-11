@@ -1,0 +1,4 @@
+T19	Adverse_event 43 50	causing
+T22	Combination 104 115	interaction
+E1	Adverse_event:T19 
+E2	Combination:T22 arg:T21 arg2:T20

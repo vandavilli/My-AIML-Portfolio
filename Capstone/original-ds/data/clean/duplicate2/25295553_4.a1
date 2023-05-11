@@ -1,0 +1,6 @@
+T7	Treatment 0 10;24 33	Pregabalin clozapine
+T10	Population 37 38	2
+T11	Sub-Disorder 53 66	schizophrenia
+T8	Subject 37 66	2 patients with schizophrenia
+T12	Drug 0 10	Pregabalin
+T13	Drug 24 33	clozapine

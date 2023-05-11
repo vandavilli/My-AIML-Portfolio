@@ -1,0 +1,4 @@
+T5	Treatment 92 101	acyclovir
+T7	Effect 110 123;191 226	neurotoxicity central nervous system side effects
+T8	Severity_cue 85 91	severe
+T9	Drug 92 101	acyclovir

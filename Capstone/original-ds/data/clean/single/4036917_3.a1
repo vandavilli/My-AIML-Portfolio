@@ -1,0 +1,5 @@
+T3	Treat-Disorder 83 105	the antecedent illness
+T4	Treatment 68 75	aspirin
+T6	Effect 150 152	RS
+T8	Drug 68 75	aspirin
+T9	Speculation_cue 106 109	may

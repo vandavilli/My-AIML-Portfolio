@@ -1,0 +1,3 @@
+T13	Adverse_event 188 202	administration
+E1	Adverse_event:T13 arg:T15 arg2:T16 arg3:T14
+E2	Adverse_event:T13 arg:T20 arg2:T21 arg3:T14

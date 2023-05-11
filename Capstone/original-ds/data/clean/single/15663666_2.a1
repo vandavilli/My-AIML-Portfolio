@@ -1,0 +1,5 @@
+T4	Treatment 75 91	withholding ATRA
+T8	Drug 87 91	ATRA
+T12	Negation_cue 14 17	not
+T13	Treatment 29 49	antibiotic treatment
+T14	Treat-Disorder 4 9	ulcer

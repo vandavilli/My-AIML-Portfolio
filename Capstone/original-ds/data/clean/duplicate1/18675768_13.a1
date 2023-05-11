@@ -1,0 +1,5 @@
+T10	Speculation_cue 30 38	possible
+T12	Effect 112 187	adverse effects (eg, dizziness, falls) and mimicked coronary artery disease
+T13	Treatment 39 85;100 111	interaction between propafenone and citalopram propafenone
+T15	Drug 59 70	propafenone
+T16	Drug 75 85	citalopram

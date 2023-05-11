@@ -1,0 +1,4 @@
+T23	Combination 326 329	and
+T24	Potential_therapeutic_event 272 279	treated
+E2	Combination:T23 arg:T21 arg2:T20 arg3:T22 arg4:T19
+E3	Potential_therapeutic_event:T24 

@@ -1,0 +1,6 @@
+T3	Treatment 0 10	Mesalamine
+T4	Speculation_cue 11 14	may
+T5	Effect 21 49	hypersensitivity pneumonitis
+T6	Subject 53 82	patients with Crohn's disease
+T8	Sub-Disorder 67 82	Crohn's disease
+T10	Drug 0 10	Mesalamine

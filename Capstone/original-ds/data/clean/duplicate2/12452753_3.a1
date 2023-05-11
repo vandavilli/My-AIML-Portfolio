@@ -1,0 +1,6 @@
+T3	Effect 17 35	allergic reactions
+T5	Drug 39 51	capecitabine
+T4	Treatment 39 51	capecitabine
+T7	Treatment 0 11	Fluorouraci
+T8	Drug 0 12	Fluorouracil
+T10	Treat-Disorder 17 51	allergic reactions to capecitabine

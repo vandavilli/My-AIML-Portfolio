@@ -1,0 +1,4 @@
+T4	Adverse_event 20 27	induced
+T10	Combination 33 44	combination
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T7 arg2:T8 arg3:T9

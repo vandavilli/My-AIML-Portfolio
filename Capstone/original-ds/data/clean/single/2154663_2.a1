@@ -1,0 +1,5 @@
+T3	Subject 144 156	this patient
+T4	Effect 48 61	skin toxicity
+T5	Treatment 0 23;65 82	Concomitant irradiation aminoglutethimide
+T7	Drug 65 82	aminoglutethimide
+T9	Drug 12 23	irradiation

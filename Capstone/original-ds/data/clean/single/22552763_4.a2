@@ -1,0 +1,4 @@
+T9	Adverse_event 42 49	treated
+T15	Combination 114 125	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T14 arg2:T13 arg3:T12

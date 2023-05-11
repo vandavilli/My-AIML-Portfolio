@@ -1,0 +1,7 @@
+T10	Treatment 113 177	metoclopramide was coadministered with sertraline or venlafaxine
+T11	Effect 32 97	serotonin syndrome with serious extrapyramidal movement disorders
+T12	Subject 21 28	2 cases
+T13	Population 21 22	2
+T15	Drug 113 127	metoclopramide
+T16	Drug 152 162	sertraline
+T17	Drug 166 177	venlafaxine

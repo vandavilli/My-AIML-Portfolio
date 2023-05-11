@@ -1,0 +1,4 @@
+T8	Adverse_event 121 126	taken
+T13	Combination 145 148	and
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T11 arg2:T12

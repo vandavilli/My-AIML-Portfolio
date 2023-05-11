@@ -1,0 +1,16 @@
+T12	Treatment 9 122	After 4- to 14-month period of therapy with the combination of indapamide (2.5 mg/day) and fosinopril (10 mg/day)
+T13	Effect 285 293	diabetes
+T17	Drug 72 82	indapamide
+T18	Drug 100 110	fosinopril
+T19	Dosage 84 94	2.5 mg/day
+T21	Dosage 112 121	10 mg/day
+T23	Time_elapsed 145 159	6-month period
+T25	Drug 180 190	indapamide
+T26	Dosage 192 202	2.5 mg/day
+T24	Subject 126 140	three patients
+T28	Population 126 131	three
+T29	Duration 15 29	4- to 14-month
+T30	Effect 285 293	diabetes
+T31	Treatment 145 203	6-month period of monotherapy with indapamide (2.5 mg/day)
+T32	Subject 207 218	one patient
+T33	Population 207 210	one

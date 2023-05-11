@@ -1,0 +1,4 @@
+T17	Potential_therapeutic_event 241 243	to
+T27	Combination 207 212	added
+E1	Potential_therapeutic_event:T17 
+E2	Combination:T27 arg:T26 arg2:T28

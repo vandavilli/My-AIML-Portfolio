@@ -1,0 +1,7 @@
+T4	Effect 6 26	radiation myelopathy
+T5	Treatment 33 51;56 65	high-dose busulfan melphalan
+T8	Dosage 33 42	high-dose
+T9	Drug 43 51	busulfan
+T10	Drug 56 65	melphalan
+T12	Treat-Disorder 100 116	Ewing's sarcoma:
+T13	Severity_cue 0 5	Fatal

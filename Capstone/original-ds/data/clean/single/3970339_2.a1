@@ -1,0 +1,5 @@
+T4	Effect 0 9	Ischaemia
+T7	Drug 65 80	methylphenidate
+T8	Drug 85 96	diamorphine
+T9	Route 37 61	intra-arterial injection
+T6	Treatment 20 96	selfadministered intra-arterial injection of methylphenidate and diamorphine

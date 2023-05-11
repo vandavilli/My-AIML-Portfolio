@@ -1,0 +1,3 @@
+T6	Potential_therapeutic_event 88 95	managed
+E1	Potential_therapeutic_event:T6 arg:T7
+R1	has Arg1:T7 Arg2:T5	

@@ -1,0 +1,5 @@
+T3	Effect 60 104	histological abnormalities of the glomerulus
+T5	Treatment 121 151	postoperative IFN-beta therapy
+T7	Drug 135 143	IFN-beta
+T8	Treat-Disorder 160 178	malignant melanoma
+T9	Time_elapsed 121 134	postoperative

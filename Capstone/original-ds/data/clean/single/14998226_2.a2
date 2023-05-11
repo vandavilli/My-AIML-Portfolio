@@ -1,0 +1,8 @@
+T11	Adverse_event 68 79	experienced
+T21	Potential_therapeutic_event 181 189	switched
+E1	Adverse_event:T11 arg:T10 arg2:T12 arg3:T9
+E2	Potential_therapeutic_event:T21 arg:T22
+R1	has Arg1:T10 Arg2:T15	
+R2	has Arg1:T22 Arg2:T17	
+R3	has Arg1:T22 Arg2:T16	
+R4	has Arg1:T22 Arg2:T19	

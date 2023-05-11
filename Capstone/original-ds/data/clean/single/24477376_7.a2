@@ -1,0 +1,4 @@
+T7	Potential_therapeutic_event 125 132	prevent
+T11	Combination 39 42	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T11 arg:T10 arg2:T12

@@ -1,0 +1,7 @@
+T8	Treatment 126 169;182 200	fentanyl and other phenylpiperidine opioids treated with SSRIs
+T9	Subject 173 181	patients
+T11	Effect 72 90	serotonin syndrome
+T12	Speculation_cue 48 56	possible
+T13	Drug 126 134	fentanyl
+T14	Drug 145 169	phenylpiperidine opioids
+T15	Drug 195 200	SSRIs

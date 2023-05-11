@@ -1,0 +1,4 @@
+T6	Adverse_event 98 102	with
+T11	Combination 146 157	combination
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

@@ -1,0 +1,4 @@
+T10	Adverse_event 127 131	show
+T13	Combination 48 51	and
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

@@ -1,0 +1,9 @@
+T5	Treatment 0 11	Gemcitabine
+T7	Effect 39 64	hemolytic uremic syndrome
+T8	Drug 0 11	Gemcitabine
+T10	Severity_cue 103 108	fatal
+T11	Treatment 146 192	with steroids, plasmapheresis and hemodialysis
+T12	Drug 151 159	steroids
+T13	Drug 161 175	plasmapheresis
+T14	Drug 180 192	hemodialysis
+T15	Treat-Disorder 93 108	a rapidly fatal

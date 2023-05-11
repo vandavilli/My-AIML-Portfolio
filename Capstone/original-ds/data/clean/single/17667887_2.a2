@@ -1,0 +1,4 @@
+T13	Adverse_event 62 68	during
+T15	Combination 132 135	and
+E1	Adverse_event:T13 
+E2	Combination:T15 arg:T16 arg2:T17

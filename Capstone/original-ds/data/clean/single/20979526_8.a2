@@ -1,0 +1,4 @@
+T10	Adverse_event 220 230	attributed
+E1	Adverse_event:T10 
+A1	Negated E1
+A2	Speculated E1

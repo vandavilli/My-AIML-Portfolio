@@ -1,0 +1,4 @@
+T12	Adverse_event 127 135	interact
+T11	Combination 127 135	interact
+E2	Adverse_event:T12 
+E3	Combination:T11 arg:T6 arg2:T10

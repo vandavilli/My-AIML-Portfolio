@@ -1,0 +1,6 @@
+T5	Effect 7 27	adenovirus pneumonia
+T7	Treatment 44 63	infliximab infusion
+T9	Drug 44 54	infliximab
+T10	Route 55 63	infusion
+T11	Treat-Disorder 85 100	Crohn's disease
+T12	Severity_cue 0 6	Severe

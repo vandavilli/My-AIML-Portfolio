@@ -1,0 +1,5 @@
+T7	Adverse_event 45 53	recurred
+T13	Adverse_event 119 127	resulted
+E1	Adverse_event:T7 arg:T8 arg2:T9
+E3	Adverse_event:T13 arg:T12 arg2:T14
+R1	has Arg1:T12 Arg2:T11	

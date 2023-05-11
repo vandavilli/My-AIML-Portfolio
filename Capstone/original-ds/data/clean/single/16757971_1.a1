@@ -1,0 +1,9 @@
+T11	Treatment 18 30;58 88	temozolomide exacerbated by corticosteroids
+T13	Effect 39 56	immunosuppression
+T14	Effect 104 126	T-cell lymphocytopenia
+T15	Effect 174 205	Pneumocystis jiroveci pneumonia
+T16	Effect 207 248	brain abscess with Listeria monocytogenes
+T17	Effect 254 280	cutaneous Kaposi's sarcoma
+T18	Drug 18 30	temozolomide
+T19	Drug 73 88	corticosteroids
+T21	Severity_cue 11 17	Severe

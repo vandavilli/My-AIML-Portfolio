@@ -1,0 +1,5 @@
+T3	Effect 0 11	Anaphylaxis
+T4	Treatment 15 39	intravenous cyclosporine
+T6	Drug 27 39	cyclosporine
+T7	Route 15 26	intravenous
+T8	Subject 76 80	case

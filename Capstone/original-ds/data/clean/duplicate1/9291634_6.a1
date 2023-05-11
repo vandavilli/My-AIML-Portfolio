@@ -1,0 +1,10 @@
+T8	Subject 42 112	five patients (4 males and 1 female) with acute lymphoblastic leukemia
+T9	Effect 123 171	incapacitating myalgias in neck, thighs and arms
+T10	Treatment 0 40	Ten-17 days after receiving chemotherapy
+T12	Population 57 58	4
+T13	Gender 59 64	males
+T14	Population 69 70	1
+T15	Gender 71 77	female
+T17	Route 28 40	chemotherapy
+T18	Time_elapsed 0 11	Ten-17 days
+T19	Treat-Disorder 84 112	acute lymphoblastic leukemia

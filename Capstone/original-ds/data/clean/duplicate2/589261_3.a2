@@ -1,0 +1,6 @@
+T6	Adverse_event 148 157	receiving
+T14	Adverse_event 89 98	receiving
+E1	Adverse_event:T6 arg:T5 arg2:T8 arg3:T4
+E2	Adverse_event:T14 arg:T15 arg2:T10 arg3:T4
+R1	has_cue Arg1:E2 Arg2:T13	
+A1	Severity E1 Low

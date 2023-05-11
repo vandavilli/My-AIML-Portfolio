@@ -1,0 +1,6 @@
+T7	Effect 0 15	Agranulocytosis
+T8	Treatment 60 64;27 37	CAPD vancomycin
+T9	Subject 44 56	ESRD patient
+T10	Sub-Disorder 44 48	ESRD
+T11	Route 60 64	CAPD
+T12	Drug 27 37	vancomycin

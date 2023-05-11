@@ -1,0 +1,4 @@
+T10	Adverse_event 271 278	induced
+T11	Combination 307 318	interaction
+E1	Adverse_event:T10 
+E2	Combination:T11 arg:T13 arg2:T14

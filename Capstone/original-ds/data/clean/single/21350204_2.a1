@@ -1,0 +1,8 @@
+T11	Effect 72 114	increased risk of intracerebral hemorrhage
+T13	Treatment 33 41;158 198	warfarin intravenous tissue plasminogen activator
+T12	Subject 118 147;214 257	patients with ischemic stroke with an international normalized ratio <1.7
+T15	Sub-Disorder 132 147	ischemic stroke
+T9	Speculation_cue 46 86	may be associated with an increased risk
+T16	Subject 158 198	intravenous tissue plasminogen activator
+T17	Drug 33 41	warfarin
+T19	Drug 159 198	ntravenous tissue plasminogen activator

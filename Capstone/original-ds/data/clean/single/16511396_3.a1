@@ -1,0 +1,7 @@
+T4	Treatment 59 71	sulfadiazine
+T5	Drug 59 71	sulfadiazine
+T6	Effect 72 88	hypersensitivity
+T9	Treatment 123 138	corticosteroids
+T10	Drug 123 138	corticosteroids
+T11	Effect 100 117	immunosuppression
+T12	Speculation_cue 90 99	potential

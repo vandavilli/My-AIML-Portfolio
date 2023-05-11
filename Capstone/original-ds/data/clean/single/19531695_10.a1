@@ -1,0 +1,5 @@
+T6	Subject 105 125	susceptible patients
+T7	Effect 93 101	delirium
+T8	Treatment 0 82	Flecainide and pharmacologically similar agents that interact with sodium channels
+T10	Drug 0 10	Flecainide
+T11	Speculation_cue 83 86	may

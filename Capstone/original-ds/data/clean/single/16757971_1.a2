@@ -1,0 +1,5 @@
+T12	Adverse_event 31 38	induced
+T20	Combination 58 69	exacerbated
+E1	Adverse_event:T12 
+E2	Combination:T20 arg:T19 arg2:T18
+A1	Severity E1 High

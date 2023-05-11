@@ -1,0 +1,9 @@
+T6	Treatment 147 216	chemotherapy interruption and supportive care with a 1 year follow-up
+T10	Treatment 76 103	carboplatin and gemcitabine
+T11	Drug 76 87	carboplatin
+T12	Drug 92 103	gemcitabine
+T8	Subject 28 62	an advanced ovarian cancer patient
+T15	Treat-Disorder 31 54	advanced ovarian cancer
+T16	Effect 21 24	HUS
+T17	Treat-Disorder 21 24	HUS
+T4	Effect 123 140	favorable outcome

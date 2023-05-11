@@ -1,0 +1,9 @@
+T3	Subject 35 56	parkinsonian patients
+T4	Treatment 62 71	levo-dopa
+T6	Effect 80 100	diphasic dyskinesias
+T7	Sub-Disorder 35 47	parkinsonian
+T8	Drug 62 71	levo-dopa
+T9	Treat-Disorder 166 184	abnormal movements
+T10	Treatment 115 139	subcutaneous apomorphine
+T11	Route 115 127	subcutaneous
+T12	Drug 128 139	apomorphine

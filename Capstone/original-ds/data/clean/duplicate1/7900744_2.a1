@@ -1,0 +1,6 @@
+T3	Treatment 55 63	mannitol
+T5	Effect 72 75	ARF
+T6	Drug 55 63	mannitol
+T8	Treat-Disorder 55 75	mannitol-induced ARF
+T9	Treatment 0 12	Hemodialysis
+T10	Drug 0 12	Hemodialysis

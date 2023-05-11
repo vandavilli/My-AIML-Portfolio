@@ -1,0 +1,4 @@
+T14	Combination 50 54	plus
+T11	Potential_therapeutic_event 65 77	administered
+E2	Combination:T14 arg:T13 arg2:T15
+E1	Potential_therapeutic_event:T11 

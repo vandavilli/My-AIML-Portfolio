@@ -1,0 +1,4 @@
+T7	Effect 11 40	significant thyroid disorders
+T8	Treatment 215 223;281 296	warfarin with amiodarone
+T10	Drug 215 223	warfarin
+T11	Drug 286 296	amiodarone

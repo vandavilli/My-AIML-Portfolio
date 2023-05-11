@@ -1,0 +1,14 @@
+T12	Subject 43 84	patients (N = 92) with mixed dyslipidemia
+T13	Treatment 98 194;309 378	moderate-dose statin (rosuvastatin 20 mg, simvastatin 40 mg, or atorvastatin 40 mg) for 12 weeks fenofibric acid 135 mg added to the moderate-dose statin in a 52-week
+T15	Treat-Disorder 66 84	mixed dyslipidemia
+T18	Drug 120 132	rosuvastatin
+T19	Dosage 133 138	20 mg
+T16	Drug 140 151	simvastatin
+T17	Drug 162 174	atorvastatin
+T20	Dosage 152 157	40 mg
+T21	Dosage 175 180	40 mg
+T22	Time_elapsed 186 194	12 weeks
+T23	Effect 239 299	LDL-C <100 mg/dL but whose triglycerides remained >200 mg/dL
+T24	Drug 309 324	fenofibric acid
+T25	Dosage 325 331	135 mg
+T26	Time_elapsed 371 378	52-week

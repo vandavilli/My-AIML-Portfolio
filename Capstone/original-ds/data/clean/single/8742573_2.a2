@@ -1,0 +1,9 @@
+T6	Potential_therapeutic_event 72 77	treat
+T13	Adverse_event 126 133	induced
+E1	Potential_therapeutic_event:T6 arg2:T5 arg:T8
+E2	Adverse_event:T13 arg2:T14 arg:T4
+R1	has_cue Arg1:E1 Arg2:T7	
+R2	has Arg1:T5 Arg2:T10	
+R3	has_cue Arg1:E2 Arg2:T11	
+A1	Speculated E1
+A2	Severity E2 High

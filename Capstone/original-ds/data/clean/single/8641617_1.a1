@@ -1,0 +1,9 @@
+T4	Treatment 78 88	vancomycin
+T5	Drug 78 88	vancomycin
+T6	Subject 9 22	both patients
+T9	Treat-Disorder 42 49	colitis
+T10	Population 9 13	both
+T11	Effect 118 142	a relapse of the colitis
+T12	Treatment 159 218	a subsequent course of the same chemotherapy with cisplatin
+T13	Drug 209 218	cisplatin
+T8	Route 191 203	chemotherapy

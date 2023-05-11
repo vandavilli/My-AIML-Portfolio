@@ -1,0 +1,6 @@
+T5	Subject 0 9	Patient A
+T6	Effect 19 49	right leg weakness (foot drop)
+T7	Treatment 57 87	week 4 of CAP-XRT (1600 mg/m2)
+T9	Drug 67 74	CAP-XRT
+T10	Dosage 76 86	1600 mg/m2
+T11	Time_elapsed 57 63	week 4

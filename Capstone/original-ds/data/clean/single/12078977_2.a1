@@ -1,0 +1,6 @@
+T5	Effect 0 29	Posterior leukoencephalopathy
+T6	Treat-Disorder 89 117	germ cell tumor of the ovary
+T9	Drug 40 49	cisplatin
+T10	Drug 51 60	bleomycin
+T11	Drug 65 76	vinblastine
+T7	Treatment 40 117	cisplatin, bleomycin and vinblastine therapy for germ cell tumor of the ovary

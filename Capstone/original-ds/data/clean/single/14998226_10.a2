@@ -1,0 +1,4 @@
+T10	Adverse_event 62 68	caused
+T16	Combination 91 99	combined
+E1	Adverse_event:T10 
+E2	Combination:T16 arg:T14 arg2:T15

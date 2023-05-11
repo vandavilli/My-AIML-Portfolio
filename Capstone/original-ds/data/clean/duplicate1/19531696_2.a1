@@ -1,0 +1,6 @@
+T7	Speculation_cue 12 20	probable
+T8	Treatment 21 71	interaction between warfarin and marijuana smoking
+T10	Effect 86 166	increased international normalized ratio (INR) values and bleeding complications
+T11	Drug 41 49	warfarin
+T13	Drug 54 63	marijuana
+T14	Route 64 71	smoking

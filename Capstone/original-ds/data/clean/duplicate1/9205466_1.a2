@@ -1,0 +1,9 @@
+T5	Adverse_event 45 54	increases
+T8	Potential_therapeutic_event 144 155	preventable
+E1	Adverse_event:T5 arg:T3 arg2:T4
+E2	Potential_therapeutic_event:T8 arg:T9
+R1	has_cue Arg1:E2 Arg2:T6	
+R2	has Arg1:T9 Arg2:T11	
+R3	has_cue Arg1:E1 Arg2:T12	
+A1	Speculated E2
+A2	Speculated E1

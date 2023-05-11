@@ -1,0 +1,4 @@
+T11	Potential_therapeutic_event 63 68	began
+T20	Combination 143 146	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T20 arg:T17 arg2:T18 arg3:T19

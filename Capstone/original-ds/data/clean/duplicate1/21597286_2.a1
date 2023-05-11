@@ -1,0 +1,9 @@
+T6	Subject 57 64;124 150	a woman a T-lymphoblastic lymphoma
+T7	Treatment 76 119	a first injection of high-dose methotrexate
+T9	Gender 59 64	woman
+T10	Drug 107 119	methotrexate
+T11	Dosage 97 106	high-dose
+T12	Route 84 93	injection
+T13	Treat-Disorder 126 150	T-lymphoblastic lymphoma
+T14	Time_elapsed 78 83	first
+T15	Effect 22 53	potential drug-drug interaction

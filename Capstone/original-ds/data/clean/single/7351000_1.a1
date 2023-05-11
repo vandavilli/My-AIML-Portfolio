@@ -1,0 +1,5 @@
+T4	Effect 0 30	Acute non-lymphocytic leukemia
+T5	Subject 34 65	patients with ovarian carcinoma
+T7	Treatment 76 133	long-term treatment with Treosulfan (= dihydroxybusulfan)
+T9	Drug 101 111	Treosulfan
+T10	Treat-Disorder 48 65	ovarian carcinoma

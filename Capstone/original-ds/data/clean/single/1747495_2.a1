@@ -1,0 +1,4 @@
+T6	Effect 10 22	liver damage
+T8	Treatment 48 55	Danazol
+T10	Drug 48 55	Danazol
+T11	Treat-Disorder 60 86	fibrocystic breast disease

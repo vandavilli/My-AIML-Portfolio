@@ -1,0 +1,4 @@
+T9	Adverse_event 20 27	induced
+T13	Combination 9 10	/
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

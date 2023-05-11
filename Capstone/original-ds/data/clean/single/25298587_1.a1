@@ -1,0 +1,4 @@
+T6	Effect 7 32	debilitating neurological
+T8	Treatment 51 61;91 105	ranolazine clarithromycin
+T10	Drug 91 105	clarithromycin
+T11	Drug 51 61	ranolazine

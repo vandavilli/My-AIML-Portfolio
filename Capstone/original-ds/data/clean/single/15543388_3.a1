@@ -1,0 +1,9 @@
+T8	Subject 20 76	A 34-year-old woman with chronic hepatitis C, genotype 3
+T9	Treatment 88 144	pegylated interferon alpha-2a and ribavirin for 6 months
+T10	Effect 156 186	progressive malaise and anemia
+T11	Age 22 33	34-year-old
+T12	Gender 34 39	woman
+T13	Sub-Disorder 45 76	chronic hepatitis C, genotype 3
+T14	Duration 136 144	6 months
+T16	Drug 88 117	pegylated interferon alpha-2a
+T17	Drug 122 131	ribavirin

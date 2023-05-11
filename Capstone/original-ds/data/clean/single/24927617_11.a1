@@ -1,0 +1,8 @@
+T6	Effect 87 102	muscle toxicity
+T7	Subject 60 67	patient
+T8	Treatment 72 78	statin
+T10	Drug 72 78	statin
+T12	Drug 0 11	Simvastatin
+T13	Effect 12 51	plasma concentration increased 30 times
+T15	Sub-Disorder 72 102	statin induced muscle toxicity
+T16	Treatment 0 11	Simvastatin

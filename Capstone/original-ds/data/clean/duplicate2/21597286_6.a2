@@ -1,0 +1,5 @@
+T9	Adverse_event 177 188	responsible
+T10	Combination 107 118	interaction
+E1	Adverse_event:T9 
+E2	Combination:T10 arg:T11 arg2:T12
+A1	Speculated E1

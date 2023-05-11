@@ -1,0 +1,5 @@
+T3	Treatment 27 41	flucloxacillin
+T5	Effect 75 89	hepatic injury
+T6	Drug 27 41	flucloxacillin
+T7	Speculation_cue 42 45	may
+T8	Severity_cue 69 74	fatal

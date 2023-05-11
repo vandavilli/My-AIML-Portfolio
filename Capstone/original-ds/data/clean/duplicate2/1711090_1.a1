@@ -1,0 +1,6 @@
+T8	Treat-Disorder 194 218	hepatocellular carcinoma
+T9	Treatment 0 176	Trans-catheter hepatic arterial injection of lipiodol soluble anti-cancer agent SMANCS and ADR suspension in lipiodol combined with arterial embolization and local hyperthermia
+T10	Route 0 41	Trans-catheter hepatic arterial injection
+T11	Drug 80 86	SMANCS
+T12	Drug 91 94	ADR
+T13	Drug 109 117	lipiodol

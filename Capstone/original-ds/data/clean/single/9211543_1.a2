@@ -1,0 +1,4 @@
+T9	Adverse_event 40 50	simulating
+T16	Combination 10 13	and
+E1	Adverse_event:T9 
+E2	Combination:T16 arg:T15 arg2:T14

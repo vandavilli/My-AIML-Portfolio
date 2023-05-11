@@ -1,0 +1,7 @@
+T7	Subject 10 63	two patients who developed intense livedo reticularis
+T9	Treatment 105 124	interferon alpha 2b
+T10	Population 10 13	two
+T11	Sub-Disorder 37 63	intense livedo reticularis
+T12	Drug 105 124	interferon alpha 2b
+T13	Treat-Disorder 152 160	melanoma
+T14	Speculation_cue 64 79	clearly related

@@ -1,0 +1,6 @@
+T8	Treatment 53 73;139 148	TNF-alpha inhibitors imiquimod
+T9	Effect 117 133	exaggerated ASRs
+T11	Negation_cue 9 11	no
+T13	Speculation_cue 88 102	susceptibility
+T14	Drug 53 73	TNF-alpha inhibitors
+T15	Drug 139 148	imiquimod

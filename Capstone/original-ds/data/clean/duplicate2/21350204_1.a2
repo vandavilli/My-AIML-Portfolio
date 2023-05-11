@@ -1,0 +1,5 @@
+T9	Adverse_event 31 41	associated
+T13	Combination 94 101	treated
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T15 arg2:T14
+A1	Negated E1

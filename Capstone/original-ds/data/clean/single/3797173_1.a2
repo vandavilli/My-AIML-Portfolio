@@ -1,0 +1,8 @@
+T23	Adverse_event 44 49	cause
+T26	Adverse_event 176 183	related
+E1	Adverse_event:T23 arg:T20 arg2:T18 arg3:T17
+E2	Adverse_event:T26 arg:T24 arg2:T27
+R1	has_cue Arg1:E2 Arg2:T28	
+R2	has_cue Arg1:E1 Arg2:T29	
+A1	Speculated E2
+A2	Speculated E1

@@ -1,0 +1,14 @@
+T10	Effect 176 188	hypoglycemia
+T12	Subject 152 163	the patient
+T13	Treatment 0 109	After 5 days of clarithromycin 500 mg twice/day, amoxicillin 500 mg twice/day, and omeprazole 20 mg twice/day
+T15	Time_elapsed 0 12	After 5 days
+T16	Drug 16 30	clarithromycin
+T17	Dosage 31 37	500 mg
+T18	Freq 38 47	twice/day
+T19	Drug 49 60	amoxicillin
+T20	Dosage 61 67	500 mg
+T21	Freq 68 77	twice/day
+T22	Drug 83 93	omeprazole
+T23	Dosage 94 99	20 mg
+T24	Freq 100 109	twice/day
+T25	Treat-Disorder 131 150	H. pylori infection

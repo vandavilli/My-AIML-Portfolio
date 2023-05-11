@@ -1,0 +1,7 @@
+T9	Treatment 34 113	Lp-TAE alone and combined with radiofrequency (RF) capacitive hyperthermia (HT)
+T10	Subject 132 218	20 patients with hepatocellular carcinoma (HCC) associated with cirrhosis of the liver
+T11	Population 132 134	20
+T12	Sub-Disorder 149 173	hepatocellular carcinoma
+T13	Speculation_cue 119 128	evaluated
+T14	Drug 34 40	Lp-TAE
+T15	Drug 65 108	radiofrequency (RF) capacitive hyperthermia

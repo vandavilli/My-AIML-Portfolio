@@ -1,0 +1,6 @@
+T11	Adverse_event 190 199	developed
+T21	Combination 103 114	association
+E1	Adverse_event:T11 arg:T20 arg2:T12 arg3:T13
+E2	Adverse_event:T11 arg:T5 arg2:T16 arg3:T12
+E3	Combination:T21 arg:T17 arg2:T19
+R1	has_child Arg1:E2 Arg2:E3	

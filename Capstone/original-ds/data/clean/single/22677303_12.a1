@@ -1,0 +1,5 @@
+T7	Treatment 0 45	Interactions between warfarin and cloxacillin
+T9	Effect 60 85	serious adverse reactions
+T10	Severity_cue 60 67	serious
+T12	Drug 21 29	warfarin
+T13	Drug 34 45	cloxacillin

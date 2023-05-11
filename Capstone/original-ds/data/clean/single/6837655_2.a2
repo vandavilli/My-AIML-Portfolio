@@ -1,0 +1,4 @@
+T5	Adverse_event 40 46	during
+T8	Combination 88 99	association
+E1	Adverse_event:T5 
+E2	Combination:T8 arg:T6 arg2:T7

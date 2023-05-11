@@ -1,0 +1,6 @@
+T14	Adverse_event 265 272	achieve
+T16	Combination 57 68	combination
+E1	Adverse_event:T14 arg:T31 arg2:T13 arg3:T32
+E2	Combination:T16 arg:T17 arg2:T18
+E3	Adverse_event:T14 arg:T12 arg2:T24 arg3:T30
+R1	has_child Arg1:E3 Arg2:E2	

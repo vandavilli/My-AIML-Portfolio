@@ -1,0 +1,5 @@
+T14	Effect 26 32	anemia
+T16	Treatment 50 53;91 101	MMF prednisone
+T17	Speculation_cue 33 36	can
+T18	Drug 50 53	MMF
+T19	Drug 91 101	prednisone

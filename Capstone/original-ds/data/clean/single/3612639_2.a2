@@ -1,0 +1,4 @@
+T4	Adverse_event 16 24	occurred
+T13	Combination 70 73	and
+E1	Adverse_event:T4 
+E2	Combination:T13 arg:T9 arg2:T12

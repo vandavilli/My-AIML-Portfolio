@@ -1,0 +1,4 @@
+T4	Effect 0 22	Renal tubular acidosis
+T5	Treatment 36 41	FK506
+T7	Drug 36 41	FK506
+T8	Treat-Disorder 45 79	living donor liver transplantation

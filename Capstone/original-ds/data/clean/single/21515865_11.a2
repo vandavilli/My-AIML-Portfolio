@@ -1,0 +1,5 @@
+T8	Adverse_event 107 117	associated
+T12	Combination 123 134	concomitant
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T11 arg2:T10
+A1	Speculated E1

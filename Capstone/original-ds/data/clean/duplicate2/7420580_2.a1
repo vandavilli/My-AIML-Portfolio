@@ -1,0 +1,6 @@
+T3	Treatment 161 187	a high dose of vinblastine
+T5	Effect 85 144	syndrome of inappropriate secretion of antidiuretic hormone
+T6	Subject 13 72	a patient with an embryonal teratocarcinoma of the testicle
+T8	Dosage 163 172	high dose
+T9	Drug 176 187	vinblastine
+T10	Treat-Disorder 28 72	an embryonal teratocarcinoma of the testicle

@@ -1,0 +1,6 @@
+T8	Treatment 0 23;70 102	Weekly AUC2 carboplatin with or without oral phenoxodiol
+T10	Freq 0 6	Weekly
+T11	Drug 7 23	AUC2 carboplatin
+T12	Treat-Disorder 36 69	platinum-resistant ovarian cancer
+T7	Route 86 90	oral
+T13	Drug 91 102	phenoxodiol

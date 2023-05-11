@@ -1,0 +1,9 @@
+T8	Subject 2 46	53-year-old Caucasian male victim of suicide
+T9	Sub-Disorder 39 46	suicide
+T10	Treatment 64 72;78 103	overdose sertraline and alprazolam
+T12	Age 2 13	53-year-old
+T13	Race 14 23	Caucasian
+T14	Gender 24 28	male
+T15	Dosage 64 72	overdose
+T16	Drug 78 88	sertraline
+T18	Drug 93 103	alprazolam

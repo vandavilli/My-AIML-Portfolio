@@ -1,0 +1,4 @@
+T31	Adverse_event 122 131	developed
+T7	Combination 247 256	following
+E1	Adverse_event:T31 
+E2	Combination:T7 arg:T33 arg2:T8

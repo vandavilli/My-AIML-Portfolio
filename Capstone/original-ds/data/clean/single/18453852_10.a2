@@ -1,0 +1,9 @@
+T14	Adverse_event 0 5	After
+T20	Combination 27 28	/
+E2	Adverse_event:T14 arg:T12 arg2:T13 arg3:T15
+E1	Combination:T20 arg:T18 arg2:T19
+E3	Adverse_event:T14 arg:T23 arg2:T26 arg3:T12
+E4	Adverse_event:T14 arg:T12 arg2:T21 arg3:T25
+R1	has_child Arg1:E3 Arg2:E1	
+R2	has_child Arg1:E4 Arg2:E1	
+R3	has_child Arg1:E2 Arg2:E1	

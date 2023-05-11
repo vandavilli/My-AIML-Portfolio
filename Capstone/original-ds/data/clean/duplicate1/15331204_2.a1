@@ -1,0 +1,9 @@
+T13	Treat-Disorder 54 77	carbohydrate metabolism
+T14	Subject 81 112	essential hypertension patients
+T16	Speculation_cue 14 19	study
+T17	Drug 33 43	indapamide
+T11	Treatment 33 43	indapamide
+T18	Treat-Disorder 91 103	hypertension
+T19	Effect 172 180	diabetes
+T21	Treatment 192 202	indapamide
+T22	Drug 192 202	indapamide

@@ -1,0 +1,5 @@
+T12	Adverse_event 14 25	development
+T20	Combination 187 188	-
+E1	Adverse_event:T12 
+E3	Combination:T20 arg:T21 arg2:T22
+A1	Speculated E1

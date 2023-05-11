@@ -1,0 +1,6 @@
+T4	Effect 79 117	diabetic milieu deteriorated seriously
+T7	Severity_cue 108 117	seriously
+T3	Treatment 6 31	40 mg/day of prednisolone
+T8	Dosage 6 15	40 mg/day
+T9	Drug 19 31	prednisolone
+T11	Treat-Disorder 41 60	hepatic dysfunction

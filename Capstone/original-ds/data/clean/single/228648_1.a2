@@ -1,0 +1,4 @@
+T8	Adverse_event 125 132	treated
+T14	Combination 151 154	and
+E1	Adverse_event:T8 
+E2	Combination:T14 arg:T12 arg2:T13

@@ -1,0 +1,3 @@
+T9	Adverse_event 78 91	complications
+E1	Adverse_event:T9 
+A1	Negated E1

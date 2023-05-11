@@ -1,0 +1,7 @@
+T23	Adverse_event 131 140	reactions
+E1	Adverse_event:T23 arg2:T26 arg3:T22 arg:T24
+E2	Adverse_event:T23 arg3:T34 arg:T31 arg2:T30
+R1	has Arg1:T31 Arg2:T25	
+R2	has Arg1:T26 Arg2:T33	
+R3	has Arg1:T31 Arg2:T32	
+R4	has Arg1:T26 Arg2:T32	

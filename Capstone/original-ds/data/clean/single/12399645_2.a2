@@ -1,0 +1,5 @@
+T8	Adverse_event 78 88	withdrawal
+T15	Adverse_event 131 137	induce
+E1	Adverse_event:T8 arg:T5 arg2:T6 arg3:T16
+E2	Adverse_event:T15 arg:T12 arg2:T14
+R1	has_cue Arg1:E2 Arg2:T11	

@@ -1,0 +1,4 @@
+T10	Adverse_event 190 194	lead
+T14	Combination 94 100	during
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T12 arg2:T13

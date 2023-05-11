@@ -1,0 +1,5 @@
+T5	Subject 131 138	patient
+T6	Effect 141 179	reaction to the drug became more toxic
+T8	Drug 48 60	theophylline
+T9	Dosage 72 97	progressively lower doses
+T4	Treatment 48 97	theophylline therapy at progressively lower doses

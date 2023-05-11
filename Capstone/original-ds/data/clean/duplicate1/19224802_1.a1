@@ -1,0 +1,8 @@
+T9	Treatment 95 120	high-dose dexmedetomidine
+T10	Effect 3 27	exaggerated hypertensive
+T11	Effect 67 78	bradycardia
+T12	Drug 105 120	dexmedetomidine
+T14	Treatment 40 54	glycopyrrolate
+T15	Drug 40 54	glycopyrrolate
+T16	Dosage 95 104	high-dose
+T17	Treat-Disorder 67 78	bradycardia

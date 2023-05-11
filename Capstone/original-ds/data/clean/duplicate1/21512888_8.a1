@@ -1,0 +1,8 @@
+T8	Effect 36 44	seizures
+T9	Treatment 21 34	levetiracetam
+T10	Drug 21 34	levetiracetam
+T11	Treat-Disorder 36 44	seizures
+T14	Effect 131 194	a rapid increase in international normalized ratio (INR) to 7.6
+T12	Treatment 58 96	intravenous loading with valproic acid
+T15	Route 58 69	intravenous
+T16	Drug 83 96	valproic acid

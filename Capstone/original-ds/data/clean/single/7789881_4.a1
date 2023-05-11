@@ -1,0 +1,6 @@
+T3	Effect 0 116	Well-differentiated endometrial adenocarcinoma of the secretory type (FIGO Grade 1) with minimal myometrial invasion
+T5	Subject 129 153;204 220	a postmenopausal patient breast carcinoma
+T6	Treatment 157 199	tamoxifen therapy 5 years after mastectomy
+T8	Sub-Disorder 131 145	postmenopausal
+T9	Drug 157 166	tamoxifen
+T10	Treat-Disorder 204 220	breast carcinoma

@@ -1,0 +1,5 @@
+T9	Subject 12 21	a patient
+T10	Treatment 212 224;229 238	atorvastatin diltiazem
+T11	Effect 77 156	rhabdomyolysis and accompanying acute renal failure, along with acute hepatitis
+T14	Drug 212 224	atorvastatin
+T15	Drug 229 238	diltiazem

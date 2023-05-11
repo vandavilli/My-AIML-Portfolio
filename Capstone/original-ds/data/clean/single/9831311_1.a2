@@ -1,0 +1,4 @@
+T11	Adverse_event 9 22	major hazards
+T16	Combination 84 87	and
+E1	Adverse_event:T11 
+E2	Combination:T16 arg:T13 arg2:T14

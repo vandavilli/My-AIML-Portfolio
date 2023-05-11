@@ -1,0 +1,6 @@
+T10	Treatment 98 131;200 216	addition of bismuth subsalicylate warfarin therapy
+T13	Effect 23 87	inadvertent increase in the international normalized ratio (INR)
+T12	Subject 153 189	diarrhea in an enterally fed patient
+T14	Treat-Disorder 153 161	diarrhea
+T16	Drug 110 131	bismuth subsalicylate
+T17	Drug 200 208	warfarin

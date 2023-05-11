@@ -1,0 +1,6 @@
+T3	Treatment 13 23	amiodarone
+T5	Effect 32 52	thyrotoxicosis (AIT)
+T6	Negation_cue 103 114	ineffective
+T7	Drug 13 23	amiodarone
+T9	Treatment 58 99	thionamide, lithium or radioactive iodine
+T11	Treat-Disorder 13 52	amiodarone-induced thyrotoxicosis (AIT)

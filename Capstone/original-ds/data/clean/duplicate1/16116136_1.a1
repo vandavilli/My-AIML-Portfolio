@@ -1,0 +1,7 @@
+T3	Subject 0 29	A patient with generalized MG
+T5	Treatment 59 61	MM
+T8	Drug 59 61	MM
+T9	Treat-Disorder 15 29	generalized MG
+T6	Effect 76 88	CNS lymphoma
+T10	Time_elapsed 95 102	3 years
+T12	Treatment 59 61;89 115	MM after 3 years of treatment

@@ -1,0 +1,4 @@
+T10	Adverse_event 229 238	following
+T16	Adverse_event 70 79	following
+E1	Adverse_event:T10 arg:T9 arg2:T8
+E2	Adverse_event:T16 arg:T15 arg2:T13

@@ -1,0 +1,6 @@
+T8	Potential_therapeutic_event 61 68	treated
+T18	Potential_therapeutic_event 139 148	receiving
+E1	Potential_therapeutic_event:T8 arg:T10 arg2:T9
+E2	Potential_therapeutic_event:T18 arg:T17 arg2:T19
+R1	has Arg1:T9 Arg2:T15	
+R2	has Arg1:T19 Arg2:T15	

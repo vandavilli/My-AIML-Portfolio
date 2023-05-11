@@ -1,0 +1,5 @@
+T4	Subject 17 50	a patient with probable cisplatin
+T6	Treatment 55 64	bleomycin
+T8	Effect 73 76	TMA
+T9	Drug 55 64	bleomycin
+T10	Treat-Disorder 32 50	probable cisplatin

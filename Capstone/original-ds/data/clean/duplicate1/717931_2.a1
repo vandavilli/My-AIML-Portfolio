@@ -1,0 +1,8 @@
+T3	Effect 0 19	Marked hyperkalemia
+T5	Treatment 62 103	an infusion of arginine monohydrochloride
+T6	Subject 107 180	two patients with severe hepatic disease and moderate renal insufficiency
+T7	Population 107 110	two
+T8	Sub-Disorder 132 147	hepatic disease
+T10	Route 65 73	infusion
+T11	Drug 77 103	arginine monohydrochloride
+T12	Treat-Disorder 161 180	renal insufficiency

@@ -1,0 +1,5 @@
+T12	Potential_therapeutic_event 101 111	prevention
+T17	Combination 60 65	added
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T17 arg:T18 arg2:T19
+A1	Speculated E1

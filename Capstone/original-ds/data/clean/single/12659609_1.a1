@@ -1,0 +1,4 @@
+T6	Effect 0 8	Toxicity
+T8	Treatment 20 31	chloroquine
+T10	Drug 20 31	chloroquine
+T11	Treat-Disorder 45 68	resistant vivax malaria

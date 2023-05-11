@@ -1,0 +1,14 @@
+T4	Effect 0 36	Minor electrocardiographical changes
+T5	Subject 51 75	five out of six patients
+T6	Population 51 66	five out of six
+T7	Treatment 101 118	cardiac glycoside
+T8	Drug 101 118	cardiac glycoside
+T10	Subject 123 138	four out of six
+T11	Population 123 138	four out of six
+T12	Treatment 158 165	ouabain
+T13	Drug 158 165	ouabain
+T14	Subject 171 185	none of the 16
+T15	Treatment 205 212	digoxin
+T16	Drug 205 212	digoxin
+T17	Negation_cue 171 175	none
+T18	Population 171 185	none of the 16

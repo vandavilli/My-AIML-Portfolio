@@ -1,0 +1,10 @@
+T5	Sub-Disorder 37 53	multiple myeloma
+T7	Effect 68 109	acute life-threatening water intoxication
+T8	Treatment 135 152;157 194	oral indomethacin low dose intravenous cyclophosphamide
+T4	Subject 22 53	a patient with multiple myeloma
+T9	Route 135 139	oral
+T10	Drug 140 152	indomethacin
+T11	Dosage 157 165	low dose
+T12	Route 166 177	intravenous
+T13	Drug 178 194	cyclophosphamide
+T15	Severity_cue 74 90	life-threatening

@@ -1,0 +1,4 @@
+T11	Adverse_event 12 16	case
+T15	Combination 109 112	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T14 arg2:T13

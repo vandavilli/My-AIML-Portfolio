@@ -1,0 +1,7 @@
+T5	Treatment 92 133	the addition of progestogens to tamoxifen
+T9	Drug 108 120	progestogens
+T10	Drug 124 133	tamoxifen
+T12	Negation_cue 138 141	not
+T13	Speculation_cue 134 137	may
+T14	Treat-Disorder 163 182	endometrial lesions
+T15	Treat-Disorder 194 203	carcinoma

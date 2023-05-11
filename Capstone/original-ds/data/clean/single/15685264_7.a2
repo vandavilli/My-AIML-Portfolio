@@ -1,0 +1,4 @@
+T9	Adverse_event 0 5	After
+T17	Combination 49 53	with
+E1	Adverse_event:T9 
+E2	Combination:T17 arg:T15 arg2:T16

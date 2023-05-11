@@ -1,0 +1,7 @@
+T6	Treatment 117 128;140 154;159 173	fenclofenac aurothiomalate sulphasalazine
+T7	Effect 72 105	remission in rheumatoid arthritis
+T8	Sub-Disorder 42 66	selective IgA deficiency
+T9	Drug 117 128	fenclofenac
+T10	Drug 140 154	aurothiomalate
+T11	Drug 159 173	sulphasalazine
+T12	Subject 0 9	This case

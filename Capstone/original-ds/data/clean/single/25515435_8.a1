@@ -1,0 +1,6 @@
+T8	Treat-Disorder 39 47	fibrosis
+T9	Subject 39 68	fibrosis, leading the patient
+T11	Treatment 105 152	peginterferon alfa-2a, ribavirin and boceprevir
+T12	Drug 105 126	peginterferon alfa-2a
+T13	Drug 128 137	ribavirin
+T14	Drug 142 152	boceprevir

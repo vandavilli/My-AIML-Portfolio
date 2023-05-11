@@ -1,0 +1,6 @@
+T3	Treatment 20 27	codeine
+T4	Subject 41 55;90 144	in the neonate for cough control during an emergency department visit
+T5	Effect 28 40	intoxication
+T7	Age 48 55	neonate
+T9	Drug 20 27	codeine
+T10	Treat-Disorder 94 99	cough

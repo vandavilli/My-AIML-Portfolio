@@ -1,0 +1,5 @@
+T7	Adverse_event 50 59	increased
+T13	Combination 84 96	administered
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T12 arg2:T14
+A1	Speculated E1

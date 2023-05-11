@@ -1,0 +1,7 @@
+T10	Treatment 55 66	methicillin
+T11	Drug 55 66	methicillin
+T12	Treat-Disorder 76 113	heroin-related infective endocarditis
+T13	Effect 0 51	Focal glomerulonephritis and interstitial nephritis
+T15	Treatment 76 82	heroin
+T16	Drug 76 82	heroin
+T17	Effect 91 113	infective endocarditis

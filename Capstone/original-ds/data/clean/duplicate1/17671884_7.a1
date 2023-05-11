@@ -1,0 +1,9 @@
+T11	Effect 184 190	anemia
+T12	Subject 22 46	four transplant patients
+T13	Treatment 53 177	immediate post-transplantation immunosuppression utilized corticosteroids, cyclosporine, MMF, and anti-T-lymphocyte globulin
+T14	Population 22 26	four
+T16	Drug 111 126	corticosteroids
+T17	Drug 128 140	cyclosporine
+T18	Drug 142 145	MMF
+T19	Drug 152 177	nti-T-lymphocyte globulin
+T20	Treat-Disorder 27 37	transplant

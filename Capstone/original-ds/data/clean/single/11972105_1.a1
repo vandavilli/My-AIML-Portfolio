@@ -1,0 +1,5 @@
+T6	Effect 32 51	delayed elimination
+T7	Treatment 55 67	methotrexate
+T8	Subject 71 103	patients receiving ciprofloxacin
+T10	Drug 55 67	methotrexate
+T11	Severity_cue 110 116	severe

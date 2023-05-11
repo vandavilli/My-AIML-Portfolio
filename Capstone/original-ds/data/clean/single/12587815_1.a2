@@ -1,0 +1,4 @@
+T16	Adverse_event 131 136	while
+T20	Combination 173 176	and
+E1	Adverse_event:T16 
+E2	Combination:T20 arg:T19 arg2:T21

@@ -1,0 +1,7 @@
+T5	Subject 12 21;138 180	a patient in the setting of mild renal insufficiency
+T7	Effect 38 80	chronic nausea and an episode of confusion
+T8	Treatment 100 137	a small, stable dose of oral morphine
+T9	Sub-Disorder 156 180	mild renal insufficiency
+T10	Dosage 102 120	small, stable dose
+T11	Route 124 128	oral
+T12	Drug 129 137	morphine

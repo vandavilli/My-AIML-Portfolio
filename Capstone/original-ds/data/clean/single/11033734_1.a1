@@ -1,0 +1,7 @@
+T4	Subject 0 45	Eighty-two patients with various malignancies
+T5	Treatment 59 88	imipenem/cilastatin 143 times
+T8	Population 0 10	Eighty-two
+T9	Sub-Disorder 25 45	various malignancies
+T10	Drug 59 67	imipenem
+T11	Drug 68 78	cilastatin
+T12	Treat-Disorder 93 110	neutropenic fever

@@ -1,0 +1,6 @@
+T9	Treatment 64 105	valproic acid, lamotrigine, and phenytoin
+T10	Effect 137 147;157 183	toxicities concurrent viral infection
+T12	Drug 64 77	valproic acid
+T13	Drug 79 90	lamotrigine
+T14	Drug 96 105	phenytoin
+T16	Speculation_cue 27 38	possibility

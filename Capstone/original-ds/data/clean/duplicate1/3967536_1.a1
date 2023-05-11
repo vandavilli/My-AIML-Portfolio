@@ -1,0 +1,4 @@
+T5	Effect 0 28	Hypotension and sinus arrest
+T6	Treatment 34 44	nifedipine
+T8	Treat-Disorder 48 70	pulmonary hypertension
+T9	Drug 34 44	nifedipine

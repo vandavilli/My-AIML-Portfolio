@@ -1,0 +1,5 @@
+T6	Effect 0 18	Serotonin syndrome
+T8	Treatment 37 61	linezolid and meperidine
+T9	Drug 37 46	linezolid
+T11	Drug 51 61	meperidine
+T12	Negation_cue 74 77	not

@@ -1,0 +1,9 @@
+T6	Treatment 112 123	propranolol
+T7	Subject 0 11	One patient
+T8	Effect 18 42	lower average heart rate
+T9	Subject 47 59	two patients
+T10	Effect 64 104	lower average mean blood pressure values
+T11	Population 0 3	One
+T12	Population 47 50	two
+T14	Severity_cue 135 175	none of which was clinically significant
+T15	Drug 112 123	propranolol

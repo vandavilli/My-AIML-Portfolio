@@ -1,0 +1,5 @@
+T9	Adverse_event 52 54	in
+T14	Adverse_event 83 90	related
+E1	Adverse_event:T9 arg:T13 arg2:T10
+E2	Adverse_event:T14 arg:T15 arg2:T17
+R1	has Arg1:T10 Arg2:T12	

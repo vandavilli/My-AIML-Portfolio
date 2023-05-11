@@ -1,0 +1,6 @@
+T10	Speculation_cue 48 59;99 102	hypothesise may
+T11	Treatment 89 98;130 137	phenytoin quinine
+T12	Effect 118 137	efficacy of quinine
+T14	Drug 89 98	phenytoin
+T15	Drug 130 137	quinine
+T16	Treat-Disorder 158 165	malaria

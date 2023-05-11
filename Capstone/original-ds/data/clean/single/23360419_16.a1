@@ -1,0 +1,6 @@
+T15	Effect 385 433	contraceptive failure or loss of seizure control
+T16	Treatment 201 268	Lacosamide and an OC containing ethinylestradiol and levonorgestrel
+T17	Speculation_cue 363 371	unlikely
+T18	Drug 233 249	ethinylestradiol
+T19	Drug 254 268	levonorgestrel
+T21	Negation_cue 363 371	unlikely
