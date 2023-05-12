@@ -1,5 +1,7 @@
 ### Pharmacovigilance
-
+<p align=”center”>
+<img src='./pharmacovigilance-main/img/Pharmacovigilance-Market.jpg'>
+</p>
 **Vishu Andavilli**
 
 #### Executive summary
@@ -16,6 +18,8 @@ What are you trying to answer?
 
 #### Data Sources
 https://zenodo.org/record/7689970#.ZF1X3-zMLnQ
+
+Sun, Zhaoyue; Li, Jiazheng; Pergola, Gabriele; Wallace, Byron C.; John, Bino; Greene, Nigel; He, Yulan (2022). PHEE: A Dataset for Pharmacovigilance Event Extraction from Text [Dataset]. http://doi.org/10.5281/zenodo.7689970
 
 #### Methodology
 What methods are you using to answer the question?
@@ -34,3 +38,10 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
+
+Vishu Andavilli
+
+Email: vishu.andavilli@gmail.com
+
+[LinkedIn](<a href=”https://www.linkedin.com/in/vandavilli/">)
+
