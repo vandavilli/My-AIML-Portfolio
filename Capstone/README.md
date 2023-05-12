@@ -35,7 +35,11 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
+
 Vishu Andavilli
+
 Email: vishu.andavilli@gmail.com
+
 [LinkedIn](linkedin.com/in/vandavilli)
+
 
