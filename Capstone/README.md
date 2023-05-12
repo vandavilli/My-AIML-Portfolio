@@ -1,6 +1,7 @@
 ### Pharmacovigilance
+<p align=”center”>
 <img src='./pharmacovigilance-main/img/Pharmacovigilance-Market.jpg'>
-
+</p>
 **Vishu Andavilli**
 
 #### Executive summary
