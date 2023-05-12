@@ -1,6 +1,6 @@
 ### Pharmacovigilance
 <p align=”center”>
-<img src='/pharmacovigilance-main/images/Pharmacovigilance-Market.jpg'>
+<img src='./pharmacovigilance-main/images/Pharmacovigilance-Market.jpg'>
 </p>
 **Vishu Andavilli**
 
