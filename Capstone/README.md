@@ -43,8 +43,5 @@ Vishu Andavilli
 
 Email: vishu.andavilli@gmail.com
 
-[LinkedIn](linkedin.com/in/vandavilli)
-
-<a href=”https://www.linkedin.com/in/vandavilli/"><img align=”left” src=”[https://raw.githubusercontent.com/username/reponame/branch/foldername](https://github.com/vandavilli/BH-PCMLAI/edit/main/Capstone/README.md)/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
+[LinkedIn](<a href=”https://www.linkedin.com/in/vandavilli/">)
 
