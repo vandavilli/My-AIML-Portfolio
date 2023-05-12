@@ -1,6 +1,6 @@
 ### Pharmacovigilance
 <p align=”center”>
-<img src='./pharmacovigilance-main/img/Pharmacovigilance-Market.jpg'>
+<img src='/pharmacovigilance-main/img/Pharmacovigilance-Market.jpg'>
 </p>
 **Vishu Andavilli**
 
@@ -43,5 +43,5 @@ Vishu Andavilli
 
 Email: vishu.andavilli@gmail.com
 
-[LinkedIn](<a href=”https://www.linkedin.com/in/vandavilli/">)
+<a href='https://www.linkedin.com/in/vandavilli/'/> [My LinkedIn Page] </a>
 
