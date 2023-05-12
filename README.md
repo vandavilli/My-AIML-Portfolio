@@ -22,7 +22,6 @@
 
 
 ### Articles
-- 
 
 ### Awesome MLOps
 - https://github.com/kelvins/awesome-mlops
