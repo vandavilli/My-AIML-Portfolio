@@ -52,13 +52,7 @@ Tasks for Future Enhancements:
 
 1. Refine Multi-Event Subset Detection: Improve the detection and classification of cases belonging to the multi_event subset. Enhance the algorithms to accurately identify cases with multiple events, including ADEs, PTEs, and Combination sub-events. Consider refining the criteria for labeling cases as multi_event to handle cases with duplicated annotations more effectively.
 
-2. Optimize Annotation Consistency: Develop methods to ensure better consistency in annotations when multiple annotators are involved. Explore techniques to resolve conflicting annotations and improve agreement among annotators. This can enhance the reliability and accuracy of identifying cases with multiple events.
-
-3. Enhance Event Categorization: Expand the event categorization system to include a more comprehensive range of sub-events. Develop models or algorithms to automatically categorize sub-events, including Combination sub-events, for a more granular analysis of multi-event cases. This can provide deeper insights into the relationships and interactions between different events.
-
-4. Integrate Contextual Information: Incorporate contextual information, such as patient demographics, medical history, concomitant medications, and treatment regimens, into the analysis of multi-event cases. Consider leveraging additional data sources or structured information to enrich the understanding of these complex cases and improve risk assessment.
-
-5. Evaluate Inter-Annotator Agreement: Conduct a thorough evaluation of inter-annotator agreement to assess the reliability and consistency of annotations for multi-event cases. Analyze the sources of discrepancies and develop strategies to enhance agreement, such as providing clearer annotation guidelines or implementing annotation reconciliation processes.
+2. Integrate Contextual Information: Incorporate contextual information, such as patient demographics, medical history, concomitant medications, and treatment regimens, into the analysis of multi-event cases. Consider leveraging additional data sources or structured information to enrich the understanding of these complex cases and improve risk assessment.
 
 These future enhancements will contribute to a more accurate and comprehensive analysis of multi-event cases, improving the understanding of adverse drug events (ADEs) and potential therapeutic events (PTEs) in pharmacovigilance.
 
