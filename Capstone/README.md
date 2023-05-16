@@ -58,9 +58,9 @@ These future enhancements will contribute to a more accurate and comprehensive a
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb]( EDA )
+- [https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb]( Model )
+- [(https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)]( Classification Reports & Scoring Metrics)
 
 
 ##### Contact and Further Information
@@ -69,3 +69,4 @@ These future enhancements will contribute to a more accurate and comprehensive a
 - Email: vishu.andavilli@gmail.com
 - <a href='https://www.linkedin.com/in/vandavilli/'/> [My LinkedIn Page] </a>
 
+https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb
