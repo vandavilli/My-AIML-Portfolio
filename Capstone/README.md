@@ -2,6 +2,10 @@
 
 ![Pharmacovigilance](./pharmacovigilance-main/images/Pharmacovigilance-Market.jpg)
 
+<p align="center">
+  <img src="./path/to/your/image.jpg" alt="Pharmacovigilance Image">
+</p>
+
 **Vishu Andavilli**
 
 #### Executive Summary
