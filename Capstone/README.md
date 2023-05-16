@@ -58,14 +58,12 @@ These future enhancements will contribute to a more accurate and comprehensive a
 
 #### Outline of project
 
-- [EDA](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
-- [Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
-- [Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
+- [1~EDA](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
+- [2~Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
+- [3~Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
 
 ##### Contact and Further Information
 
 - Vishu Andavilli
 - Email: vishu.andavilli@gmail.com
 - [My LinkedIn Page](https://www.linkedin.com/in/vandavilli/)
-
-https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb
