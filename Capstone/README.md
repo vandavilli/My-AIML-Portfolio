@@ -66,6 +66,6 @@ These future enhancements will contribute to a more accurate and comprehensive a
 
 - Vishu Andavilli
 - Email: vishu.andavilli@gmail.com
-- <a href='https://www.linkedin.com/in/vandavilli/'/> [My LinkedIn Page] </a>
+- [My LinkedIn Page](https://www.linkedin.com/in/vandavilli/)
 
 https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb
