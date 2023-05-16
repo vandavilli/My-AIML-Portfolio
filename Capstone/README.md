@@ -58,8 +58,8 @@ These future enhancements will contribute to a more accurate and comprehensive a
 
 #### Outline of project
 
-- [https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb]( EDA )
-- [https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb]( Model )
+- [(https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)]( EDA )
+- [(https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)]( Model )
 - [(https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)]( Classification Reports & Scoring Metrics)
 
 
