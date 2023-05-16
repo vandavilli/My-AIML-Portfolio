@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NLP Analysis</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            background-image: url('../images/Pharmacovigilance-Market.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: rgba(0, 0, 0, 0.8);
+            font-family: 'Arial', sans-serif;
+        }
+
+        .container {
+            width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            margin-top: 100px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .input-container {
+            margin-bottom: 20px;
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            resize: vertical;
+            min-height: 100px;
+            border: none;
+            outline: none;
+            background-color: #f5f5f5;
+        }
+
+        .button-container {
+            text-align: center;
+        }
+
+        .analyze-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .analyze-button:hover {
+            background-color: #555;
+        }
+
+        .score-container {
+            margin-top: 30px;
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+        }
+
+        .score {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .score-label {
+            flex: 1;
+            font-weight: bold;
+        }
+
+        .score-value {
+            flex: 1;
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .positive {
+            color: green;
+        }
+
+        .negative {
+            color: red;
+        }
+
+        .neutral {
+            color: gray;
+        }
+
+        .compound {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NLP Analysis</h1>
+
+        <div class="input-container">
+            <textarea id="textInput" class="input-field" placeholder="Enter text for sentiment analysis"></textarea>
+        </div>
+
+        <div class="button-container">
+            <button id="analyzeButton" class="analyze-button">Analyze Sentiment</button>
+        </div>
+
+        <div class="score-container">
+            <div class="score">
+                <span class="score-label">Positive Sentiment:</span>
+                <span class="score-value positive" id="positiveScore"></span>
+            </div>
+            <div class="score">
+<span class="score-label">Negative Sentiment:</span>
+<span class="score-value negative" id="negativeScore"></span>
+</div>
+<div class="score">
+<span class="score-label">Neutral Sentiment:</span>
+<span class="score-value neutral" id="neutralScore"></span>
+</div>
+<div class="score">
+<span class="score-label">Compound Sentiment:</span>
+<span class="score-value compound" id="compoundScore"></span>
+</div>
+</div>
+</div>
+
+<script>
+    const analyzeButton = document.getElementById('analyzeButton');
+    const positiveScore = document.getElementById('positiveScore');
+    const negativeScore = document.getElementById('negativeScore');
+    const neutralScore = document.getElementById('neutralScore');
+    const compoundScore = document.getElementById('compoundScore');
+
+    function formatScore(score) {
+        return (score * 100).toFixed(2) + '%';
+    }
+
+    analyzeButton.addEventListener('click', () => {
+        const textInput = document.getElementById('textInput').value;
+
+        // Perform sentiment analysis and get sentimentScores object
+
+        // Dummy sentiment scores for demonstration
+        const sentimentScores = {
+            pos: 0.75,
+            neg: 0.1,
+            neu: 0.15,
+            compound: 0.6
+        };
+
+        positiveScore.textContent = formatScore(sentimentScores.pos);
+        negativeScore.textContent = formatScore(sentimentScores.neg);
+        neutralScore.textContent = formatScore(sentimentScores.neu);
+        compoundScore.textContent = formatScore(sentimentScores.compound);
+    });
+</script>
+</body>
+</html>
