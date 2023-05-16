@@ -31,14 +31,14 @@ The project follows the CRISP-DM Methodology for Pharmacovigilance NLP Analysis:
 
 5. **Evaluation**: Performance and effectiveness of the developed models for AE and PTE identification were assessed using precision, recall, and F1-score metrics. Iterative evaluation refined the models and algorithms, enhancing their performance and reliability.
 
-6. **Deployment**: (Outside the scope of the capstone project) Deployment of the evaluated models for practical use in pharmacovigilance processes is the next step.
+6. **Deployment**: <span style="color:red;font-style:italic">Outside the scope of the capstone project</span> Deployment of the evaluated models for practical use in pharmacovigilance processes is the next step.
 
-7. **Monitoring**: (Outside the scope of the capstone project) Ongoing monitoring and evaluation of the deployed models ensure their effectiveness and alignment with changing data and business requirements. Potential issues are identified, and necessary adjustments are made.
+7. **Monitoring**: <span style="color:red;font-style:italic">Outside the scope of the capstone project</span> Ongoing monitoring and evaluation of the deployed models ensure their effectiveness and alignment with changing data and business requirements. Potential issues are identified, and necessary adjustments are made.
 
 By following the CRISP-DM Methodology, the project leveraged NLP techniques to distinguish between AEs and PTEs, providing valuable insights for pharmacovigilance analysis and improving medication safety.
 
 #### Results
-The project is ongoing, and additional results will be added as the model matures.
+<span style="color:red;font-style:italic">The project is ongoing, and additional results will be added as the model matures.</span>
 
 #### Next Steps
 Future enhancements include:
