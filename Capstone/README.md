@@ -56,14 +56,21 @@ Tasks for Future Enhancements:
 
 These future enhancements will contribute to a more accurate and comprehensive analysis of multi-event cases, improving the understanding of adverse drug events (ADEs) and potential therapeutic events (PTEs) in pharmacovigilance.
 
-#### Outline of project
+## Outline of the Project
 
-- [1~EDA](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
-- [2~Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
-- [3~Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
+1. [Exploratory Data Analysis (EDA)](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
+   - Perform an in-depth analysis of the PharmacoVigilance dataset.
 
-##### Contact and Further Information
+2. [Sentiment Analysis Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
+   - Develop a sentiment analysis model to analyze sentiments in the dataset.
+
+3. [Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
+   - Evaluate the model's performance using classification reports and scoring metrics.
+
+## Contact and Further Information
+
+For any inquiries or further information, please feel free to contact:
 
 - Vishu Andavilli
 - Email: vishu.andavilli@gmail.com
-- [My LinkedIn Page](https://www.linkedin.com/in/vandavilli/)
+- [LinkedIn](https://www.linkedin.com/in/vandavilli/)
