@@ -1,65 +1,59 @@
 ### Pharmacovigilance
-<p align=”center”>
-<img src='./pharmacovigilance-main/images/Pharmacovigilance-Market.jpg'>
-</p>
+
+![Pharmacovigilance](./pharmacovigilance-main/images/Pharmacovigilance-Market.jpg)
+
 **Vishu Andavilli**
 
-#### Executive summary
-This summary provides an overview of a Pharmacovigilance project utilizing Natural Language Processing (NLP) techniques for enhanced identification and understanding of adverse drug events (ADEs). By analyzing 5,000 annotated pharmacovigilance events from medical case reports, the project aims to improve ADE categorization and knowledge. The utilization of NLP facilitates more efficient analysis and deeper insights into pharmacovigilance data.
+#### Executive Summary
+This project aims to enhance the identification and understanding of adverse drug events (ADEs) through Natural Language Processing (NLP) techniques. By analyzing 5,000 annotated pharmacovigilance events from medical case reports, the project seeks to improve ADE categorization and knowledge.
 
 #### Rationale
-Pharmacovigilance is essential for proactively monitoring the safety of medications, protecting patients from potential harm, ensuring regulatory compliance, and continuously improving the overall quality of healthcare.
+Pharmacovigilance plays a crucial role in monitoring medication safety, protecting patients, ensuring regulatory compliance, and improving healthcare quality.
 
 #### Research Question
-Pharmacovigilance has significant implications for various stakeholders, including drug safety agencies, pharmaceutical companies, healthcare providers, and patients. By improving the detection and understanding of adverse drug events (ADEs), it enables the implementation of more effective risk management strategies and early intervention to enhance patient safety. Moreover, the project aims to streamline pharmacovigilance processes and regulatory reporting, contributing to the development of safer medications. Leveraging advanced NLP techniques, the project seeks to enhance ADE detection, classification, and understanding, thereby providing valuable data-driven insights for the field of pharmacovigilance. Continuous monitoring and analysis of reported symptoms and adverse effects are crucial for ensuring the intended efficacy of medical procedures and medications.
+The project focuses on improving the detection and understanding of adverse drug events (ADEs) to enable effective risk management strategies and enhance patient safety. It aims to streamline pharmacovigilance processes, regulatory reporting, and the development of safer medications. Leveraging advanced NLP techniques, the project aims to enhance ADE detection, classification, and understanding, providing valuable data-driven insights for pharmacovigilance.
 
 #### Data Sources
-https://zenodo.org/record/7689970#.ZF1X3-zMLnQ
-
-Sun, Zhaoyue; Li, Jiazheng; Pergola, Gabriele; Wallace, Byron C.; John, Bino; Greene, Nigel; He, Yulan (2022). PHEE: A Dataset for Pharmacovigilance Event Extraction from Text [Dataset]. http://doi.org/10.5281/zenodo.7689970
+- [PHEE: A Dataset for Pharmacovigilance Event Extraction from Text](https://zenodo.org/record/7689970#.ZF1X3-zMLnQ)
 
 #### Methodology
-CRISP-DM Methodology for Pharmacovigilance NLP Analysis: 
+The project follows the CRISP-DM methodology for Pharmacovigilance NLP analysis:
 
-1. Business Understanding:
-In the initial stage of my pharmacovigilance NLP analysis project, I aimed to understand the business objectives. I identified the need to distinguish between Adverse Events (AEs) and Potential Therapeutic Events (PTEs) to gain a comprehensive understanding of medication effects. I defined the research questions, goals, and success criteria for the analysis.
+1. Business Understanding
+   - Define research questions, goals, and success criteria.
 
-2. Data Understanding:
-In this phase, I gathered and explored relevant data sources such as medical case reports, electronic health records, and social media. I assessed the quality, completeness, and availability of the data required for identifying AEs and PTEs. Through data exploration techniques, I gained insights into the structure, characteristics, and patterns within the data.
+2. Data Understanding
+   - Gather and explore relevant data sources.
 
-3. Data Preparation:
-To prepare the data for analysis, I performed data preprocessing tasks using NLP techniques. This included text cleaning, tokenization, and normalization to standardize the textual data. I leveraged named entity recognition and classification models to identify mentions of AEs and PTEs. By applying semantic analysis, I extracted relevant features and attributes associated with both AE and PTE mentions.
+3. Data Preparation
+   - Preprocess data using NLP techniques.
 
-4. Modeling:
-In this phase, I utilized various NLP algorithms and techniques to develop models for AE and PTE detection and classification. I employed supervised learning approaches to train and validate the models using annotated data. These models helped in the accurate identification and categorization of AEs and PTEs, allowing for a thorough analysis of medication effects.
+4. Modeling
+   - Develop NLP models for AE and PTE detection and classification.
 
-5. Evaluation:
-The evaluation phase involved assessing the performance and effectiveness of the developed models for AE and PTE identification. I employed evaluation metrics such as precision, recall, and F1-score to measure the model's accuracy and robustness. Through iterative evaluation, I refined the models and algorithms to improve their performance and reliability.
+5. Evaluation
+   - Assess model performance using evaluation metrics.
 
-6. Deployment: ** Outside the scope of the capstone project **
-Once the models were successfully evaluated, the next step is to deploy these models for practical use in the pharmacovigilance process.
+6. Deployment (Outside the scope of the capstone project)
 
-7. Monitoring: ** Outside the scope of the capstone project **
-The final phase of the CRISP-DM methodology requires continuously monitoring and evaluating the performance of the deployed models. Outputs generated by the models are analyzed, identify any potential issues or challenges, and make necessary adjustments to ensure their ongoing effectiveness. This iterative monitoring process ensures that the pharmacovigilance NLP analysis remains up-to-date and aligned with changing data and business requirements.
-
-By following the CRISP-DM methodology, I effectively leveraged NLP techniques to distinguish between AEs and PTEs, providing valuable insights for pharmacovigilance analysis and improving medication safety.
+7. Monitoring (Outside the scope of the capstone project)
 
 #### Results
-*** Will add more notes as the model matures ***
+- Will add more notes as the model matures.
 
-#### Next steps
+#### Next Steps
 Tasks for Future Enhancements:
+1. Refine Multi-Event Subset Detection
+   - Improve detection and classification of multi-event cases.
+   - Consider refining labeling criteria.
 
-1. Refine Multi-Event Subset Detection: Improve the detection and classification of cases belonging to the multi_event subset. Enhance the algorithms to accurately identify cases with multiple events, including ADEs, PTEs, and Combination sub-events. Consider refining the criteria for labeling cases as multi_event to handle cases with duplicated annotations more effectively.
-
-2. Integrate Contextual Information: Incorporate contextual information, such as patient demographics, medical history, concomitant medications, and treatment regimens, into the analysis of multi-event cases. Consider leveraging additional data sources or structured information to enrich the understanding of these complex cases and improve risk assessment.
-
-These future enhancements will contribute to a more accurate and comprehensive analysis of multi-event cases, improving the understanding of adverse drug events (ADEs) and potential therapeutic events (PTEs) in pharmacovigilance.
+2. Integrate Contextual Information
+   - Incorporate patient demographics, medical history, and treatment regimens.
 
 ## Outline of the Project
 
 1. [Exploratory Data Analysis (EDA)](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
-   - Perform an in-depth analysis of the PharmacoVigilance dataset.
+   - Perform an in-depth analysis of the Pharmacovigilance dataset.
 
 2. [Sentiment Analysis Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
    - Develop a sentiment analysis model to analyze sentiments in the dataset.
@@ -67,7 +61,7 @@ These future enhancements will contribute to a more accurate and comprehensive a
 3. [Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
    - Evaluate the model's performance using classification reports and scoring metrics.
 
-## Contact and Further Information
+#### Contact and Further Information
 
 For any inquiries or further information, please feel free to contact:
 
