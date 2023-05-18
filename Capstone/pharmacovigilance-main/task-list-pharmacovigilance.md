@@ -1,10 +1,10 @@
 # Pharmacovigilance Sentiment Analysis Task List
 
 ## 1. Exploratory Data Analysis (EDA)
-- ~~Clean and preprocess the dataset:
-  - ~~Remove any rows with missing or irrelevant drug or adverse event information.
-- ~~Visualize the distribution of sentiment labels:
-  - ~~Create a bar plot to show the count of each sentiment label for Adverse_event and Potential_therapeutic_event separately.
+- Clean and preprocess the dataset:
+  - Remove any rows with missing or irrelevant drug or adverse event information.
+- Visualize the distribution of sentiment labels:
+  - Create a bar plot to show the count of each sentiment label for Adverse_event and Potential_therapeutic_event separately.
 - Explore the relationship between variables:
   - Analyze the co-occurrence of specific drug names and adverse events within the Adverse_event and Potential_therapeutic_event topics to identify potential patterns or associations.
 - Analyze statistical properties of the dataset:
