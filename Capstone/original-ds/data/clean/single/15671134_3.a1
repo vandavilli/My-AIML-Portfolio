@@ -1,6 +1,0 @@
-T3	Treatment 28 37	clozapine
-T5	Effect 46 54	seizures
-T6	Drug 28 37	clozapine
-T8	Treatment 89 111;179 250	gradual dose titration concomitant use of a suitable mood stabilizer/anti-epileptic medication
-T10	Effect 123 169;255 311	the likelihood of further episodes of seizures improve the outcome of treatment-resistant schizophrenia
-T11	Treat-Disorder 28 54	clozapine-induced seizures

@@ -1,8 +1,0 @@
-T3	Effect 23 63	fatal case of toxic epidermal necrolysis
-T4	Subject 69 72	man
-T6	Treatment 94 108	oral ofloxacin
-T8	Gender 69 72	man
-T9	Severity_cue 23 28	fatal
-T10	Route 94 98	oral
-T11	Drug 99 108	ofloxacin
-T12	Treat-Disorder 113 125	epididymitis

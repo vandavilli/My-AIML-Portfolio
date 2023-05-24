@@ -1,4 +1,0 @@
-T7	Adverse_event 168 177	provoking
-T10	Combination 37 40	and
-E1	Adverse_event:T7 
-E2	Combination:T10 arg:T8 arg2:T9

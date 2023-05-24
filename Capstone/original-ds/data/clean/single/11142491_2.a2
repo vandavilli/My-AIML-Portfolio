@@ -1,4 +1,0 @@
-T8	Adverse_event 28 39	development
-T14	Combination 169 180	followed by
-E1	Adverse_event:T8 
-E2	Combination:T14 arg:T11 arg2:T12

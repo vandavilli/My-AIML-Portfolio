@@ -1,8 +1,0 @@
-T7	Treat-Disorder 71 84	CMV infection
-T8	Sub-Disorder 13 46	allogeneic bone marrow transplant
-T5	Subject 13 56	allogeneic bone marrow transplant recipient
-T9	Drug 123 134	ganciclovir
-T10	Drug 136 145	foscarnet
-T11	Drug 151 160	cidofovir
-T13	Treatment 99 160	sequential therapy with ganciclovir, foscarnet, and cidofovir
-T14	Effect 85 95	refractory

@@ -1,7 +1,0 @@
-T10	Adverse_event 141 146	cause
-T15	Potential_therapeutic_event 63 67	used
-E1	Adverse_event:T10 arg:T9 arg2:T11
-E2	Potential_therapeutic_event:T15 arg:T9
-R1	has Arg1:T9 Arg2:T14	
-R2	has Arg1:T9 Arg2:T16	
-R3	has Arg1:T9 Arg2:T17	

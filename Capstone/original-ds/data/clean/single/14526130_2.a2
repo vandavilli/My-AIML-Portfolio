@@ -1,4 +1,0 @@
-T6	Adverse_event 126 136	manifested
-T11	Combination 107 110	and
-E1	Adverse_event:T6 
-E2	Combination:T11 arg:T9 arg2:T10

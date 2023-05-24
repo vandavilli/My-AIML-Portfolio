@@ -1,4 +1,0 @@
-T7	Adverse_event 116 126	exposed to
-T11	Combination 166 169	and
-E1	Adverse_event:T7 
-E2	Combination:T11 arg:T9 arg2:T8 arg3:T10

@@ -1,5 +1,0 @@
-T14	Adverse_event 141 146	cause
-T18	Combination 5 17	interactions
-E1	Adverse_event:T14 
-E2	Combination:T18 arg:T16 arg2:T17
-A1	Speculated E1

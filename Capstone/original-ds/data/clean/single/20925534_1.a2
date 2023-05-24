@@ -1,4 +1,0 @@
-T7	Potential_therapeutic_event 39 41	in
-T9	Combination 12 16	with
-E1	Potential_therapeutic_event:T7 
-E2	Combination:T9 arg:T10 arg2:T11

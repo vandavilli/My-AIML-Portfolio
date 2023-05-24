@@ -1,6 +1,0 @@
-T8	Treatment 157 167	rocuronium
-T10	Effect 176 179	NMB
-T11	Drug 157 167	rocuronium
-T13	Treatment 128 139	antibiotics
-T14	Drug 128 139	antibiotics
-T16	Treat-Disorder 157 179	rocuronium-induced NMB

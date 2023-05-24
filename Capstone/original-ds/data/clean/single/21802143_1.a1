@@ -1,8 +1,0 @@
-T7	Subject 64 96	a bone marrow transplant patient
-T8	Treatment 33 60;107 119	tacrolimus and lansoprazole voriconazole
-T9	Treat-Disorder 134 175	CYP2C19 and CYP3A5 heterozygous mutations
-T10	Effect 0 24	Hepatic drug interaction
-T12	Sub-Disorder 66 88	bone marrow transplant
-T13	Drug 33 43	tacrolimus
-T14	Drug 48 60	lansoprazole
-T16	Drug 107 119	voriconazole

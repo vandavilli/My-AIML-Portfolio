@@ -1,4 +1,0 @@
-T10	Adverse_event 53 63	associated
-T18	Combination 148 157	receiving
-E1	Adverse_event:T10 
-E2	Combination:T18 arg:T17 arg2:T19

@@ -1,5 +1,0 @@
-T11	Potential_therapeutic_event 115 124	continued
-T14	Combination 71 74	and
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T14 arg:T8 arg2:T12
-A1	Negated E1

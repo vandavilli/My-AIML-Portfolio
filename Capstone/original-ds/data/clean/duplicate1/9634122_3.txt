@@ -1,1 +1,0 @@
-This case illustrates the potential decoupling of PSA response from disease status in flutamide withdrawal.

@@ -1,7 +1,0 @@
-T3	Treatment 44 56	methotrexate
-T5	Effect 9 26	immunosuppression
-T8	Speculation_cue 65 73	probably
-T6	Subject 81 115	patients with rheumatoid arthritis
-T9	Drug 44 56	methotrexate
-T10	Treat-Disorder 95 115	rheumatoid arthritis
-T11	Severity_cue 4 8	mild

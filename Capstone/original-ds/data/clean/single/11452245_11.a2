@@ -1,4 +1,0 @@
-T9	Adverse_event 92 99	enhance
-T15	Combination 0 11	Concomitant
-E1	Adverse_event:T9 
-E2	Combination:T15 arg:T12 arg2:T14 arg3:T13

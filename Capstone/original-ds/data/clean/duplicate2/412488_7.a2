@@ -1,5 +1,0 @@
-T12	Adverse_event 304 314	associated
-E1	Adverse_event:T12 arg:T10 arg2:T13
-R1	has Arg1:T13 Arg2:T17	
-R2	has_cue Arg1:E1 Arg2:T11	
-A1	Speculated E1

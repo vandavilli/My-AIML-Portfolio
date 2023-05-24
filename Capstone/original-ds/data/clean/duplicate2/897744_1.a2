@@ -1,5 +1,0 @@
-T12	Adverse_event 83 90	related
-T15	Adverse_event 67 74	treated
-E1	Adverse_event:T12 arg:T10 arg2:T13
-E2	Adverse_event:T15 arg:T16 arg2:T9
-R1	has Arg1:T16 Arg2:T14	

@@ -1,5 +1,0 @@
-T6	Adverse_event 64 68	took
-T12	Potential_therapeutic_event 105 112	treated
-E1	Adverse_event:T6 arg:T3 arg2:T4 arg3:T5
-E2	Potential_therapeutic_event:T12 arg:T13 arg2:T3
-R1	has Arg1:T13 Arg2:T11	

@@ -1,9 +1,0 @@
-T5	Effect 58 71	hypercalcemia
-T7	Treatment 85 110	acute vitamin D poisoning
-T8	Subject 44 52	patients
-T10	Drug 91 100	vitamin D
-T11	Time_elapsed 85 90	acute
-T12	Dosage 101 110	poisoning
-T13	Treat-Disorder 58 71	hypercalcemia
-T14	Treatment 0 19	Pamidronate therapy
-T15	Drug 0 11	Pamidronate

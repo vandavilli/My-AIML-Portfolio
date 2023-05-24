@@ -1,4 +1,0 @@
-T6	Adverse_event 31 37	caused
-T11	Combination 60 74	coadministered
-E1	Adverse_event:T6 
-E2	Combination:T11 arg:T9 arg2:T10

@@ -1,6 +1,0 @@
-T17	Adverse_event 78 87	following
-T21	Combination 156 160	with
-E1	Adverse_event:T17 
-E2	Combination:T21 arg:T20 arg2:T19
-A1	Speculated E1
-A2	Severity E1 High

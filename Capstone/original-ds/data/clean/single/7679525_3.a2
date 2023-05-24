@@ -1,4 +1,0 @@
-T7	Potential_therapeutic_event 3 12	recovered
-T14	Combination 82 85	and
-E1	Potential_therapeutic_event:T7 
-E2	Combination:T14 arg:T12 arg2:T13

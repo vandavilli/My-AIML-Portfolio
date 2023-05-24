@@ -1,6 +1,0 @@
-T3	Effect 27 46	respiratory failure
-T4	Treatment 54 63	gold salt
-T6	Sub-Disorder 101 121	rheumatoid arthritis
-T5	Subject 76 121	a patient suffering from rheumatoid arthritis
-T8	Drug 54 58	gold
-T9	Severity_cue 20 26	severe

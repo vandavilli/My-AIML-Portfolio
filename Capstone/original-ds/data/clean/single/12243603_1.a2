@@ -1,4 +1,0 @@
-T7	Adverse_event 15 19	with
-T9	Combination 20 30	concurrent
-E1	Adverse_event:T7 
-E2	Combination:T9 arg:T10 arg2:T11

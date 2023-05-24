@@ -1,5 +1,0 @@
-T14	Adverse_event 375 384	result in
-T20	Combination 222 232	containing
-E1	Adverse_event:T14 
-E2	Combination:T20 arg:T18 arg2:T19
-A1	Negated E1

@@ -1,4 +1,0 @@
-T4	Adverse_event 59 65	result
-E1	Adverse_event:T4 
-A1	Speculated E1
-A2	Severity E1 High

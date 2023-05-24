@@ -1,5 +1,0 @@
-T9	Adverse_event 153 169	etiologic agents
-T11	Combination 125 128	and
-E1	Adverse_event:T9 
-E2	Combination:T11 arg:T12 arg2:T13
-A1	Speculated E1

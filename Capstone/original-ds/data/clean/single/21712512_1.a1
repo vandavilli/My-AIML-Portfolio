@@ -1,6 +1,0 @@
-T10	Effect 15 47	iatrogenic adrenal insufficiency
-T12	Sub-Disorder 66 103	cystic fibrosis-related liver disease
-T13	Treatment 117 140;147 172	inhaled corticosteroids moderate CYP3A4 inhibitor
-T11	Subject 51 103	a patient with cystic fibrosis-related liver disease
-T15	Drug 117 140	inhaled corticosteroids
-T16	Drug 156 173	CYP3A4 inhibitor.

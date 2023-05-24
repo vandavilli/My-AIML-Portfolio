@@ -1,6 +1,0 @@
-T4	Effect 0 19	Neutropenic colitis
-T6	Treat-Disorder 101 118	testicular cancer
-T8	Dosage 27 40	standard dose
-T10	Drug 71 81	nedaplatin
-T11	Drug 86 96	irinotecan
-T7	Treatment 27 118	standard dose combination chemotherapy with nedaplatin and irinotecan for testicular cancer

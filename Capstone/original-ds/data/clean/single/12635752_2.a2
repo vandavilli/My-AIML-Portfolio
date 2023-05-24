@@ -1,5 +1,0 @@
-T4	Potential_therapeutic_event 0 20	Successful treatment
-T10	Adverse_event 90 95	after
-E1	Potential_therapeutic_event:T4 arg:T8
-E2	Adverse_event:T10 arg:T5 arg2:T11
-R1	has Arg1:T8 Arg2:T3	

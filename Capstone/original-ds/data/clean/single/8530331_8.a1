@@ -1,8 +1,0 @@
-T10	Subject 99 120	parkinsonian patients
-T12	Treat-Disorder 86 95	psychosis
-T13	Negation_cue 43 46	not
-T15	Sub-Disorder 99 111	parkinsonian
-T16	Drug 64 73	clozapine
-T17	Drug 28 39	risperidone
-T11	Treatment 28 39	risperidone
-T20	Treatment 64 73	clozapine

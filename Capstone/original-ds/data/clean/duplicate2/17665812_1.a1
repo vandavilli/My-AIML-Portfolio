@@ -1,8 +1,0 @@
-T3	Treatment 0 9	Clozapine
-T6	Effect 18 30	eosinophilia
-T7	Subject 61 120	patient with chronic schizophrenia with suicidal tendencies
-T8	Sub-Disorder 74 120	chronic schizophrenia with suicidal tendencies
-T9	Drug 0 9	Clozapine
-T5	Treatment 45 55	quetiapine
-T11	Drug 45 55	quetiapine
-T12	Treat-Disorder 0 30	Clozapine-induced eosinophilia

@@ -1,5 +1,0 @@
-T4	Adverse_event 10 17	induced
-T13	Potential_therapeutic_event 35 41	switch
-E1	Adverse_event:T4 arg:T3 arg2:T6 arg3:T7
-E2	Potential_therapeutic_event:T13 arg:T5 arg2:T7
-R1	has Arg1:T5 Arg2:T12	

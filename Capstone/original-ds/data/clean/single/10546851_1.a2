@@ -1,4 +1,0 @@
-T11	Potential_therapeutic_event 45 60	co-administered
-T12	Combination 0 11	Interaction
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T12 arg:T13 arg2:T14

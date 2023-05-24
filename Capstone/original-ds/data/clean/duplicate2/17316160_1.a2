@@ -1,4 +1,0 @@
-T13	Combination 71 82	concomitant
-T17	Potential_therapeutic_event 61 70	receiving
-E2	Combination:T13 arg:T14 arg2:T15
-E3	Potential_therapeutic_event:T17 

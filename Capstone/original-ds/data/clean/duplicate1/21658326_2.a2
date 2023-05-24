@@ -1,5 +1,0 @@
-T10	Potential_therapeutic_event 117 127	treatments
-E1	Potential_therapeutic_event:T10 arg:T13
-E2	Potential_therapeutic_event:T10 arg:T9
-R1	has Arg1:T9 Arg2:T11	
-R2	has Arg1:T13 Arg2:T12	

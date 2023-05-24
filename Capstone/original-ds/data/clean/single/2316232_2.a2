@@ -1,4 +1,0 @@
-T6	Adverse_event 25 37	secondary to
-T11	Combination 85 96	interaction
-E1	Adverse_event:T6 
-E2	Combination:T11 arg:T8 arg2:T9 arg3:T10

@@ -1,5 +1,0 @@
-T4	Adverse_event 240 246	reason
-T11	Combination 161 172	combination
-E1	Adverse_event:T4 
-E3	Combination:T11 arg:T9 arg2:T10 arg3:T7 arg4:T8
-A1	Speculated E1

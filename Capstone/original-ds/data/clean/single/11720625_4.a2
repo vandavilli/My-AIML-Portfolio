@@ -1,4 +1,0 @@
-T14	Adverse_event 78 84	taking
-T18	Combination 43 54	interaction
-E1	Adverse_event:T14 
-E2	Combination:T18 arg:T19 arg2:T20

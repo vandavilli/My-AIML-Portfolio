@@ -1,8 +1,0 @@
-T4	Subject 10 50	a 46-yr-old woman with ovarian carcinoma
-T6	Effect 65 88	porphyria cutanea tarda
-T7	Treatment 121 151	cisplatin and cyclophosphamide
-T8	Age 12 21	46-yr-old
-T9	Gender 22 27	woman
-T11	Drug 121 130	cisplatin
-T12	Drug 135 151	cyclophosphamide
-T13	Treat-Disorder 33 50	ovarian carcinoma

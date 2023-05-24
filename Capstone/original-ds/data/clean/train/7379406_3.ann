@@ -1,5 +1,0 @@
-T5	Treatment 122 142	nicotinic derivative
-T6	Effect 80 94	bone fluorosis
-T7	Drug 122 142	nicotinic derivative
-T4	Adverse_event 110 113	use
-E1	Adverse_event:T4

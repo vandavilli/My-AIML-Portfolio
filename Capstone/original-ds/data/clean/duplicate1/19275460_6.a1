@@ -1,6 +1,0 @@
-T8	Treatment 49 70;75 101	intravenous hydration broad-spectrum antibiotics
-T9	Subject 107 114	patient
-T10	Treat-Disorder 140 148;150 158;164 174	confused agitated despondent
-T12	Route 49 60	intravenous
-T13	Drug 61 70	hydration
-T14	Drug 90 101	antibiotics

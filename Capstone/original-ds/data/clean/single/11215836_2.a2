@@ -1,5 +1,0 @@
-T5	Adverse_event 84 93	receiving
-T10	Combination 107 112	after
-E1	Adverse_event:T5 
-E2	Combination:T10 arg:T8 arg2:T9
-A1	Speculated E1

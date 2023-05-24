@@ -1,4 +1,0 @@
-T9	Adverse_event 22 29	induced
-T12	Adverse_event 74 79	after
-E1	Adverse_event:T9 arg:T8 arg2:T10
-E2	Adverse_event:T12 arg:T15 arg2:T13

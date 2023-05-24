@@ -1,9 +1,0 @@
-T6	Adverse_event 209 218	developed
-E1	Adverse_event:T6 arg2:T13 arg3:T5 arg:T4
-E2	Adverse_event:T6 arg:T7 arg2:T18 arg3:T5
-R2	has Arg1:T13 Arg2:T16	
-R1	has Arg1:T7 Arg2:T15	
-R3	has Arg1:T13 Arg2:T22	
-R4	has Arg1:T7 Arg2:T17	
-R5	has Arg1:T13 Arg2:T24	
-R6	has Arg1:T7 Arg2:T23	

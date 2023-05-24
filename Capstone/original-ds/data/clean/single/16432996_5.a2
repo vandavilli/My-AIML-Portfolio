@@ -1,4 +1,0 @@
-T10	Potential_therapeutic_event 62 67	given
-T14	Combination 4 15	combination
-E1	Potential_therapeutic_event:T10 
-E2	Combination:T14 arg:T15 arg2:T16

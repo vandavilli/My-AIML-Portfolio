@@ -1,4 +1,0 @@
-T6	Adverse_event 29 37	followed
-T7	Combination 75 82	mixture
-E1	Adverse_event:T6 
-E2	Combination:T7 arg:T8 arg2:T9

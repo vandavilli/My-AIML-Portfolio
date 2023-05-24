@@ -1,4 +1,0 @@
-T15	Adverse_event 136 141	after
-T22	Combination 178 181	and
-E1	Adverse_event:T15 
-E2	Combination:T22 arg:T20 arg2:T19 arg3:T21 arg4:T16

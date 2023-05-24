@@ -1,4 +1,0 @@
-T6	Adverse_event 34 41	reports
-T9	Combination 74 78	with
-E1	Adverse_event:T6 
-E2	Combination:T9 arg:T7 arg2:T8

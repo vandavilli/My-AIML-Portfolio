@@ -1,7 +1,0 @@
-T7	Treat-Disorder 27 69	acquired platinum-resistant ovarian cancer
-T11	Drug 7 23	AUC2 carboplatin
-T12	Drug 91 102	phenoxodiol
-T13	Route 86 90	oral
-T8	Treatment 0 102	Weekly AUC2 carboplatin in acquired platinum-resistant ovarian cancer with or without oral phenoxodiol
-T14	Freq 0 6	Weekly
-T16	Drug 7 23	AUC2 carboplatin

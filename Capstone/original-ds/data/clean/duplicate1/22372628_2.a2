@@ -1,4 +1,0 @@
-T11	Potential_therapeutic_event 107 109	in
-T16	Combination 88 98	adjunctive
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T16 arg:T13 arg2:T14

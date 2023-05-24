@@ -1,8 +1,0 @@
-T15	Treatment 102 111;161 206	linezolid a serotonin reuptake inhibitor antidepressant
-T16	Effect 55 77	neuromuscular symptoms
-T14	Subject 123 135	two patients
-T18	Population 123 126	two
-T19	Drug 102 111	linezolid
-T20	Drug 163 191	serotonin reuptake inhibitor
-T22	Speculation_cue 26 37	potentially
-T23	Severity_cue 38 54	life-threatening

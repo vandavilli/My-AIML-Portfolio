@@ -1,7 +1,0 @@
-T7	Adverse_event 42 50	resulted
-T13	Potential_therapeutic_event 88 94	effect
-E1	Adverse_event:T7 arg:T8 arg2:T9
-E2	Potential_therapeutic_event:T13 arg:T8
-R1	has_cue Arg1:E2 Arg2:T10	
-R2	has Arg1:T8 Arg2:T14	
-A1	Negated E2

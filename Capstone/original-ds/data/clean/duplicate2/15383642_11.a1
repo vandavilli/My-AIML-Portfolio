@@ -1,8 +1,0 @@
-T8	Subject 20 27	patient
-T9	Treatment 84 114	both lisinopril and tizanidine
-T11	Effect 4 12	reaction
-T13	Drug 89 99	lisinopril
-T14	Drug 104 114	tizanidine
-T17	Treatment 43 64	tizanidine initiation
-T18	Drug 43 53	tizanidine
-T19	Treat-Disorder 4 12	reaction

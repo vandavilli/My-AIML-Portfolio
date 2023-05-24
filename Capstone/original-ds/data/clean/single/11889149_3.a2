@@ -1,4 +1,0 @@
-T11	Potential_therapeutic_event 63 70	effects
-T20	Combination 74 82	combined
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T20 arg:T18 arg2:T19

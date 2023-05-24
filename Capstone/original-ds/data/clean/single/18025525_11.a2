@@ -1,4 +1,0 @@
-T9	Adverse_event 84 99	contraindicated
-T16	Combination 0 16	Coadministration
-E1	Adverse_event:T9 
-E2	Combination:T16 arg:T11 arg2:T13

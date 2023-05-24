@@ -1,4 +1,0 @@
-T11	Adverse_event 93 99	caused
-T17	Combination 71 74	and
-E1	Adverse_event:T11 
-E2	Combination:T17 arg:T15 arg2:T16

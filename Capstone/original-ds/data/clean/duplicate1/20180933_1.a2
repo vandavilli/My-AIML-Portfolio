@@ -1,4 +1,0 @@
-T9	Potential_therapeutic_event 83 92	receiving
-T16	Combination 103 104	-
-E1	Potential_therapeutic_event:T9 
-E2	Combination:T16 arg:T15 arg2:T14

@@ -1,6 +1,0 @@
-T7	Treatment 28 88	concomitant administration of CYP3A inhibitors with fentanyl
-T9	Effect 111 128	drug interactions
-T10	Drug 58 74	CYP3A inhibitors
-T11	Drug 80 88	fentanyl
-T12	Speculation_cue 89 92	may
-T14	Severity_cue 101 110	dangerous

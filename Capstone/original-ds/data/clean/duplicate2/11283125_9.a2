@@ -1,4 +1,0 @@
-T9	Adverse_event 114 120	failed
-T13	Combination 72 77	added
-E1	Adverse_event:T9 
-E2	Combination:T13 arg:T11 arg2:T12

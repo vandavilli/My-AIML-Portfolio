@@ -1,4 +1,0 @@
-T8	Adverse_event 35 39	with
-T9	Combination 65 68	and
-E1	Adverse_event:T8 
-E2	Combination:T9 arg:T10 arg2:T11 arg3:T12

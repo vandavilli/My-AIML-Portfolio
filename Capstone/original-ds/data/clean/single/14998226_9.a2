@@ -1,4 +1,0 @@
-T7	Adverse_event 104 112	resulted
-T13	Combination 61 64	and
-E1	Adverse_event:T7 
-E2	Combination:T13 arg:T11 arg2:T12

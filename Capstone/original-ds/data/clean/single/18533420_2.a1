@@ -1,8 +1,0 @@
-T3	Subject 9 52	A male and a female patient with spasticity
-T4	Sub-Disorder 42 52	spasticity
-T5	Treatment 66 86	intrathecal baclofen
-T6	Effect 111 129	sexual dysfunction
-T8	Gender 11 15	male
-T9	Gender 22 28	female
-T10	Drug 78 86	baclofen
-T11	Route 66 77	intrathecal

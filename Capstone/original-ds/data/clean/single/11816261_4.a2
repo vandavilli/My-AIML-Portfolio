@@ -1,4 +1,0 @@
-T3	Adverse_event 19 25	caused
-T6	Combination 84 95	interaction
-E1	Adverse_event:T3 
-E2	Combination:T6 arg:T7 arg2:T8

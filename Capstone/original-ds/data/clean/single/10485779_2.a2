@@ -1,5 +1,0 @@
-T11	Adverse_event 201 205	lead
-T17	Combination 224 236	interactions
-E1	Adverse_event:T11 
-E3	Combination:T17 arg:T15 arg2:T14
-A1	Speculated E1

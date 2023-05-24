@@ -1,7 +1,0 @@
-T8	Treatment 20 49	intravenous ritodrine therapy
-T9	Effect 95 111	acute chest pain
-T10	Subject 0 9	A patient
-T11	Drug 32 41	ritodrine
-T12	Route 20 31	intravenous
-T13	Treat-Disorder 54 67	preterm labor
-T14	Severity_cue 95 100	acute

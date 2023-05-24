@@ -1,4 +1,0 @@
-T16	Adverse_event 81 87	due to
-T21	Combination 162 164	on
-E1	Adverse_event:T16 
-E2	Combination:T21 arg:T20 arg2:T19

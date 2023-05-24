@@ -1,8 +1,0 @@
-T5	Treatment 20 31	garenoxacin
-T6	Effect 56 93	adverse reactions for cardiac rhythms
-T8	Sub-Disorder 202 213	hypokalemia
-T9	Drug 20 31	garenoxacin
-T7	Negation_cue 50 55	fewer
-T13	Effect 234 237	TdP
-T15	Subject 202 213	hypokalemia
-T16	Speculation_cue 151 159	cautious

@@ -1,4 +1,0 @@
-T9	Adverse_event 23 31	potentia
-T12	Combination 105 119	coadministered
-E1	Adverse_event:T9 
-E2	Combination:T12 arg:T10 arg2:T11

@@ -1,5 +1,0 @@
-T12	Adverse_event 152 160	increase
-T13	Combination 73 76	and
-E1	Adverse_event:T12 
-E2	Combination:T13 arg:T15 arg2:T14
-A1	Speculated E1

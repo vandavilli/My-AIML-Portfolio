@@ -1,9 +1,0 @@
-T15	Adverse_event 102 111	developed
-T17	Potential_therapeutic_event 80 88	resolved
-E1	Adverse_event:T15 arg:T19 arg2:T13 arg3:T22
-E2	Potential_therapeutic_event:T17 arg:T21
-R1	has Arg1:T21 Arg2:T20	
-R2	has Arg1:T21 Arg2:T16	
-R3	has Arg1:T21 Arg2:T18	
-R4	has Arg1:T22 Arg2:T23	
-R5	has Arg1:T22 Arg2:T24	

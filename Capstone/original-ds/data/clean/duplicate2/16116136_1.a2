@@ -1,6 +1,0 @@
-T6	Potential_therapeutic_event 46 53	managed
-T9	Adverse_event 66 75	developed
-E1	Potential_therapeutic_event:T6 arg:T5
-E2	Adverse_event:T9 arg:T3 arg2:T13 arg3:T10
-R1	has Arg1:T5 Arg2:T12	
-R2	has Arg1:T13 Arg2:T11	

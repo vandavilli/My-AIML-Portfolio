@@ -1,4 +1,0 @@
-T20	Potential_therapeutic_event 223 232	treatment
-T23	Combination 200 204	plus
-E1	Potential_therapeutic_event:T20 
-E2	Combination:T23 arg:T22 arg2:T24

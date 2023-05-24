@@ -1,5 +1,0 @@
-T9	Adverse_event 62 74	relationship
-T13	Combination 108 119	interaction
-E1	Adverse_event:T9 
-E2	Combination:T13 arg:T11 arg2:T12
-A1	Speculated E1

@@ -1,7 +1,0 @@
-T4	Effect 0 29	Transient cardiac arrhythmias
-T5	Treatment 41 60	lopinavir/ritonavir
-T6	Subject 64 95	two patients with HIV infection
-T8	Sub-Disorder 82 95	HIV infection
-T9	Population 64 67	two
-T10	Drug 41 50	lopinavir
-T11	Drug 51 60	ritonavir

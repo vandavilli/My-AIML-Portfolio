@@ -1,7 +1,0 @@
-T8	Treatment 156 187	high-dose cytosine arabinoside.
-T9	Effect 56 139	Horner's syndrome and a severe demyelinating peripheral neuropathy leading to death
-T10	Subject 12 41	a patient with acute leukemia
-T12	Treat-Disorder 27 41	acute leukemia
-T13	Severity_cue 27 32	acute
-T14	Drug 166 186	cytosine arabinoside
-T15	Dosage 156 165	high-dose

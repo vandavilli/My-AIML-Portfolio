@@ -1,7 +1,0 @@
-T5	Treatment 96 111	insulin detemir
-T6	Treat-Disorder 167 186	H. pylori infection
-T7	Effect 208 222	adverse events
-T12	Speculation_cue 131 134	may
-T13	Speculation_cue 190 195	avoid
-T14	Severity_cue 196 207	significant
-T15	Drug 96 111	insulin detemir

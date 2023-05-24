@@ -1,4 +1,0 @@
-T7	Adverse_event 144 153	receiving
-T13	Combination 162 165	and
-E1	Adverse_event:T7 
-E2	Combination:T13 arg:T12 arg2:T11

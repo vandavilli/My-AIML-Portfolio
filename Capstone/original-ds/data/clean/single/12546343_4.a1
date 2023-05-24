@@ -1,7 +1,0 @@
-T3	Treatment 30 52	high-dose methotrexate
-T6	Drug 40 52	methotrexate
-T7	Dosage 30 39	high-dose
-T8	Treat-Disorder 59 79	systemic anaphylaxis
-T11	Effect 59 80	systemic anaphylaxis.
-T12	Treatment 30 52	high-dose methotrexate
-T4	Effect 0 26	Successful desensitization

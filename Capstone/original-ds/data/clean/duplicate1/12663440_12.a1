@@ -1,8 +1,0 @@
-T11	Subject 126 186	a small subgroup of patients defined by rhodamine 123 efflux
-T12	Treatment 17 24	quinine
-T13	Drug 17 24	quinine
-T15	Treat-Disorder 166 186	rhodamine 123 efflux
-T17	Negation_cue 30 33	not
-T19	Treat-Disorder 46 89	survival of adult patients with de novo AML
-T14	Treatment 17 24	quinine
-T20	Drug 17 24	quinine

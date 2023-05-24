@@ -1,4 +1,0 @@
-T8	Adverse_event 4 13	presented
-T16	Combination 70 78	addition
-E1	Adverse_event:T8 
-E2	Combination:T16 arg:T14 arg2:T15

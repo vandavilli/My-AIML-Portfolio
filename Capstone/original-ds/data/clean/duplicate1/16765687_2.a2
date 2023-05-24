@@ -1,8 +1,0 @@
-T6	Potential_therapeutic_event 6 16	resolution
-T8	Combination 86 89	and
-T11	Adverse_event 31 38	induced
-E1	Potential_therapeutic_event:T6 arg:T5
-E2	Combination:T8 arg:T9 arg2:T10
-E3	Adverse_event:T11 arg:T12 arg2:T14
-R1	has Arg1:T5 Arg2:T7	
-R2	has_child Arg1:E1 Arg2:E2	

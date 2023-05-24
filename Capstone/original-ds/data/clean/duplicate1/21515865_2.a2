@@ -1,4 +1,0 @@
-T15	Adverse_event 136 141	after
-T21	Combination 152 163	concomitant
-E1	Adverse_event:T15 
-E3	Combination:T21 arg:T17 arg2:T18 arg3:T19 arg4:T16

@@ -1,4 +1,0 @@
-T19	Adverse_event 12 18	taking
-T27	Combination 31 32	-
-E1	Adverse_event:T19 
-E2	Combination:T27 arg:T24 arg2:T25

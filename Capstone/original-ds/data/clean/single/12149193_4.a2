@@ -1,4 +1,0 @@
-T14	Adverse_event 16 25	incidence
-T18	Combination 67 78	combination
-E1	Adverse_event:T14 
-E2	Combination:T18 arg:T19 arg2:T20

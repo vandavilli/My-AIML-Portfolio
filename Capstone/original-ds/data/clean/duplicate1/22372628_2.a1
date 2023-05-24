@@ -1,5 +1,0 @@
-T10	Subject 110 159	patients with uncontrolled partial-onset seizures
-T9	Treatment 16 50;74 106;160 218	long-term (up to 5 years exposure) lacosamide as adjunctive therapy taking one to three concomitant antiepileptic drugs (AEDs)
-T13	Drug 74 84	lacosamide
-T14	Drug 192 218	antiepileptic drugs (AEDs)
-T17	Treat-Disorder 124 159	uncontrolled partial-onset seizures

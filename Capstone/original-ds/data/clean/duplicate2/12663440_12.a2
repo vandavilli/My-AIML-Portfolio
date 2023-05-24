@@ -1,6 +1,0 @@
-T9	Potential_therapeutic_event 106 114	improves
-T19	Potential_therapeutic_event 34 41	improve
-E1	Potential_therapeutic_event:T9 arg:T12 arg2:T10 arg3:T11
-E2	Potential_therapeutic_event:T19 arg:T12 arg2:T20
-R1	has_cue Arg1:E2 Arg2:T15	
-R2	has Arg1:T12 Arg2:T22	

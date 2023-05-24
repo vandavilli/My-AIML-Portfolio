@@ -1,4 +1,0 @@
-T11	Adverse_event 0 9	Decreased
-T15	Combination 71 82	concomitant
-E1	Adverse_event:T11 
-E2	Combination:T15 arg:T13 arg2:T14

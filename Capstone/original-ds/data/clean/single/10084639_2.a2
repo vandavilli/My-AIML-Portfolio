@@ -1,5 +1,0 @@
-T6	Potential_therapeutic_event 65 73	treating
-T12	Adverse_event 98 105	induced
-E1	Potential_therapeutic_event:T6 arg:T3 arg3:T4 arg2:T5
-E2	Adverse_event:T12 arg:T13 arg2:T14
-A1	Speculated E1

@@ -1,6 +1,0 @@
-T8	Adverse_event 53 65	pathogenesis
-T15	Adverse_event 114 124	associated
-E1	Adverse_event:T8 arg:T9 arg2:T7
-E2	Adverse_event:T15 arg:T14 arg2:T13 arg3:T16
-R1	has Arg1:T16 Arg2:T11	
-R2	has Arg1:T7 Arg2:T10	

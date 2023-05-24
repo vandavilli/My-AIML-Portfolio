@@ -1,5 +1,0 @@
-T15	Combination 72 77	added
-T16	Potential_therapeutic_event 132 140	decrease
-E2	Combination:T15 arg:T11 arg2:T12
-E1	Potential_therapeutic_event:T16 
-A1	Negated E1

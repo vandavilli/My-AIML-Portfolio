@@ -1,5 +1,0 @@
-T16	Potential_therapeutic_event 44 53	impairing
-T19	Adverse_event 181 188	induced
-E2	Potential_therapeutic_event:T16 arg:T14 arg2:T11
-E1	Adverse_event:T19 arg:T20 arg2:T18
-R1	has Arg1:T11 Arg2:T12	

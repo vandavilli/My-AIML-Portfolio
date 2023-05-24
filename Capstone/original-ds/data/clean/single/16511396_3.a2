@@ -1,6 +1,0 @@
-T7	Adverse_event 72 88	hypersensitivity
-T8	Adverse_event 118 122	from
-E1	Adverse_event:T7 arg:T4 arg2:T6
-E2	Adverse_event:T8 arg:T11 arg2:T9
-R1	has_cue Arg1:E2 Arg2:T12	
-A1	Speculated E2

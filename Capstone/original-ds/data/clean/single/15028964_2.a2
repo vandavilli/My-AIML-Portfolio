@@ -1,4 +1,0 @@
-T9	Potential_therapeutic_event 39 46	require
-T13	Combination 47 58	concomitant
-E1	Potential_therapeutic_event:T9 
-E2	Combination:T13 arg:T11 arg2:T12

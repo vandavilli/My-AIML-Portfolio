@@ -1,5 +1,0 @@
-T11	Combination 21 32	interaction
-T21	Adverse_event 91 99	reported
-E1	Combination:T11 arg:T12 arg2:T13
-E2	Adverse_event:T21 
-A1	Speculated E2

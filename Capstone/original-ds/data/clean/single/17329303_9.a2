@@ -1,5 +1,0 @@
-T13	Adverse_event 115 123	resolved
-T18	Adverse_event 188 195	produce
-E1	Adverse_event:T13 arg:T10 arg2:T11
-E2	Adverse_event:T18 arg:T19 arg2:T16 arg3:T14
-R1	has_cue Arg1:E2 Arg2:T17	

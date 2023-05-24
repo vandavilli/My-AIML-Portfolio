@@ -1,4 +1,0 @@
-T9	Adverse_event 134 141	because
-T15	Combination 8 17	receiving
-E1	Adverse_event:T9 
-E2	Combination:T15 arg:T10 arg2:T11

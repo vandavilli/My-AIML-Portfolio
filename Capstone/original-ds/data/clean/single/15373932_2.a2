@@ -1,4 +1,0 @@
-T10	Adverse_event 121 127	causes
-T12	Combination 145 157	interactions
-E1	Adverse_event:T10 
-E2	Combination:T12 arg:T13 arg2:T11

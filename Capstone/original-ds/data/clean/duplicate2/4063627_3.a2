@@ -1,5 +1,0 @@
-T5	Adverse_event 106 113	induced
-T8	Combination 129 139	as well as
-E1	Adverse_event:T5 
-E2	Combination:T8 arg:T12 arg2:T10 arg3:T11
-A1	Speculated E1

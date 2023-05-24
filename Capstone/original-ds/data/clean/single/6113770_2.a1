@@ -1,7 +1,0 @@
-T8	Treatment 49 56	lithium
-T9	Drug 49 56	lithium
-T10	Effect 57 77	neuroleptic toxicity
-T12	Effect 85 155	a neuroleptic malignant extrapyramidal syndrome and a lithium toxicity
-T14	Treatment 139 146;168 226	lithium in combination with phenothiazines, primarily thioridazine
-T15	Drug 139 146	lithium
-T17	Drug 188 202	phenothiazines

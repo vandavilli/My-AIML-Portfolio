@@ -1,7 +1,0 @@
-T7	Drug 21 34	levetiracetam
-T8	Treatment 21 34	levetiracetam
-T10	Effect 36 44	seizures
-T11	Treat-Disorder 36 44	seizures
-T12	Treatment 58 96	intravenous loading with valproic acid
-T13	Route 58 69	intravenous
-T15	Drug 83 96	valproic acid

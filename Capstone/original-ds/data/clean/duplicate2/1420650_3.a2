@@ -1,4 +1,0 @@
-T12	Adverse_event 82 87	occur
-T18	Combination 180 191	combination
-E1	Adverse_event:T12 
-E2	Combination:T18 arg:T17 arg2:T16 arg3:T15

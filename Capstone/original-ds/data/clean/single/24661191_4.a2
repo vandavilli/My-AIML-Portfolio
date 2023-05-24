@@ -1,4 +1,0 @@
-T9	Adverse_event 97 104	induced
-T17	Combination 113 124	interaction
-E1	Adverse_event:T9 
-E2	Combination:T17 arg:T15 arg2:T16

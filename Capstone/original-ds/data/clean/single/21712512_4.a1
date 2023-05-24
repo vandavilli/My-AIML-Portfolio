@@ -1,7 +1,0 @@
-T5	Treatment 40 76	inhaled fluticasone 110 μg/actuation
-T6	Subject 20 26;82 89	asthma patient
-T7	Effect 102 130	improvement in lung function
-T9	Treat-Disorder 20 26	asthma
-T10	Drug 48 59	fluticasone
-T11	Route 40 47	inhaled
-T12	Dosage 60 76	110 μg/actuation

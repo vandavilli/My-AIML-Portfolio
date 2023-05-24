@@ -1,6 +1,0 @@
-T3	Subject 61 117	a patient with metastatic gastrointestinal stromal tumor
-T5	Treatment 41 49	imatinib
-T6	Effect 0 27	Fatal venous thrombembolism
-T8	Severity_cue 0 5	Fatal
-T9	Drug 41 49	imatinib
-T10	Treat-Disorder 76 117	metastatic gastrointestinal stromal tumor

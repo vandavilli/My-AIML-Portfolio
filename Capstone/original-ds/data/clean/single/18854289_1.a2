@@ -1,6 +1,0 @@
-T11	Potential_therapeutic_event 144 146	in
-T21	Combination 37 38	/
-T22	Combination 83 84	/
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T21 arg:T16 arg2:T17 arg3:T18
-E3	Combination:T22 arg:T19 arg2:T20

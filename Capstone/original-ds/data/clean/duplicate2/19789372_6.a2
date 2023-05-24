@@ -1,4 +1,0 @@
-T14	Adverse_event 61 69	suffered
-T19	Combination 43 46	and
-E1	Adverse_event:T14 
-E2	Combination:T19 arg:T17 arg2:T18

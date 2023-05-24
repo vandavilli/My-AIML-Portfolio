@@ -1,6 +1,0 @@
-T7	Treatment 96 105	docetaxel
-T8	Effect 89 95;114 132	severe pulmonary toxicity
-T9	Subject 196 238	patients present with respiratory symptoms
-T10	Sub-Disorder 218 238	respiratory symptoms
-T11	Severity_cue 89 95	severe
-T12	Drug 96 105	docetaxel

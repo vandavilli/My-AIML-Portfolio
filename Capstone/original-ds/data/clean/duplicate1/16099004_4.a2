@@ -1,5 +1,0 @@
-T9	Adverse_event 103 113	compromise
-T17	Combination 72 83	interaction
-E1	Adverse_event:T9 
-E2	Combination:T17 arg:T14 arg2:T15
-A1	Speculated E1

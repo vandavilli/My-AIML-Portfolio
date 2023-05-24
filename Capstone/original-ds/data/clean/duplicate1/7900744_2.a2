@@ -1,7 +1,0 @@
-T4	Adverse_event 64 71	induced
-T11	Potential_therapeutic_event 23 32	performed
-E1	Adverse_event:T4 arg:T3 arg2:T5
-E2	Potential_therapeutic_event:T11 arg:T9
-R1	has Arg1:T3 Arg2:T6	
-R2	has Arg1:T9 Arg2:T10	
-R3	has Arg1:T9 Arg2:T8	

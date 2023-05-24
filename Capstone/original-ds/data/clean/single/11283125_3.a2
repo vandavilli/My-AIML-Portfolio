@@ -1,4 +1,0 @@
-T12	Potential_therapeutic_event 179 186	receive
-T25	Combination 332 336	with
-E1	Potential_therapeutic_event:T12 
-E2	Combination:T25 arg:T21 arg2:T22

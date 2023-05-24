@@ -1,4 +1,0 @@
-T11	Adverse_event 64 72	overdose
-T17	Combination 89 92	and
-E1	Adverse_event:T11 
-E2	Combination:T17 arg:T15 arg2:T16

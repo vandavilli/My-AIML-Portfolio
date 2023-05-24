@@ -1,9 +1,0 @@
-T10	Effect 46 66	refractory akathisia
-T12	Treatment 73 99	interferon-alpha treatment
-T13	Drug 73 89	interferon-alpha
-T14	Drug 114 122	levodopa
-T15	Drug 225 242	interferon-alpha.
-T18	Treatment 114 132	levodopa treatment
-T19	Treat-Disorder 195 241	neurotoxicity associated with interferon-alpha
-T20	Treatment 225 241	interferon-alpha
-T22	Effect 195 208	neurotoxicity

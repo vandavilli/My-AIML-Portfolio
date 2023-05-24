@@ -1,4 +1,0 @@
-T6	Potential_therapeutic_event 142 148	reduce
-T11	Combination 96 104	addition
-E1	Potential_therapeutic_event:T6 
-E2	Combination:T11 arg:T9 arg2:T10

@@ -1,5 +1,0 @@
-T5	Adverse_event 84 86	of
-T12	Potential_therapeutic_event 203 211	recovery
-E1	Adverse_event:T5 arg:T3 arg2:T4
-E2	Potential_therapeutic_event:T12 arg:T9
-R1	has Arg1:T9 Arg2:T8	

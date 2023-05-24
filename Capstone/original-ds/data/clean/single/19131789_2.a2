@@ -1,8 +1,0 @@
-T5	Adverse_event 237 242	after
-T13	Potential_therapeutic_event 28 37	recovered
-T21	Combination 114 117	and
-E1	Adverse_event:T5 arg:T3 arg2:T4
-E2	Potential_therapeutic_event:T13 arg:T14
-E3	Combination:T21 arg:T16 arg2:T17 arg3:T18 arg4:T20
-R1	has Arg1:T14 Arg2:T12	
-R3	has_child Arg1:E2 Arg2:E3	

@@ -1,4 +1,0 @@
-T13	Adverse_event 15 24	induction
-T19	Combination 54 57	and
-E1	Adverse_event:T13 
-E2	Combination:T19 arg:T18 arg2:T17 arg3:T16

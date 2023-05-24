@@ -1,4 +1,0 @@
-T5	Adverse_event 20 27	occured
-T10	Combination 73 76	and
-E1	Adverse_event:T5 
-E2	Combination:T10 arg:T8 arg2:T9 arg3:T11

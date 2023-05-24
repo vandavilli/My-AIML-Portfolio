@@ -1,4 +1,0 @@
-T12	Adverse_event 50 58	resulted
-T17	Combination 4 15	combination
-E1	Adverse_event:T12 
-E2	Combination:T17 arg:T15 arg2:T16 arg3:T18

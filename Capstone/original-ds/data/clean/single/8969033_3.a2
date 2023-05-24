@@ -1,4 +1,0 @@
-T10	Adverse_event 41 46	cause
-T15	Combination 4 12	reversal
-E1	Adverse_event:T10 
-E2	Combination:T15 arg:T16 arg2:T17

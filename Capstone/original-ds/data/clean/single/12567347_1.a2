@@ -1,4 +1,0 @@
-T8	Adverse_event 91 102	predisposed
-T14	Combination 75 78	and
-E1	Adverse_event:T8 
-E2	Combination:T14 arg:T15 arg2:T13

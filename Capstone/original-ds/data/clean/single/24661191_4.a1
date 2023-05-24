@@ -1,8 +1,0 @@
-T8	Subject 20 58	a 29-year-old liver transplant patient
-T11	Speculation_cue 85 96	most likely
-T12	Effect 72 84	liver injury
-T13	Age 22 33	29-year-old
-T14	Sub-Disorder 34 50	liver transplant
-T15	Drug 133 145	capecitabine
-T16	Drug 150 158	warfarin
-T10	Treatment 113 158	interaction between capecitabine and warfarin

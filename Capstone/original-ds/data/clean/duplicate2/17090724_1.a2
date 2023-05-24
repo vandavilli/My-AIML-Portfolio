@@ -1,3 +1,0 @@
-T8	Adverse_event 61 68	produce
-E1	Adverse_event:T8 
-A1	Severity E1 Medium

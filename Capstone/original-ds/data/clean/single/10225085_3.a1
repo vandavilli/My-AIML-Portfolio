@@ -1,7 +1,0 @@
-T4	Subject 10 73	a patient with chronic renal failure and ischemic heart disease
-T6	Effect 88 128	clinically significant methemoglobinemia
-T7	Treatment 135 230	an axillary block with bupivacaine and additional injection of lidocaine in the operative field
-T9	Treat-Disorder 25 73	chronic renal failure and ischemic heart disease
-T11	Drug 158 169	bupivacaine
-T12	Drug 198 207	lidocaine
-T13	Route 185 194	injection

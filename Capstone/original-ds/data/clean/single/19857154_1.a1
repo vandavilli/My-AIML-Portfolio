@@ -1,7 +1,0 @@
-T7	Subject 109 121	two patients
-T10	Population 109 112	two
-T11	Severity_cue 11 22	significant
-T12	Drug 70 80	quetiapine
-T13	Drug 85 105	atazanavir-ritonavir
-T6	Treatment 50 105	interaction between quetiapine and atazanavir-ritonavir
-T8	Effect 0 22	Clinically significant

@@ -1,4 +1,0 @@
-T5	Adverse_event 19 26	induced
-T9	Combination 30 43	transitioning
-E1	Adverse_event:T5 
-E2	Combination:T9 arg:T10 arg2:T11

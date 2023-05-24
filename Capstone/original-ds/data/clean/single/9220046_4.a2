@@ -1,4 +1,0 @@
-T4	Adverse_event 80 87	induced
-T10	Combination 61 65	risk
-E1	Adverse_event:T4 
-E2	Combination:T10 arg:T9 arg2:T8

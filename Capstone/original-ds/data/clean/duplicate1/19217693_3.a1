@@ -1,6 +1,0 @@
-T3	Subject 10 49	a patient with type 2 diabetes mellitus
-T6	Effect 177 200	persistent hypoglycemia
-T7	Sub-Disorder 25 49	type 2 diabetes mellitus
-T8	Drug 125 135	etanercept
-T5	Treatment 78 163	antitumor necrosis factor-alpha blocking agent etanercept for severe plaque psoriasis
-T9	Treat-Disorder 140 163	severe plaque psoriasis

@@ -1,4 +1,0 @@
-T4	Adverse_event 61 68	treated
-T11	Combination 256 264	previous
-E1	Adverse_event:T4 
-E2	Combination:T11 arg:T10 arg2:T9

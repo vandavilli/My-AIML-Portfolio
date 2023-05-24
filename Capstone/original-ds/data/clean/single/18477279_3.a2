@@ -1,4 +1,0 @@
-T10	Adverse_event 114 123	presented
-T14	Combination 66 74	addition
-E1	Adverse_event:T10 
-E2	Combination:T14 arg:T13 arg2:T11

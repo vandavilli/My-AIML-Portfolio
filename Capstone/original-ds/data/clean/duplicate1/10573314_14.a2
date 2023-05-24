@@ -1,4 +1,0 @@
-T7	Adverse_event 124 133	initiated
-T14	Combination 84 95	interaction
-E1	Adverse_event:T7 
-E2	Combination:T14 arg:T12 arg2:T13

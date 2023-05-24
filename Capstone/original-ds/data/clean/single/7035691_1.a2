@@ -1,6 +1,0 @@
-T8	Adverse_event 17 26	following
-T16	Potential_therapeutic_event 174 181	treated
-E1	Adverse_event:T8 arg:T10 arg2:T11 arg3:T9
-E2	Potential_therapeutic_event:T16 arg:T17 arg2:T11
-R1	has Arg1:T17 Arg2:T18	
-R2	has Arg1:T10 Arg2:T15	

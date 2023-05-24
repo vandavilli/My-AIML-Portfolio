@@ -1,4 +1,0 @@
-T8	Adverse_event 68 77	secondary
-T10	Combination 93 97	with
-E2	Adverse_event:T8 
-E1	Combination:T10 arg:T9 arg2:T6

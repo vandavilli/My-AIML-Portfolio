@@ -1,7 +1,0 @@
-T6	Treatment 47 86	standard chemotherapy followed by G-CSF
-T7	Effect 101 119	marked monocytosis
-T4	Subject 12 33	a patient with M4 AML
-T9	Treat-Disorder 27 33	M4 AML
-T10	Drug 56 68	chemotherapy
-T11	Drug 81 86	G-CSF
-T12	Time_elapsed 123 128	day 8

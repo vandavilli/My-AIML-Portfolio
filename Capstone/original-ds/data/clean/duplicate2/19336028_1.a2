@@ -1,4 +1,0 @@
-T8	Adverse_event 69 78	treatment
-T12	Combination 50 53	and
-E1	Adverse_event:T8 
-E2	Combination:T12 arg:T10 arg2:T11

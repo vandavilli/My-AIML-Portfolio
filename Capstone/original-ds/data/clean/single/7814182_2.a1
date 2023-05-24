@@ -1,7 +1,0 @@
-T3	Treatment 27 39	dipyridamole
-T5	Effect 48 86	high-grade atrioventricular (AV) block
-T6	Drug 27 39	dipyridamole
-T8	Treat-Disorder 27 86	dipyridamole induced high-grade atrioventricular (AV) block
-T10	Treatment 114 159	intravenous aminophylline but not to atropine
-T11	Drug 114 139	intravenous aminophylline
-T12	Drug 151 159	atropine

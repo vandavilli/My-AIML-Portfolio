@@ -1,8 +1,0 @@
-T3	Treatment 118 128	amiodarone
-T5	Treat-Disorder 140 155	hyperthyroidism
-T6	Subject 159 205	a patient with PTU-induced fulminant hepatitis
-T7	Drug 174 177	PTU
-T9	Drug 118 128	amiodarone
-T11	Effect 186 205	fulminant hepatitis
-T12	Treatment 174 177	PTU
-T13	Sub-Disorder 174 205	PTU-induced fulminant hepatitis

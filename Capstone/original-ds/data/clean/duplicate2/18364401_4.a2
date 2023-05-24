@@ -1,5 +1,0 @@
-T5	Potential_therapeutic_event 80 88	resolved
-T7	Adverse_event 164 169	after
-E1	Potential_therapeutic_event:T5 arg2:T3
-E2	Adverse_event:T7 arg:T6 arg2:T8
-R1	has Arg1:T3 Arg2:T2	

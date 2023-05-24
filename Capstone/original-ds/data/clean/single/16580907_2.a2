@@ -1,4 +1,0 @@
-T13	Adverse_event 89 99	complained
-T23	Combination 124 129	after
-E1	Adverse_event:T13 
-E2	Combination:T23 arg:T22 arg2:T17

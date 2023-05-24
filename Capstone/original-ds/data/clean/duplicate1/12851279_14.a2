@@ -1,4 +1,0 @@
-T11	Potential_therapeutic_event 32 38	effect
-E1	Potential_therapeutic_event:T11 
-A1	Negated E1
-A2	Severity E1 High

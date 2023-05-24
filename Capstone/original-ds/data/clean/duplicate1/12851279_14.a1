@@ -1,6 +1,0 @@
-T8	Subject 65 105	patients with severe sepsis and high INR
-T9	Negation_cue 29 31	no
-T10	Treatment 15 24	tifacogin
-T14	Drug 15 24	tifacogin
-T15	Severity_cue 79 85	severe
-T16	Treat-Disorder 86 105	sepsis and high INR

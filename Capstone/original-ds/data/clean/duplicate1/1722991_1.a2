@@ -1,5 +1,0 @@
-T7	Adverse_event 62 72	associated
-T11	Potential_therapeutic_event 0 10	Usefulness
-E1	Adverse_event:T7 arg:T8 arg2:T9
-E2	Potential_therapeutic_event:T11 arg:T12
-R1	has Arg1:T12 Arg2:T14	

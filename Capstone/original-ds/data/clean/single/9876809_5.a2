@@ -1,3 +1,0 @@
-T8	Adverse_event 117 125	toxicity
-E1	Adverse_event:T8 
-A1	Negated E1

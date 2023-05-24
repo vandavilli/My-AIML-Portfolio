@@ -1,8 +1,0 @@
-T4	Treatment 7 75	3 weeks of beginning continuous daily isoniazid and rifampin therapy
-T5	Treat-Disorder 80 102	pulmonary tuberculosis
-T6	Subject 104 113	a patient
-T8	Effect 124 143	acute renal failure
-T9	Time_elapsed 7 14	3 weeks
-T10	Freq 39 44	daily
-T12	Drug 45 54	isoniazid
-T13	Drug 59 67	rifampin

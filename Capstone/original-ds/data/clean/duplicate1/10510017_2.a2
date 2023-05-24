@@ -1,5 +1,0 @@
-T3	Potential_therapeutic_event 44 54	management
-T10	Adverse_event 18 25	induced
-E1	Potential_therapeutic_event:T3 arg:T9 arg2:T4
-E2	Adverse_event:T10 arg:T11 arg2:T13
-R1	has Arg1:T4 Arg2:T5	

@@ -1,6 +1,0 @@
-T12	Adverse_event 67 70	had
-T15	Adverse_event 127 131	died
-E1	Adverse_event:T12 arg:T7 arg2:T8 arg3:T9
-E2	Adverse_event:T15 arg:T11 arg2:T16 arg3:T8
-R1	has_cue Arg1:E2 Arg2:T17	
-A1	Severity E2 High

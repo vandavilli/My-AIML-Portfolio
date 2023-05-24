@@ -1,7 +1,0 @@
-T9	Drug 35 56	clindamycin phosphate
-T10	Route 57 64	vaginal
-T11	Route 65 70	cream
-T12	Treatment 35 70	clindamycin phosphate vaginal cream
-T13	Speculation_cue 83 91	probable
-T15	Effect 101 105	CDIC
-T8	Effect 165 278	diarrhea and clindamycin administration, lack of concomitant medications, and documentation of C. difficile toxin

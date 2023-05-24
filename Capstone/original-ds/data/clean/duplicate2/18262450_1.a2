@@ -1,4 +1,0 @@
-T8	Potential_therapeutic_event 28 36	enhances
-T10	Combination 52 60	existing
-E1	Potential_therapeutic_event:T8 
-E2	Combination:T10 arg:T12 arg2:T11

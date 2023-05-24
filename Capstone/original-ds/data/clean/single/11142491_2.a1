@@ -1,7 +1,0 @@
-T7	Treatment 147 158;181 234	fludarabine autologous peripheral blood stem-cell transplantation
-T9	Effect 43 46;51 62	AML lung cancer
-T5	Subject 66 140	a patient with previously diagnosed CLL in minimal residual disease status
-T10	Treat-Disorder 102 140	CLL in minimal residual disease status
-T11	Drug 147 158	fludarabine
-T12	Drug 181 218	autologous peripheral blood stem-cell
-T13	Route 219 234	transplantation

@@ -1,7 +1,0 @@
-T4	Effect 12 47	transient panhypogammaglobulinaemia
-T5	Subject 51 86	a patient with neuropsychiatric SLE
-T8	Treatment 108 141	prednisolone and cyclophosphamide
-T10	Drug 108 120	prednisolone
-T11	Drug 125 141	cyclophosphamide
-T13	Treat-Disorder 66 86	neuropsychiatric SLE
-T14	Severity_cue 12 21	transient

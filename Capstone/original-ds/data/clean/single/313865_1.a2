@@ -1,4 +1,0 @@
-T28	Adverse_event 123 131	resulted
-T34	Combination 97 101	with
-E1	Adverse_event:T28 
-E2	Combination:T34 arg:T33 arg2:T32 arg3:T31

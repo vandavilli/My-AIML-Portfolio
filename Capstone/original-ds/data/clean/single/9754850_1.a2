@@ -1,3 +1,0 @@
-T3	Adverse_event 32 40	resolved
-E1	Adverse_event:T3 arg:T4 arg2:T5 arg3:T9 arg4:T9
-E2	Adverse_event:T3 arg:T8 arg2:T5

@@ -1,4 +1,0 @@
-T8	Adverse_event 120 129	developed
-T17	Combination 179 188	treatment
-E1	Adverse_event:T8 
-E2	Combination:T17 arg:T12 arg2:T15

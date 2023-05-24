@@ -1,8 +1,0 @@
-T5	Effect 0 15	Pulmonary edema
-T6	Treatment 25 121	24 hours after intravenous ritodrine therapy and 10 hours after subcutaneous terbutaline therapy
-T7	Time_elapsed 25 33	24 hours
-T8	Route 40 51	intravenous
-T9	Drug 52 61	ritodrine
-T10	Time_elapsed 74 82	10 hours
-T11	Route 89 101	subcutaneous
-T12	Drug 102 113	terbutaline

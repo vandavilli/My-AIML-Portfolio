@@ -1,4 +1,0 @@
-T11	Adverse_event 34 43	following
-T13	Combination 44 61	co-administration
-E2	Adverse_event:T11 
-E1	Combination:T13 arg:T9 arg2:T12

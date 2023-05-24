@@ -1,4 +1,0 @@
-T12	Adverse_event 138 147	developed
-T17	Combination 99 102	and
-E1	Adverse_event:T12 
-E2	Combination:T17 arg:T15 arg2:T16

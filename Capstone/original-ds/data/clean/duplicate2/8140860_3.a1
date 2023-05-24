@@ -1,7 +1,0 @@
-T7	Treatment 0 61	Seven days after the introduction of amoxycillin (500 mg/8 h)
-T8	Subject 100 111	the patient
-T10	Effect 122 162	spontaneous bruising, with an INR of 7.1
-T6	Treat-Disorder 77 98	respiratory infection
-T11	Time_elapsed 0 10	Seven days
-T12	Drug 37 48	amoxycillin
-T13	Dosage 50 60	500 mg/8 h

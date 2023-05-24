@@ -1,5 +1,0 @@
-T9	Adverse_event 145 155	associated
-T14	Combination 112 115	and
-E1	Adverse_event:T9 
-E2	Combination:T14 arg:T11 arg2:T12
-A1	Negated E1

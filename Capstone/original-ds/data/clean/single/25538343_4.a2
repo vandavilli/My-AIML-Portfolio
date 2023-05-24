@@ -1,4 +1,0 @@
-T7	Adverse_event 31 38	induced
-T13	Combination 74 86	treated with
-E1	Adverse_event:T7 
-E2	Combination:T13 arg:T14 arg2:T12

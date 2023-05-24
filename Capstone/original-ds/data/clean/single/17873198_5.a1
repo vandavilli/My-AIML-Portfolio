@@ -1,6 +1,0 @@
-T4	Sub-Disorder 63 98	advanced non-small cell lung cancer
-T5	Treatment 112 121	erlotinib
-T6	Effect 26 44	pulmonary toxicity
-T3	Subject 48 98	a patient with advanced non-small cell lung cancer
-T8	Drug 112 121	erlotinib
-T9	Severity_cue 20 25	fatal

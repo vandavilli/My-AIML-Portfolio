@@ -1,7 +1,0 @@
-T6	Treatment 32 157	32 units of insulin detemir once/day at bedtime and insulin aspart, determined by carbohydrate intake, 3 times/day with meals
-T8	Dosage 32 40	32 units
-T9	Drug 84 98	insulin aspart
-T10	Drug 44 59	insulin detemir
-T11	Freq 60 68	once/day
-T12	Freq 135 146	3 times/day
-T13	Treat-Disorder 4 12	diabetes

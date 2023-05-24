@@ -1,7 +1,0 @@
-T3	Treatment 87 97	amiodarone
-T4	Effect 98 109	pneumonitis
-T6	Drug 87 97	amiodarone
-T8	Treat-Disorder 98 109	pneumonitis
-T9	Treatment 111 187	immediate withdrawal of amiodarone, and prompt but continued steroid therapy
-T10	Drug 172 179	steroid
-T11	Drug 135 145	amiodarone

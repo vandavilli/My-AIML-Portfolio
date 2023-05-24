@@ -1,4 +1,0 @@
-T10	Potential_therapeutic_event 43 60	clinical activity
-T15	Combination 67 75	combined
-E1	Potential_therapeutic_event:T10 
-E2	Combination:T15 arg:T12 arg2:T14

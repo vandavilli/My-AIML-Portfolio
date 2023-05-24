@@ -1,7 +1,0 @@
-T5	Treatment 8 18	tobramycin
-T7	Effect 39 96	recurrent eosinophilia and severe persistent bronchospasm
-T8	Subject 100 130	a patient with cystic fibrosis
-T9	Sub-Disorder 115 130	cystic fibrosis
-T10	Severity_cue 66 72	severe
-T11	Drug 8 18	tobramycin
-T12	Route 0 7	Inhaled

@@ -1,6 +1,0 @@
-T3	Effect 0 28	Acute ocular ischemic change
-T5	Treatment 52 89	intravitreal injection of bevacizumab
-T7	Sub-Disorder 107 148;156 197	vascular compromised diabetic retinopathy underlying stenosis of the carotid artery
-T6	Subject 93 197	patients with vascular compromised diabetic retinopathy and/or underlying stenosis of the carotid artery
-T8	Drug 78 89	bevacizumab
-T9	Dosage 52 74	intravitreal injection

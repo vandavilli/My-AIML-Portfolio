@@ -1,8 +1,0 @@
-T3	Subject 9 46	Two patients with ocular inflammation
-T6	Treatment 104 118	IVTA injection
-T7	Effect 75 97	severe chorioretinitis
-T8	Population 9 12	Two
-T9	Treat-Disorder 27 46	ocular inflammation
-T10	Route 109 118	injection
-T11	Drug 104 108	IVTA
-T12	Severity_cue 75 81	severe

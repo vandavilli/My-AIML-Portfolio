@@ -1,7 +1,0 @@
-T10	Effect 37 43	anuria
-T11	Treatment 62 72;122 131	ifosfamide cisplatin
-T13	Subject 87 96;149 204	a patient with poor kidney perfusion due to transient hypotension
-T14	Sub-Disorder 154 175	poor kidney perfusion
-T15	Speculation_cue 12 19	suspect
-T16	Drug 62 72	ifosfamide
-T17	Drug 122 131	cisplatin

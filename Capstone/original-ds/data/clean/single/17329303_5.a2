@@ -1,3 +1,0 @@
-T14	Adverse_event 3 12	developed
-E2	Adverse_event:T14 arg:T8 arg2:T15 arg3:T10
-R1	has_cue Arg1:E2 Arg2:T13	

@@ -1,4 +1,0 @@
-T4	Adverse_event 47 56	treatment
-T7	Combination 76 79	and
-E1	Adverse_event:T4 
-E2	Combination:T7 arg:T8 arg2:T9

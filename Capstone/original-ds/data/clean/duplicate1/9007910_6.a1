@@ -1,7 +1,0 @@
-T12	Subject 28 83	DPD-deficient patients with severe acute 5-FU reactions
-T13	Treatment 135 144	thymidine
-T15	Effect 176 240	5-FU-induced neurologic symptoms such as encephalopathy and coma
-T17	Drug 135 144	thymidine
-T18	Treat-Disorder 56 83	severe acute 5-FU reactions
-T19	Severity_cue 169 175	severe
-T20	Speculation_cue 157 160	may

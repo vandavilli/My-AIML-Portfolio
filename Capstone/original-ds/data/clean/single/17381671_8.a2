@@ -1,4 +1,0 @@
-T10	Adverse_event 57 68	development
-T16	Combination 182 189	treated
-E1	Adverse_event:T10 
-E2	Combination:T16 arg:T14 arg2:T13 arg3:T15

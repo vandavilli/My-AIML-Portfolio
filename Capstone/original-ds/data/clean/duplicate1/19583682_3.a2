@@ -1,4 +1,0 @@
-T8	Adverse_event 39 46	induced
-T14	Combination 86 98	interactions
-E1	Adverse_event:T8 
-E2	Combination:T14 arg:T15 arg2:T13

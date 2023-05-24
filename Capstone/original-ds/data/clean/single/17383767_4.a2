@@ -1,4 +1,0 @@
-T9	Adverse_event 55 66	resulted in
-T14	Combination 43 54	interaction
-E1	Adverse_event:T9 
-E2	Combination:T14 arg:T17 arg2:T16

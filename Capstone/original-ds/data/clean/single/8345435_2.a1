@@ -1,7 +1,0 @@
-T5	Effect 70 89	hepatotoxic effects
-T9	Drug 106 119	valproic acid
-T3	Severity_cue 64 69	fatal
-T6	Treatment 0 11	L-Carnitine
-T10	Drug 0 11	L-Carnitine
-T11	Treat-Disorder 64 89	fatal hepatotoxic effects
-T12	Treatment 106 119	valproic acid

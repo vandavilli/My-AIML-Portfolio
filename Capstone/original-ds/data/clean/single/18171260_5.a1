@@ -1,8 +1,0 @@
-T9	Effect 12 30	serotonin syndrome
-T10	Treatment 56 65;70 80	linezolid meperidine
-T11	Subject 84 121	a 27-year-old man with acute leukemia
-T12	Sub-Disorder 107 121	acute leukemia
-T14	Age 86 97	27-year-old
-T15	Gender 98 101	man
-T16	Drug 56 65	linezolid
-T17	Drug 70 80	meperidine

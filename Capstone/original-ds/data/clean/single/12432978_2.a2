@@ -1,4 +1,0 @@
-T12	Adverse_event 120 127	treated
-T16	Combination 152 155	and
-E1	Adverse_event:T12 
-E2	Combination:T16 arg:T18 arg2:T17

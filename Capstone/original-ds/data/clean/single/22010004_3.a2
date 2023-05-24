@@ -1,5 +1,0 @@
-T12	Adverse_event 220 225	after
-T26	Combination 242 244	in
-E1	Adverse_event:T12 
-E2	Combination:T26 arg:T19 arg2:T23
-A1	Severity E1 High

@@ -1,6 +1,0 @@
-T12	Subject 120 157	patients with nonmyeloid malignancies
-T13	Sub-Disorder 134 157	nonmyeloid malignancies
-T16	Treat-Disorder 211 267	postchemotherapy platelet nadirs of < or = 20,000/microL
-T11	Treatment 38 116;211 267	recombinant human interleukin-11 (rhIL-11, also known as oprelvekin [Neumega]) postchemotherapy platelet nadirs of < or = 20,000/microL
-T17	Drug 56 70	interleukin-11
-T14	Severity_cue 176 196	significant efficacy

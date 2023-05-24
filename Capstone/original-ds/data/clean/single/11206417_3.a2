@@ -1,5 +1,0 @@
-T11	Adverse_event 161 163	on
-T13	Combination 54 62	combined
-E1	Adverse_event:T11 
-E2	Combination:T13 arg:T14 arg2:T15
-A1	Negated E1

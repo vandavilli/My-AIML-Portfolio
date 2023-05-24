@@ -1,8 +1,0 @@
-T6	Treatment 190 231	a single dose of intravenous methotrexate
-T8	Effect 131 170	cerebral edema and brainstem herniation
-T9	Sub-Disorder 15 40	intracranial osteosarcoma
-T5	Subject 0 40	A patient with intracranial osteosarcoma
-T10	Freq 190 203	a single dose
-T11	Route 207 218	intravenous
-T12	Drug 219 231	methotrexate
-T13	Severity_cue 125 130	fatal

@@ -1,4 +1,0 @@
-T10	Adverse_event 59 66	induced
-T15	Combination 103 106	and
-E1	Adverse_event:T10 
-E2	Combination:T15 arg:T13 arg2:T14

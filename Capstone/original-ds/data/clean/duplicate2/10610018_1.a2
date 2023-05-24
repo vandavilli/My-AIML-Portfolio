@@ -1,6 +1,0 @@
-T4	Potential_therapeutic_event 44 52	resolved
-T12	Adverse_event 29 33	with
-E1	Potential_therapeutic_event:T4 arg:T5 arg2:T8
-E2	Adverse_event:T12 arg:T14 arg2:T13
-R1	has Arg1:T13 Arg2:T11	
-R2	has Arg1:T5 Arg2:T3	

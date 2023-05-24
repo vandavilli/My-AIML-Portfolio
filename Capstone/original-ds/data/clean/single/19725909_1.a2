@@ -1,4 +1,0 @@
-T6	Potential_therapeutic_event 10 17	outcome
-T10	Combination 95 98	and
-E1	Potential_therapeutic_event:T6 
-E2	Combination:T10 arg:T8 arg2:T9

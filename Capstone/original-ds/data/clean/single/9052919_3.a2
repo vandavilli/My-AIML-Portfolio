@@ -1,5 +1,0 @@
-T8	Adverse_event 71 78	produce
-T12	Combination 40 48	together
-E1	Adverse_event:T8 
-E2	Combination:T12 arg:T14 arg2:T13
-A1	Speculated E1

@@ -1,4 +1,0 @@
-T6	Adverse_event 15 20	onset
-T8	Combination 48 51	and
-E1	Adverse_event:T6 
-E2	Combination:T8 arg:T7 arg2:T9

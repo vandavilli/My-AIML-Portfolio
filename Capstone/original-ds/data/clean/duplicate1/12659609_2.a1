@@ -1,5 +1,0 @@
-T7	Effect 38 58	chloroquine toxicity
-T8	Treat-Disorder 78 127	high-grade chloroquine-resistant Plasmodium vivax
-T9	Treatment 38 49	chloroquine
-T11	Drug 38 49	chloroquine
-T12	Severity_cue 31 37	severe

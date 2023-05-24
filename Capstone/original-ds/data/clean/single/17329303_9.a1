@@ -1,9 +1,0 @@
-T11	Effect 97 114	adverse reactions
-T10	Treatment 53 87	discontinuation of methylphenidate
-T12	Drug 72 87	methylphenidate
-T14	Subject 167 179	two patients
-T15	Population 167 170	two
-T16	Treatment 148 163	methylphenidate
-T17	Negation_cue 184 187	not
-T19	Effect 200 241	adverse effect after a drug-free interval
-T20	Drug 148 163	methylphenidate

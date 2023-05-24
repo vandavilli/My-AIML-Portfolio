@@ -1,8 +1,0 @@
-T7	Subject 9 18;135 157	A patient pulmonary tuberculosis
-T9	Treatment 73 130	9-month course of treatment with ethambutol and isoniazid
-T8	Effect 43 64	permanent vision loss
-T13	Time_elapsed 73 87	9-month course
-T14	Drug 106 116	ethambutol
-T15	Drug 121 130	isoniazid
-T17	Treat-Disorder 135 157	pulmonary tuberculosis
-T12	Severity_cue 33 41	dramatic

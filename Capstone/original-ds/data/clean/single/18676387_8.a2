@@ -1,4 +1,0 @@
-T7	Adverse_event 48 59	precipitate
-T13	Combination 4 21	co-administration
-E1	Adverse_event:T7 
-E2	Combination:T13 arg:T11 arg2:T12

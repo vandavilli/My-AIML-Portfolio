@@ -1,4 +1,0 @@
-T12	Adverse_event 85 100	consistent with
-T15	Combination 12 15	and
-E1	Adverse_event:T12 
-E2	Combination:T15 arg:T13 arg2:T14

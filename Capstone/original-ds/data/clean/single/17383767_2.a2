@@ -1,4 +1,0 @@
-T14	Combination 141 144	and
-T9	Potential_therapeutic_event 224 233	necessary
-E1	Combination:T14 arg:T11 arg2:T12
-E2	Potential_therapeutic_event:T9 

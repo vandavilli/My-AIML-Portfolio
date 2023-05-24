@@ -1,4 +1,0 @@
-T9	Adverse_event 93 102	presented
-T15	Combination 187 191	with
-E1	Adverse_event:T9 
-E2	Combination:T15 arg:T13 arg2:T14

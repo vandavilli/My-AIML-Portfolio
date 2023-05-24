@@ -1,4 +1,0 @@
-T6	Adverse_event 43 49	taking
-T10	Combination 61 65	plus
-E1	Adverse_event:T6 
-E2	Combination:T10 arg:T8 arg2:T9

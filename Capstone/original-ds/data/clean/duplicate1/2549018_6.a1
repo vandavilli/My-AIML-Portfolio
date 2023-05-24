@@ -1,9 +1,0 @@
-T3	Subject 0 76	Three patients who had experienced neuroleptic-induced akathisia in the past
-T5	Treatment 107 117	fluoxetine
-T7	Effect 126 135	akathisia
-T8	Population 0 5	Three
-T9	Drug 107 117	fluoxetine
-T10	Treatment 35 46	neuroleptic
-T12	Effect 55 64	akathisia
-T13	Drug 35 46	neuroleptic
-T14	Sub-Disorder 35 64	neuroleptic-induced akathisia

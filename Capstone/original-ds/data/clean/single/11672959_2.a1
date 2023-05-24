@@ -1,6 +1,0 @@
-T10	Subject 71 80;118 148	this case 3-week sulphasalazine syndrome
-T11	Sub-Disorder 118 148	3-week sulphasalazine syndrome
-T12	Effect 176 199	immunoallergic reaction
-T13	Treatment 203 217	sulphasalazine
-T15	Severity_cue 169 174	fatal
-T16	Drug 203 217	sulphasalazine

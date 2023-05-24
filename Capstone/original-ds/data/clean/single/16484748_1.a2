@@ -1,4 +1,0 @@
-T31	Adverse_event 249 258	receiving
-T40	Combination 277 278	-
-E1	Adverse_event:T31 
-E2	Combination:T40 arg:T39 arg2:T38

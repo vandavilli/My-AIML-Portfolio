@@ -1,5 +1,0 @@
-T9	Adverse_event 16 23	induced
-T10	Adverse_event 65 74	secondary
-E1	Adverse_event:T9 arg:T16 arg2:T12 arg3:T8
-E2	Adverse_event:T10 arg:T13 arg2:T11 arg3:T8
-R1	has Arg1:T16 Arg2:T15	

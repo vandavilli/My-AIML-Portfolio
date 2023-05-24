@@ -1,9 +1,0 @@
-T11	Effect 34 141	fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption
-T13	Treatment 165 184	minocycline therapy
-T14	Subject 0 23	A 22-year-old black man
-T15	Age 2 13	22-year-old
-T16	Race 14 19	black
-T17	Time_elapsed 142 149	3 weeks
-T18	Drug 165 184	minocycline therapy
-T19	Treat-Disorder 189 193	acne
-T20	Gender 20 23	man

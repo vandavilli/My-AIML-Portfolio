@@ -1,5 +1,0 @@
-T6	Adverse_event 67 76	developed
-T11	Combination 168 171	and
-E1	Adverse_event:T6 
-E2	Combination:T11 arg:T12 arg2:T13
-A1	Severity E1 High

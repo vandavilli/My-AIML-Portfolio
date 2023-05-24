@@ -1,4 +1,0 @@
-T11	Adverse_event 164 175	experienced
-T14	Combination 79 82	and
-E1	Adverse_event:T11 
-E2	Combination:T14 arg:T22 arg2:T19 arg3:T16

@@ -1,5 +1,0 @@
-T9	Adverse_event 66 71	cause
-T13	Combination 29 32	and
-E1	Adverse_event:T9 
-E2	Combination:T13 arg:T11 arg2:T12
-A1	Speculated E1

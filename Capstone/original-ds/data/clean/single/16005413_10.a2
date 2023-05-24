@@ -1,4 +1,0 @@
-T10	Adverse_event 167 174	lead to
-T13	Combination 138 149	combination
-E1	Adverse_event:T10 
-E2	Combination:T13 arg:T15 arg2:T16 arg3:T14

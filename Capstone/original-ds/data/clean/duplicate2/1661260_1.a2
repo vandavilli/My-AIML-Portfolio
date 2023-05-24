@@ -1,5 +1,0 @@
-T3	Adverse_event 41 49	followed
-T8	Combination 113 116	and
-E1	Adverse_event:T3 
-E2	Combination:T8 arg:T9 arg2:T10
-A1	Speculated E1

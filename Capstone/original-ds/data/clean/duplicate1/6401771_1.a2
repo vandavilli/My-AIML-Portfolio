@@ -1,4 +1,0 @@
-T5	Adverse_event 28 40	complicating
-T11	Combination 63 66	and
-E1	Adverse_event:T5 
-E2	Combination:T11 arg:T9 arg2:T10

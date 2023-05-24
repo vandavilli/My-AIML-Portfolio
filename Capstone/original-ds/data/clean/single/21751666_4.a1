@@ -1,7 +1,0 @@
-T15	Subject 137 181	newly transplanted renal allograft recipient
-T16	Treat-Disorder 29 33	H1N1
-T17	Sub-Disorder 143 171	transplanted renal allograft
-T19	Drug 39 50	oseltamivir
-T12	Treatment 39 50;217 262	oseltamivir without any interaction with tacrolimus level
-T21	Effect 55 89	safe, effective and well tolerated
-T14	Drug 246 256	tacrolimus

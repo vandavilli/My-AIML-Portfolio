@@ -1,6 +1,0 @@
-T8	Subject 0 13	A drug addict
-T10	Treatment 60 71	methicillin
-T12	Effect 87 106;111 135	massive proteinuria acute nephritic syndrome
-T13	Sub-Disorder 2 13	drug addict
-T14	Drug 60 71	methicillin
-T15	Treat-Disorder 19 46	staphylococcal endocarditis

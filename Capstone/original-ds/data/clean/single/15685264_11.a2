@@ -1,4 +1,0 @@
-T15	Potential_therapeutic_event 140 150	medication
-T13	Combination 39 50	interaction
-E2	Potential_therapeutic_event:T15 
-E1	Combination:T13 arg:T16 arg2:T17

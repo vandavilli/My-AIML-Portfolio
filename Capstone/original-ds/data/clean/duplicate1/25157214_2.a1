@@ -1,7 +1,0 @@
-T9	Treatment 45 55	rocuronium
-T10	Effect 64 92	neuromuscular blockade (NMB)
-T11	Drug 45 55	rocuronium
-T12	Treatment 21 31;93 141	sugammadex in the presence of drugs that may potentiate NMB
-T14	Treat-Disorder 45 92	rocuronium-induced neuromuscular blockade (NMB)
-T15	Drug 21 31	sugammadex
-T16	Speculation_cue 142 173	remains to be fully established

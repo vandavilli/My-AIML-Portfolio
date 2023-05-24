@@ -1,8 +1,0 @@
-T3	Subject 0 13	Four patients
-T4	Effect 22 38	pulmonary oedema
-T5	Treatment 49 84	during tocolysis with hexoprenaline
-T7	Population 0 4	Four
-T8	Speculation_cue 153 164	potentially
-T9	Drug 71 84	hexoprenaline
-T10	Severity_cue 165 171	lethal
-T11	Duration 49 65	during tocolysis

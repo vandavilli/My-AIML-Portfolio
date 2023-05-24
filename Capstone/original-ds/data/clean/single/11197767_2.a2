@@ -1,4 +1,0 @@
-T9	Adverse_event 128 135	against
-T14	Combination 47 55	mixtures
-E1	Adverse_event:T9 
-E2	Combination:T14 arg:T16 arg2:T17

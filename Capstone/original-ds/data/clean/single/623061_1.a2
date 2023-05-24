@@ -1,4 +1,0 @@
-T15	Adverse_event 106 115	developed
-T21	Combination 205 216	combination
-E1	Adverse_event:T15 
-E2	Combination:T21 arg:T19 arg2:T20

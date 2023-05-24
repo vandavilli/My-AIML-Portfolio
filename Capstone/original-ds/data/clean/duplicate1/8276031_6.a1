@@ -1,7 +1,0 @@
-T6	Subject 120 128	children
-T7	Treatment 0 11;32 40;44 64;80 104	Imidazoline overdose accidental ingestion normal therapeutic usage
-T8	Effect 12 24	intoxication
-T10	Age 120 128	children
-T11	Drug 0 11	Imidazoline
-T12	Dosage 32 40	overdose
-T13	Route 44 64	accidental ingestion

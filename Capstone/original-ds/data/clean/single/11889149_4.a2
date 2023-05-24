@@ -1,4 +1,0 @@
-T11	Potential_therapeutic_event 73 81	received
-T22	Combination 148 156	combined
-E1	Potential_therapeutic_event:T11 
-E2	Combination:T22 arg:T20 arg2:T18

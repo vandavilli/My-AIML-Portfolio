@@ -1,6 +1,0 @@
-T4	Treat-Disorder 32 75	mitomycin-induced hemolytic-uremic syndrome
-T5	Treatment 0 14	Erythropoietin
-T6	Drug 0 14	Erythropoietin
-T9	Treatment 32 41	mitomycin
-T10	Drug 32 41	mitomycin
-T11	Effect 50 75	hemolytic-uremic syndrome

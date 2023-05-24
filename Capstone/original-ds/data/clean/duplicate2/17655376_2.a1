@@ -1,7 +1,0 @@
-T9	Treatment 0 12	Oral dapsone
-T11	Effect 147 186	dose-dependent haematological reactions
-T12	Route 0 4	Oral
-T13	Drug 5 12	dapsone
-T14	Treat-Disorder 84 97	acne vulgaris
-T16	Treat-Disorder 240 264	dermatitis herpetiformis
-T17	Treat-Disorder 269 285	Hansen's disease

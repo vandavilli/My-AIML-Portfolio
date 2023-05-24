@@ -1,4 +1,0 @@
-T3	Adverse_event 63 70	induced
-T7	Combination 133 147	simultaneously
-E1	Adverse_event:T3 
-E2	Combination:T7 arg:T6 arg2:T8

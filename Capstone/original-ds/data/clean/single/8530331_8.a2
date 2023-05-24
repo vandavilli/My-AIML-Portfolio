@@ -1,6 +1,0 @@
-T14	Potential_therapeutic_event 77 85	treating
-E1	Potential_therapeutic_event:T14 arg:T11 arg2:T10
-E2	Potential_therapeutic_event:T14 arg:T20 arg2:T10
-R1	has Arg1:T20 Arg2:T12	
-R2	has_cue Arg1:E1 Arg2:T13	
-A1	Negated E1

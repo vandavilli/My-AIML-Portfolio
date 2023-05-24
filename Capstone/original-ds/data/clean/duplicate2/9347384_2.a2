@@ -1,7 +1,0 @@
-T19	Adverse_event 71 80	developed
-T24	Potential_therapeutic_event 182 190	resolved
-E1	Adverse_event:T19 arg:T17 arg2:T18 arg3:T20
-E2	Potential_therapeutic_event:T24 arg:T26
-R1	has_cue Arg1:E1 Arg2:T22	
-R2	has Arg1:T26 Arg2:T25	
-A1	Severity E1 High

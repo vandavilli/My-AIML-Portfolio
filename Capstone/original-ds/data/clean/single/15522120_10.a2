@@ -1,4 +1,0 @@
-T6	Potential_therapeutic_event 13 24	disappeared
-T11	Combination 41 44	and
-E1	Potential_therapeutic_event:T6 
-E2	Combination:T11 arg:T10 arg2:T9

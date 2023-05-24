@@ -1,5 +1,0 @@
-T10	Adverse_event 70 77	treated
-T15	Combination 92 95	and
-E1	Adverse_event:T10 
-E2	Combination:T15 arg:T13 arg2:T14
-A1	Severity E1 High

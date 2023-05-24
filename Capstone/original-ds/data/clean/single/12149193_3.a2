@@ -1,4 +1,0 @@
-T16	Adverse_event 192 202	associated
-T14	Combination 149 160	combination
-E2	Adverse_event:T16 
-E1	Combination:T14 arg:T12 arg2:T18

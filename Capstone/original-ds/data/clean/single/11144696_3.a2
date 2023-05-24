@@ -1,4 +1,0 @@
-T9	Potential_therapeutic_event 54 61	treated
-T14	Combination 88 91	and
-E1	Potential_therapeutic_event:T9 
-E2	Combination:T14 arg:T15 arg2:T16

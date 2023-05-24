@@ -1,5 +1,0 @@
-T10	Adverse_event 90 97	leading
-T11	Combination 43 52	interfere
-E1	Adverse_event:T10 
-E2	Combination:T11 arg:T12 arg2:T13
-A1	Speculated E1

@@ -1,6 +1,0 @@
-T4	Effect 0 27	Extrapyramidal side effects
-T6	Treatment 39 123	some selective serotonin reuptake inhibitors (SSRIs), i.e. fluoxetine and sertraline
-T7	Subject 158 222	patients with depression and obsessive-compulsive disorder (OCD)
-T9	Drug 98 108	fluoxetine
-T10	Drug 113 123	sertraline
-T12	Treat-Disorder 172 222	depression and obsessive-compulsive disorder (OCD)

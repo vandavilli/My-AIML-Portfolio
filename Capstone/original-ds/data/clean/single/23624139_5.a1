@@ -1,9 +1,0 @@
-T10	Treatment 84 213	ketoprofen intake (200 mg/day for the last 3 days) concomitant with DDAVP replacement therapy (Minirin(®) 60 mcg 4 tablets a day)
-T11	Effect 52 70;253 349	water intoxication the severe euvolemic hypotonic hyponatremia (natremia 113 mEq/l, plasma osmolality 238 mOsm/Kg).
-T12	Drug 84 94	ketoprofen
-T13	Dosage 103 113	200 mg/day
-T15	Drug 152 157	DDAVP
-T17	Dosage 190 212	60 mcg 4 tablets a day
-T19	Route 199 206	tablets
-T20	Speculation_cue 218 230	hypothesized
-T21	Severity_cue 257 263	severe

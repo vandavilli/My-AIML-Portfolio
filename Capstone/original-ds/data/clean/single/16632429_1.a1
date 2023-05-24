@@ -1,7 +1,0 @@
-T10	Subject 24 82	lung cancer patient with bronquiloalveolar carcinoma (BAC)
-T11	Effect 99 103	BOOP
-T12	Treatment 110 153	chemotherapy with docetaxel and gemcitabine
-T15	Sub-Disorder 24 35	lung cancer
-T16	Drug 128 137	docetaxel
-T17	Drug 142 153	gemcitabine
-T19	Treat-Disorder 49 82	bronquiloalveolar carcinoma (BAC)

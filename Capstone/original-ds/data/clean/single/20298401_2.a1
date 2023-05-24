@@ -1,7 +1,0 @@
-T12	Treatment 23 32	gefitinib
-T13	Drug 23 32	gefitinib
-T14	Treat-Disorder 59 85	non-small-cell lung cancer
-T15	Effect 111 142	interstitial lung disease (ILD)
-T17	Treatment 164 173	erlotinib
-T18	Drug 164 173	erlotinib
-T19	Effect 182 185	ILD

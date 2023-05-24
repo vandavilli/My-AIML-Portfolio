@@ -1,4 +1,0 @@
-T6	Adverse_event 19 24	after
-T11	Combination 25 36	concomitant
-E1	Adverse_event:T6 
-E2	Combination:T11 arg:T9 arg2:T10

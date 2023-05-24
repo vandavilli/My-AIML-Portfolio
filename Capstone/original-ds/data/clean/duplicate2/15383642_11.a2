@@ -1,8 +1,0 @@
-T15	Combination 84 88	both
-T12	Adverse_event 37 42	after
-T20	Potential_therapeutic_event 69 77	improved
-E2	Combination:T15 arg:T13 arg2:T14
-E1	Adverse_event:T12 arg:T17 arg2:T8 arg3:T11
-E3	Potential_therapeutic_event:T20 arg:T9 arg2:T8
-R1	has Arg1:T9 Arg2:T19	
-R2	has_child Arg1:E3 Arg2:E2	

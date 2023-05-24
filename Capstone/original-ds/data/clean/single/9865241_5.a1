@@ -1,7 +1,0 @@
-T5	Treatment 21 32	pamidronate
-T7	Treat-Disorder 37 108	acute, severe hypercalcemia secondary to iatrogenic vitamin D poisoning
-T8	Drug 89 98	vitamin D
-T9	Severity_cue 44 50	severe
-T11	Drug 21 32	pamidronate
-T12	Effect 51 64	hypercalcemia
-T14	Treatment 89 98	vitamin D

@@ -1,8 +1,0 @@
-T3	Treatment 120 134	oral etoposide
-T5	Effect 30 35	t-AML
-T6	Subject 54 91	a child with metastatic neuroblastoma
-T7	Age 56 61	child
-T9	Time_elapsed 92 101	18 months
-T10	Route 120 124	oral
-T11	Drug 125 134	etoposide
-T12	Treat-Disorder 67 91	metastatic neuroblastoma

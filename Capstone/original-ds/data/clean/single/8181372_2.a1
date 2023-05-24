@@ -1,6 +1,0 @@
-T4	Effect 26 56	acute interstitial pneumonitis
-T5	Subject 60 69;101 118	a patient for a brain tumor
-T7	Treatment 83 100	carmustine (BCNU)
-T9	Drug 83 100	carmustine (BCNU)
-T10	Treat-Disorder 105 118	a brain tumor
-T11	Severity_cue 12 17	fatal

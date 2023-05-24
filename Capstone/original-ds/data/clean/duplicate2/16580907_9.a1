@@ -1,7 +1,0 @@
-T14	Subject 152 185	patients with renal insufficiency
-T16	Effect 51 62	arrhythmias
-T17	Treatment 9 19;204 216	cetirizine pilsicainide
-T20	Drug 9 19	cetirizine
-T21	Drug 204 216	pilsicainide
-T23	Treat-Disorder 166 185	renal insufficiency
-T18	Speculation_cue 29 38	potential

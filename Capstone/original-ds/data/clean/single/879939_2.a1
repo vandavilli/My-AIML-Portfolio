@@ -1,9 +1,0 @@
-T9	Effect 7 19	osteomalacia
-T10	Subject 35 57	two epileptic patients
-T11	Treatment 111 120;122 135;141 154	phenytoin phenobarbital acetazolamide
-T13	Population 35 38	two
-T14	Sub-Disorder 39 48	epileptic
-T15	Drug 111 120	phenytoin
-T16	Drug 122 135	phenobarbital
-T17	Drug 141 154	acetazolamide
-T19	Severity_cue 0 6	Severe
