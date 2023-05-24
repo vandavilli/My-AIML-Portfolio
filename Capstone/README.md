@@ -40,7 +40,11 @@ Ongoing monitoring and evaluation of the deployed models ensure their effectiven
 By following the CRISP-DM Methodology, the project leveraged NLP techniques to distinguish between AEs and PTEs, providing valuable insights for pharmacovigilance analysis and improving medication safety.
 
 #### Results
-*The project is ongoing, and additional results will be added as the model matures.*
+*Part - 1 EDA Report*
+
+*Part - 2 Model Generation*
+
+*Part - 3 Next Steps with PharmacoVigilance dataset*
 
 #### Next Steps
 Future enhancements include:
