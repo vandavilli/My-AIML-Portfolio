@@ -51,14 +51,14 @@ These improvements will contribute to a more accurate and comprehensive analysis
 
 #### Outline of the Project
 
-1. [Exploratory Data Analysis (EDA)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pharmacovigilance-main/eda.ipynb)
+1. [Exploratory Data Analysis (EDA)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_eda.ipynb)
    - In-depth analysis of the PharmacoVigilance dataset.
 
-2. [Sentiment Analysis Model](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/model.ipynb)
+2. [Sentiment Analysis Model](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_model.ipynb)
    - Sentiment analysis model to analyze sentiments in the dataset.
 
-3. [Classification Reports & Scoring Metrics](https://github.com/vandavilli/BH-PCMLAI-VA/blob/main/Capstone/pharmacovigilance-main/scoring.ipynb)
-   - Evaluate the model's performance using classification reports and scoring metrics.
+3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
+   - Using Transformers, XGBoost & other features.
 
 #### Contact and Further Information
 
