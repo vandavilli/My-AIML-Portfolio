@@ -42,6 +42,30 @@ By following the CRISP-DM Methodology, the project leveraged NLP techniques to d
 #### Results
 *Part - 1 EDA Report*
 
+1. **Distribution Analysis:** Adverse Events, Therapeutic Events, and Dual-Impact Drugs:
+This analysis examines the occurrence of adverse events and potential therapeutic events related to specific drugs, providing insights into the balance between desired therapeutic effects and undesired adverse effects.
+
+2. Unveiling Hidden Signals: Utilizing the 'analyze_rare_words' Function for In-depth Pharmacovigilance Analysis and Adverse Drug Reaction Detection:
+By leveraging the 'analyze_rare_words' function, this analysis uncovers rare signals in pharmacovigilance data, shedding light on diverse adverse drug events, different therapies involved, and rare or unusual reactions.
+
+3. Class Imbalance: A Visual Examination of Adverse Drug Events (ADEs) and Potential Therapeutic Events (PTEs):
+This analysis focuses on the significant class imbalance between adverse drug events (ADEs) and potential therapeutic events (PTEs), highlighting the implications for sentiment analysis and the need for a comprehensive understanding of both adverse and therapeutic effects.
+
+4. KDE Plots:
+KDE plots are used to visualize sentiment distribution, text characteristics (character count, word count, sentence count), and linguistic patterns. These plots offer valuable insights into the prevalence of negative sentiments and the variability of text length.
+
+5. Unveiling Insights by Leveraging Data Analysis for Actionable Pharmacovigilance Intelligence:
+This analysis aims to extract actionable insights from pharmacovigilance data by analyzing sentiment distribution, emphasizing the importance of negative mention detection, and exploring the potential for positive sentiments in understanding treatment outcomes and favorable patient responses.
+
+6. Extracted n-grams:
+By extracting n-grams from the data, this analysis identifies significant patterns of words associated with positive and negative sentiments, shedding light on health conditions, drug effects, and the occurrence of adverse events. These insights aid in understanding sentiment analysis and adverse drug reaction detection.
+
+7. Parts of speech analysis:
+This analysis examines the usage of adjectives, adverbs, nouns, and verbs in pharmacovigilance reports, revealing patterns in language expression related to adverse events and drug effects. It provides valuable insights into the linguistic characteristics of pharmacovigilance data.
+
+8. Calculating Lexical Diversity:
+By calculating the lexical diversity of ADE and PTE sentiments, this analysis explores the variation in word usage within each sentiment category. It provides insights into the richness and diversity of language used to describe adverse events and potential therapeutic effects.
+
 *Part - 2 Model Generation*
 
 *Part - 3 Next Steps with PharmacoVigilance dataset*
