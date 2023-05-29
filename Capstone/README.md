@@ -80,7 +80,7 @@ By calculating the lexical diversity of ADE and PTE sentiments, this analysis ex
 
 In conclusion: Although the rebalanced model's performance may seem to be lower, it's important to understand that it was optimized for the real-world use case – pharmacovigilance, where identifying both PTE and ADE instances accurately is critical. If we only focus on high accuracy, we risk missing important PTE instances, which could lead to less informed healthcare decisions.
 
-*Part - 3 Next Steps with PharmacoVigilance dataset* --- Work In Progress ---
+*Part - 3 Next Steps with PharmacoVigilance dataset* --- **Work In Progress** ---
 
 #### Improvements
 Future enhancements include:
@@ -98,7 +98,7 @@ These improvements will contribute to a more accurate and comprehensive analysis
    - Sentiment analysis model to analyze sentiments in the dataset.
 
 3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
-   - *Using Transformers, XGBoost & other features* (IN_PROGRESS).
+   - *Using Transformers, XGBoost & other features* (**IN_PROGRESS**).
 
 4. [Presentation](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
    - Presentation deck for stakeholders.
