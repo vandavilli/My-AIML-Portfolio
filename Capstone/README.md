@@ -100,7 +100,7 @@ These improvements will contribute to a more accurate and comprehensive analysis
 3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
    - *Using Transformers, XGBoost & other features* (**IN_PROGRESS**).
 
-4. [Presentation](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
+4. [Click here for Presentation (in PDF)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
    - Presentation deck for stakeholders.
 
 #### Contact and Further Information
