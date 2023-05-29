@@ -80,8 +80,7 @@ By calculating the lexical diversity of ADE and PTE sentiments, this analysis ex
 
 In conclusion: Although the rebalanced model's performance may seem to be lower, it's important to understand that it was optimized for the real-world use case – pharmacovigilance, where identifying both PTE and ADE instances accurately is critical. If we only focus on high accuracy, we risk missing important PTE instances, which could lead to less informed healthcare decisions.
 
-*Part - 3 Next Steps with PharmacoVigilance dataset*
-<Work in progress>
+*Part - 3 Next Steps with PharmacoVigilance dataset* --- Work In Progress ---
 
 #### Improvements
 Future enhancements include:
