@@ -86,9 +86,10 @@ These improvements will contribute to a more accurate and comprehensive analysis
    - Sentiment analysis model to analyze sentiments in the dataset.
 
 3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
-   - *Using Transformers, XGBoost & other features* (IN_PROGRESS.
+   - *Using Transformers, XGBoost & other features* (IN_PROGRESS).
 
-4. [Presentation](https://github.com/vandavilli/My-AIML-Portfolio/edit/main/Capstone/README.md#:~:text=PharmacoVigilance%2DFinal.key-,PharmacoVigilance,-%2DFinal.pdf)
+4. [Presentation](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
+   - Presentation deck for stakeholders.
 
 #### Contact and Further Information
 
