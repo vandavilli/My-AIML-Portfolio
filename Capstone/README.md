@@ -68,9 +68,21 @@ By calculating the lexical diversity of ADE and PTE sentiments, this analysis ex
 
 *Part - 2 Model Generation*
 
-*Part - 3 Next Steps with PharmacoVigilance dataset*
+1. **Multinomial Naive Bayes model:** Multinomial Naive Bayes is a variant of the classic Naive Bayes model, which has been widely used for text classification problems. The model was trained to classify text into either potential therapeutic effects (PTE) or adverse drug events (ADE).
 
-#### Next Steps
+2. **Performance before rebalancing:** Before we addressed the class imbalance issue, the model was heavily biased towards the ADE class, which was the majority. This resulted in high overall accuracy (~91%) due to the model's excellent performance at identifying ADE instances. However, the model struggled to identify PTE instances, thus it was not performing as well.
+
+3. **Performance after rebalancing:** Using SMOTE to balance the dataset resulted in a decrease in the overall accuracy (~62%),but the model's ability to identify PTE instances improved significantly.
+
+4. **The trade-off:** The trade-off made in balancing the classes was intended to ensure that the model could identify both PTE and ADE instances effectively. Though the overall accuracy dropped, it's important to remember that the objective in this scenario is not just to achieve high accuracy, but also to effectively identify both PTE and ADE instances.
+
+5. **Metrics comparison:** While precision remained consistent (~92%), other metrics like recall, F1 score and the ROC AUC score were adversely impacted after rebalancing. This indicated that the model was not performing as well in terms of balancing the identification of PTE and ADE instances.
+
+In conclusion: Although the rebalanced model's performance may seem to be lower, it's important to understand that it was optimized for the real-world use case – pharmacovigilance, where identifying both PTE and ADE instances accurately is critical. If we only focus on high accuracy, we risk missing important PTE instances, which could lead to less informed healthcare decisions.
+
+*Part - 3 Next Steps with PharmacoVigilance dataset* (**IN_PROGRESS**)
+
+#### Improvements
 Future enhancements include:
 1. Refining multi-event subset detection.
 2. Integrating contextual information such as patient demographics and medical history.
@@ -86,7 +98,10 @@ These improvements will contribute to a more accurate and comprehensive analysis
    - Sentiment analysis model to analyze sentiments in the dataset.
 
 3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
-   - Using Transformers, XGBoost & other features.
+   - *Using Transformers, XGBoost & other features* (**IN_PROGRESS**).
+
+4. [Click here for Presentation (in PDF)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
+   - Presentation deck for stakeholders.
 
 #### Contact and Further Information
 
