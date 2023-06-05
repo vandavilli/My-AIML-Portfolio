@@ -20,7 +20,7 @@
 <b>encoding</b>
 - https://medium.com/mlearning-ai/category-encoders-c2a9bb192f0a
 
-# Course Links
+### Course Links
 
 ## Stanford University
 - [CS221 - Artificial Intelligence: Principles and Techniques](https://lnkd.in/grECwbD4) by Percy Liang and Dorsa Sadigh
