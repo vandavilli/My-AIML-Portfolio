@@ -97,8 +97,8 @@ These improvements will contribute to a more accurate and comprehensive analysis
 2. [Sentiment Analysis Model](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_model.ipynb)
    - Sentiment analysis model to analyze sentiments in the dataset.
 
-3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
-   - *Using Transformers, XGBoost & other features* (**IN_PROGRESS**).
+3. [Additional Analysis](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_cosine_similarity.ipynb & https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-cnn.ipynb)
+   - Using Cosine Similarity, XGBoost & CNN to perform Pharmacovigilance analysis.
 
 4. [Click here for Presentation (in PDF)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
    - Presentation deck for stakeholders.
