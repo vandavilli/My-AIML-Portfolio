@@ -99,6 +99,22 @@ Future enhancements include:
 
 These improvements will contribute to a more accurate and comprehensive analysis of ADEs and PTEs in pharmacovigilance.
 
+#### Recommendation
+
+Based on the analysis conducted and considering the real-world scenario where patient safety is of utmost importance, it is recommended to use a combination of techniques for optimal results. The following approach can be taken:
+
+1. **Data Preparation:** Ensure that relevant data has been collected, addressing the class imbalance issue to improve model performance.
+
+2. **Advanced Technique:** Utilize a more sophisticated technique such as Convolutional Neural Network (CNN) to analyze the pharmacovigilance dataset. CNN has shown promising results in accurately identifying positive cases (PTE) and effectively discriminating between positive and negative cases (PTE and ADE).
+
+3. **Ensemble Learning:** Consider employing ensemble learning techniques, such as combining multiple models like XGBoost and Multinomial Naive Bayes, to leverage the strengths of each algorithm and improve overall performance.
+
+4. **Regular Model Evaluation:** Continuously evaluate the model's performance using appropriate metrics such as precision, recall, F1 score, and AUC-ROC. This ensures that the model maintains a balance between accuracy, precision, and recall, allowing for effective identification of potential therapeutic effects and adverse drug events.
+
+5. **Iterative Improvement:** Regularly update and refine the model based on new data and emerging patterns. This iterative process helps in continuously improving the model's performance and keeping up with evolving pharmacovigilance requirements.
+
+In summary, in a real-world scenario where patient safety is paramount, it is recommended to employ advanced techniques such as CNN and ensemble learning, while ensuring continuous evaluation and improvement of the model. This comprehensive approach aims to accurately identify potential therapeutic effects and adverse drug events, ultimately supporting informed healthcare decisions and prioritizing patient safety.
+
 #### Outline of the Project
 
 1. [Exploratory Data Analysis (EDA)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_eda.ipynb)
