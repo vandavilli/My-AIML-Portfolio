@@ -16,7 +16,7 @@ This project focuses on improving the detection and understanding of adverse dru
 
 #### Data Sources
 - [PHEE: A Dataset for Pharmacovigilance Event Extraction from Text](https://zenodo.org/record/7689970#.ZF1X3-zMLnQ)
-- ## BioWordVec Model
+- #### BioWordVec Model
 
 The BioWordVec model is a pre-trained word embedding model specifically designed for biomedical natural language processing tasks. It was trained on a large corpus of biomedical literature, including PubMed and MIMIC-III datasets. 
 You can download the BioWordVec model file from the [official FTP server](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin).
