@@ -125,7 +125,7 @@ In summary, in a real-world scenario where patient safety is paramount, it is re
 
 3. Additional Analysis
    - Using Cosine Similarity & XGBoost (https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_cosine_similarity.ipynb) 
-   - CNN (https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-cnn.ipynb)
+   - CNN (https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_cnn.ipynb)
 
 4. [Click here for Presentation (in PDF)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
    - Presentation deck for stakeholders.
