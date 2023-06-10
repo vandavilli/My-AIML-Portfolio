@@ -90,6 +90,7 @@ In conclusion: Although the rebalanced model's performance may seem to be lower,
 
 2. **The utilization of XGBoost**, a powerful machine learning algorithm, improved the classification accuracy and performance of the model. It effectively learned from the data to distinguish between PTE and ADE instances, enabling more accurate predictions and identification of drug-related effects.
 
+3. **The CNN analysis** yielded a precision of 0.91, recall of 1.00, F1 score of 0.95, and AUC-ROC score of 0.63, indicating accurate identification of positive cases (PTE), a good balance between precision and recall, and effective discrimination between positive and negative cases (PTE and ADE).This analysis using CNN ensures accurate identification of positive cases, minimizing false positives, enhancing patient safety, and supporting evidence-based decision-making in pharmacovigilance while effectively allocating resources.
 
 #### Improvements
 Future enhancements include:
