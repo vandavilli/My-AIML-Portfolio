@@ -16,6 +16,10 @@ This project focuses on improving the detection and understanding of adverse dru
 
 #### Data Sources
 - [PHEE: A Dataset for Pharmacovigilance Event Extraction from Text](https://zenodo.org/record/7689970#.ZF1X3-zMLnQ)
+- #### BioWordVec Model
+
+The BioWordVec model is a pre-trained word embedding model specifically designed for biomedical natural language processing tasks. It was trained on a large corpus of biomedical literature, including PubMed and MIMIC-III datasets. 
+You can download the BioWordVec model file from the [official FTP server](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin).
 
 #### Pharmacovigilance NLP Analysis
 
@@ -80,7 +84,13 @@ By calculating the lexical diversity of ADE and PTE sentiments, this analysis ex
 
 In conclusion: Although the rebalanced model's performance may seem to be lower, it's important to understand that it was optimized for the real-world use case – pharmacovigilance, where identifying both PTE and ADE instances accurately is critical. If we only focus on high accuracy, we risk missing important PTE instances, which could lead to less informed healthcare decisions.
 
-*Part - 3 Next Steps with PharmacoVigilance dataset* (**IN_PROGRESS**)
+*Part - 3 Next Steps with PharmacoVigilance dataset*
+
+1. **By leveraging Cosine Similarity**, we were able to measure the similarity between different pieces of text, enabling the identification of patterns and associations within the pharmacovigilance dataset. This technique helped in identifying related instances and establishing connections between drugs and their potential effects.
+
+2. **The utilization of XGBoost**, a powerful machine learning algorithm, improved the classification accuracy and performance of the model. It effectively learned from the data to distinguish between PTE and ADE instances, enabling more accurate predictions and identification of drug-related effects.
+
+3. **The CNN analysis** yielded a precision of 0.91, recall of 1.00, F1 score of 0.95, and AUC-ROC score of 0.63, indicating accurate identification of positive cases (PTE), a good balance between precision and recall, and effective discrimination between positive and negative cases (PTE and ADE).This analysis using CNN ensures accurate identification of positive cases, minimizing false positives, enhancing patient safety, and supporting evidence-based decision-making in pharmacovigilance while effectively allocating resources.
 
 #### Improvements
 Future enhancements include:
@@ -88,6 +98,22 @@ Future enhancements include:
 2. Integrating contextual information such as patient demographics and medical history.
 
 These improvements will contribute to a more accurate and comprehensive analysis of ADEs and PTEs in pharmacovigilance.
+
+#### Recommendation
+
+Based on the analysis conducted and considering the real-world scenario where patient safety is of utmost importance, it is recommended to use a combination of techniques for optimal results. The following approach can be taken:
+
+1. **Data Preparation:** Ensure that relevant data has been collected, addressing the class imbalance issue to improve model performance.
+
+2. **Advanced Technique:** Utilize a more sophisticated technique such as Convolutional Neural Network (CNN) to analyze the pharmacovigilance dataset. CNN has shown promising results in accurately identifying positive cases (PTE) and effectively discriminating between positive and negative cases (PTE and ADE).
+
+3. **Ensemble Learning:** Consider employing ensemble learning techniques, such as combining multiple models like XGBoost and Multinomial Naive Bayes, to leverage the strengths of each algorithm and improve overall performance.
+
+4. **Regular Model Evaluation:** Continuously evaluate the model's performance using appropriate metrics such as precision, recall, F1 score, and AUC-ROC. This ensures that the model maintains a balance between accuracy, precision, and recall, allowing for effective identification of potential therapeutic effects and adverse drug events.
+
+5. **Iterative Improvement:** Regularly update and refine the model based on new data and emerging patterns. This iterative process helps in continuously improving the model's performance and keeping up with evolving pharmacovigilance requirements.
+
+In summary, in a real-world scenario where patient safety is paramount, it is recommended to employ advanced techniques such as CNN and ensemble learning, while ensuring continuous evaluation and improvement of the model. This comprehensive approach aims to accurately identify potential therapeutic effects and adverse drug events, ultimately supporting informed healthcare decisions and prioritizing patient safety.
 
 #### Outline of the Project
 
@@ -97,8 +123,9 @@ These improvements will contribute to a more accurate and comprehensive analysis
 2. [Sentiment Analysis Model](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_model.ipynb)
    - Sentiment analysis model to analyze sentiments in the dataset.
 
-3. [Next Steps](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_next.ipynb)
-   - *Using Transformers, XGBoost & other features* (**IN_PROGRESS**).
+3. Additional Analysis
+   - Using Cosine Similarity & XGBoost (https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-main/pv_cosine_similarity.ipynb) 
+   - CNN (https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/pv-cnn.ipynb)
 
 4. [Click here for Presentation (in PDF)](https://github.com/vandavilli/My-AIML-Portfolio/blob/main/Capstone/presentation/PharmacoVigilance-Final.pdf)
    - Presentation deck for stakeholders.
