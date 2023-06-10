@@ -84,7 +84,12 @@ By calculating the lexical diversity of ADE and PTE sentiments, this analysis ex
 
 In conclusion: Although the rebalanced model's performance may seem to be lower, it's important to understand that it was optimized for the real-world use case – pharmacovigilance, where identifying both PTE and ADE instances accurately is critical. If we only focus on high accuracy, we risk missing important PTE instances, which could lead to less informed healthcare decisions.
 
-*Part - 3 Next Steps with PharmacoVigilance dataset* (**IN_PROGRESS**)
+*Part - 3 Next Steps with PharmacoVigilance dataset*
+
+1. **By leveraging Cosine Similarity**, we were able to measure the similarity between different pieces of text, enabling the identification of patterns and associations within the pharmacovigilance dataset. This technique helped in identifying related instances and establishing connections between drugs and their potential effects.
+
+2. **The utilization of XGBoost**, a powerful machine learning algorithm, improved the classification accuracy and performance of the model. It effectively learned from the data to distinguish between PTE and ADE instances, enabling more accurate predictions and identification of drug-related effects.
+
 
 #### Improvements
 Future enhancements include:
